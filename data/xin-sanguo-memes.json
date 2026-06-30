@@ -1,18 +1,36 @@
 {
   "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
-  "updated_at": "2026-06-30T00:00:00Z",
+  "updated_at": "2026-06-30T07:09:20Z",
   "items": [
     {
       "id": "xsg-worldview-tianyi",
       "title": "天意",
       "item_type": "meme",
       "summary": "用于解释新三国剧情突然拐弯、人物突然被安排、历史线被强行拨动的核心世界观梗。",
-      "aliases": ["天意学", "天意爷"],
-      "tags": ["新三国", "折棒", "世界观", "理论梗", "天意学", "回复"],
-      "tone": ["解释", "吐槽", "抽象"],
+      "aliases": [
+        "天意学",
+        "天意爷"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "天意学",
+        "回复"
+      ],
+      "tone": [
+        "解释",
+        "吐槽",
+        "抽象"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["解释强行剧情", "吐槽角色被剧情推着走", "把离谱桥段归因给天意"],
+      "usage": [
+        "解释强行剧情",
+        "吐槽角色被剧情推着走",
+        "把离谱桥段归因给天意"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E5%A4%A9%E6%84%8F",
       "image_status": "needs_curated_image"
     },
@@ -21,12 +39,29 @@
       "title": "天意侵蚀",
       "item_type": "meme",
       "summary": "指人物、台词或剧情被新三国式逻辑逐渐改造，适合形容原本正常的东西开始变味。",
-      "aliases": ["被天意侵蚀", "开局被天意侵蚀"],
-      "tags": ["新三国", "折棒", "世界观", "理论梗", "天意学", "反应图"],
-      "tone": ["吐槽", "抽象", "失控"],
+      "aliases": [
+        "被天意侵蚀",
+        "开局被天意侵蚀"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "天意学",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "抽象",
+        "失控"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["形容设定崩坏", "形容人开始新三国化"],
+      "usage": [
+        "形容设定崩坏",
+        "形容人开始新三国化"
+      ],
       "primary_bvid": "BV1DHG66YE1i",
       "source_url": "https://www.bilibili.com/video/BV1DHG66YE1i",
       "image_status": "video_frame_needed"
@@ -36,12 +71,26 @@
       "title": "事不过三",
       "item_type": "meme",
       "summary": "新三国式重复桥段被观众总结成规律时使用，适合标注同一套路第三次出现。",
-      "aliases": ["三次定律"],
-      "tags": ["新三国", "定律", "理论梗", "复读", "吐槽"],
-      "tone": ["总结", "吐槽"],
+      "aliases": [
+        "三次定律"
+      ],
+      "tags": [
+        "新三国",
+        "定律",
+        "理论梗",
+        "复读",
+        "吐槽"
+      ],
+      "tone": [
+        "总结",
+        "吐槽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["同类剧情反复出现", "某个梗第三次复现"],
+      "usage": [
+        "同类剧情反复出现",
+        "某个梗第三次复现"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E4%BA%8B%E4%B8%8D%E8%BF%87%E4%B8%89",
       "image_status": "needs_curated_image"
     },
@@ -50,12 +99,28 @@
       "title": "窃听定律",
       "item_type": "meme",
       "summary": "指关键密谋总能被该听见的人听见，适合吐槽信息泄漏和剧情偷听桥段。",
-      "aliases": ["偷听定律"],
-      "tags": ["新三国", "定律", "世界观", "理论梗", "吐槽"],
-      "tone": ["吐槽", "阴谋", "离谱"],
+      "aliases": [
+        "偷听定律"
+      ],
+      "tags": [
+        "新三国",
+        "定律",
+        "世界观",
+        "理论梗",
+        "吐槽"
+      ],
+      "tone": [
+        "吐槽",
+        "阴谋",
+        "离谱"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["密谋被偷听", "信息莫名传出去", "角色刚说完就被抓包"],
+      "usage": [
+        "密谋被偷听",
+        "信息莫名传出去",
+        "角色刚说完就被抓包"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E7%AA%83%E5%90%AC%E5%AE%9A%E5%BE%8B",
       "image_status": "needs_curated_image"
     },
@@ -64,12 +129,27 @@
       "title": "传送门",
       "item_type": "meme",
       "summary": "用于吐槽角色空间移动过快、场景切换过猛，像是开了传送。",
-      "aliases": ["新三国传送门"],
-      "tags": ["新三国", "世界观", "理论梗", "场面调度", "吐槽"],
-      "tone": ["离谱", "吐槽"],
+      "aliases": [
+        "新三国传送门"
+      ],
+      "tags": [
+        "新三国",
+        "世界观",
+        "理论梗",
+        "场面调度",
+        "吐槽"
+      ],
+      "tone": [
+        "离谱",
+        "吐槽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["角色瞬移", "剧情地点跳跃", "军队移动不讲距离"],
+      "usage": [
+        "角色瞬移",
+        "剧情地点跳跃",
+        "军队移动不讲距离"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E4%BC%A0%E9%80%81%E9%97%A8",
       "image_status": "needs_curated_image"
     },
@@ -78,12 +158,24 @@
       "title": "厕所",
       "item_type": "meme",
       "summary": "新三国相关讨论中的场景/空间梗，适合收录后继续细分具体出处。",
-      "aliases": ["厕所宇宙"],
-      "tags": ["新三国", "世界观", "空间梗", "吐槽"],
-      "tone": ["抽象", "吐槽"],
+      "aliases": [
+        "厕所宇宙"
+      ],
+      "tags": [
+        "新三国",
+        "世界观",
+        "空间梗",
+        "吐槽"
+      ],
+      "tone": [
+        "抽象",
+        "吐槽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["需要补充具体视频出处的空间类梗"],
+      "usage": [
+        "需要补充具体视频出处的空间类梗"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E5%8E%95%E6%89%80",
       "image_status": "needs_source_review"
     },
@@ -92,12 +184,27 @@
       "title": "黄金起义",
       "item_type": "meme",
       "summary": "用于指代新三国式历史称呼错位、文本误读或评论区二创出来的谐音/误称。",
-      "aliases": ["黄巾起义变体"],
-      "tags": ["新三国", "历史梗", "错位", "评论区梗", "台词梗"],
-      "tone": ["误读", "抽象", "吐槽"],
+      "aliases": [
+        "黄巾起义变体"
+      ],
+      "tags": [
+        "新三国",
+        "历史梗",
+        "错位",
+        "评论区梗",
+        "台词梗"
+      ],
+      "tone": [
+        "误读",
+        "抽象",
+        "吐槽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["历史名词被玩坏", "评论区集体复读误称"],
+      "usage": [
+        "历史名词被玩坏",
+        "评论区集体复读误称"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E9%BB%84%E9%87%91%E8%B5%B7%E4%B9%89",
       "image_status": "needs_curated_image"
     },
@@ -106,12 +213,28 @@
       "title": "是啊，吃什么",
       "item_type": "meme",
       "summary": "可作为无厘头转移话题或答非所问的回复梗。",
-      "aliases": ["是啊吃什么"],
-      "tags": ["新三国", "台词梗", "短句", "回复", "反应图"],
-      "tone": ["无厘头", "转移话题", "冷幽默"],
+      "aliases": [
+        "是啊吃什么"
+      ],
+      "tags": [
+        "新三国",
+        "台词梗",
+        "短句",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "无厘头",
+        "转移话题",
+        "冷幽默"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["答非所问", "把严肃话题突然带歪", "聊天冷处理"],
+      "usage": [
+        "答非所问",
+        "把严肃话题突然带歪",
+        "聊天冷处理"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E6%98%AF%E5%95%8A%EF%BC%8C%E5%90%83%E4%BB%80%E4%B9%88",
       "image_status": "needs_curated_image"
     },
@@ -120,12 +243,27 @@
       "title": "这就不奇怪了",
       "item_type": "meme",
       "summary": "适合在离谱事实出现后，反过来表示“原来如此”的经典回复梗。",
-      "aliases": ["那就不奇怪了"],
-      "tags": ["新三国", "台词梗", "短句", "回复", "反应图"],
-      "tone": ["恍然大悟", "阴阳怪气", "冷静"],
+      "aliases": [
+        "那就不奇怪了"
+      ],
+      "tags": [
+        "新三国",
+        "台词梗",
+        "短句",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "恍然大悟",
+        "阴阳怪气",
+        "冷静"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["听完离谱解释后接受现实", "用于反讽"],
+      "usage": [
+        "听完离谱解释后接受现实",
+        "用于反讽"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E8%BF%99%E5%B0%B1%E4%B8%8D%E5%A5%87%E6%80%AA%E4%BA%86",
       "image_status": "needs_curated_image"
     },
@@ -134,12 +272,27 @@
       "title": "不可能，绝对不可能",
       "item_type": "meme",
       "summary": "强烈否认类回复梗，可用于拒绝接受离谱结论。",
-      "aliases": ["绝对不可能"],
-      "tags": ["新三国", "台词梗", "短句", "回复", "反应图"],
-      "tone": ["否认", "震惊", "拒绝"],
+      "aliases": [
+        "绝对不可能"
+      ],
+      "tags": [
+        "新三国",
+        "台词梗",
+        "短句",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "否认",
+        "震惊",
+        "拒绝"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["否认事实", "看到离谱消息时回复"],
+      "usage": [
+        "否认事实",
+        "看到离谱消息时回复"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E4%B8%8D%E5%8F%AF%E8%83%BD%EF%BC%8C%E7%BB%9D%E5%AF%B9%E4%B8%8D%E5%8F%AF%E8%83%BD",
       "image_status": "needs_curated_image"
     },
@@ -148,12 +301,27 @@
       "title": "不要愤怒",
       "item_type": "meme",
       "summary": "用于劝人冷静，也常被反讽为越劝越让人火大。",
-      "aliases": ["愤怒会降低你的智慧"],
-      "tags": ["新三国", "台词梗", "短句", "回复", "反应图"],
-      "tone": ["劝解", "反讽", "冷静"],
+      "aliases": [
+        "愤怒会降低你的智慧"
+      ],
+      "tags": [
+        "新三国",
+        "台词梗",
+        "短句",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "劝解",
+        "反讽",
+        "冷静"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["劝人别急", "调侃对方上头"],
+      "usage": [
+        "劝人别急",
+        "调侃对方上头"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E4%B8%8D%E8%A6%81%E6%84%A4%E6%80%92",
       "image_status": "needs_curated_image"
     },
@@ -162,12 +330,27 @@
       "title": "接着奏乐接着舞",
       "item_type": "meme",
       "summary": "局势混乱但继续享乐/装没事的回复梗。",
-      "aliases": ["接着舞"],
-      "tags": ["新三国", "台词梗", "短句", "回复", "反应图"],
-      "tone": ["摆烂", "享乐", "装没事"],
+      "aliases": [
+        "接着舞"
+      ],
+      "tags": [
+        "新三国",
+        "台词梗",
+        "短句",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "摆烂",
+        "享乐",
+        "装没事"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["事情已经乱了但继续玩", "装作无事发生"],
+      "usage": [
+        "事情已经乱了但继续玩",
+        "装作无事发生"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E6%8E%A5%E7%9D%80%E5%A5%8F%E4%B9%90%E6%8E%A5%E7%9D%80%E8%88%9E",
       "image_status": "needs_curated_image"
     },
@@ -176,12 +359,26 @@
       "title": "听你讲话如饮美酒",
       "item_type": "meme",
       "summary": "夸张夸人说话好听，也可反讽对方废话但很上头。",
-      "aliases": ["如饮美酒"],
-      "tags": ["新三国", "台词梗", "短句", "回复"],
-      "tone": ["夸张", "吹捧", "反讽"],
+      "aliases": [
+        "如饮美酒"
+      ],
+      "tags": [
+        "新三国",
+        "台词梗",
+        "短句",
+        "回复"
+      ],
+      "tone": [
+        "夸张",
+        "吹捧",
+        "反讽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["夸人会说话", "阴阳怪气式赞美"],
+      "usage": [
+        "夸人会说话",
+        "阴阳怪气式赞美"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E5%90%AC%E4%BD%A0%E8%AE%B2%E8%AF%9D%E5%A6%82%E9%A5%AE%E7%BE%8E%E9%85%92",
       "image_status": "needs_curated_image"
     },
@@ -190,12 +387,27 @@
       "title": "好火啊",
       "item_type": "meme",
       "summary": "用来评价热度很高，也可借新三国语境调侃火势、热搜或炎上。",
-      "aliases": ["比夷陵之火还好"],
-      "tags": ["新三国", "台词梗", "短句", "回复", "反应图"],
-      "tone": ["调侃", "热度", "炎上"],
+      "aliases": [
+        "比夷陵之火还好"
+      ],
+      "tags": [
+        "新三国",
+        "台词梗",
+        "短句",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "调侃",
+        "热度",
+        "炎上"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["形容爆火", "形容事情烧起来了"],
+      "usage": [
+        "形容爆火",
+        "形容事情烧起来了"
+      ],
       "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/%E5%A5%BD%E7%81%AB%E5%95%8A%EF%BC%8C%E6%AF%94%E5%A4%B7%E9%99%B5%E4%B9%8B%E7%81%AB%E8%BF%98%E5%A5%BD%E5%95%8A",
       "image_status": "needs_curated_image"
     },
@@ -204,12 +416,28 @@
       "title": "虫系宝可梦大师陈宫",
       "item_type": "meme",
       "summary": "折棒系列早期对陈宫相关桥段的二创称呼，适合收录为角色绰号梗。",
-      "aliases": ["陈宫虫系大师"],
-      "tags": ["新三国", "折棒", "人物梗", "角色梗", "陈宫", "视频来源"],
-      "tone": ["二创", "吐槽", "绰号"],
+      "aliases": [
+        "陈宫虫系大师"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "陈宫",
+        "视频来源"
+      ],
+      "tone": [
+        "二创",
+        "吐槽",
+        "绰号"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["提到新三国陈宫时使用", "角色绰号"],
+      "usage": [
+        "提到新三国陈宫时使用",
+        "角色绰号"
+      ],
       "primary_bvid": "BV1N11xYMEoE",
       "source_url": "https://www.bilibili.com/video/BV1N11xYMEoE",
       "image_status": "video_frame_needed"
@@ -219,12 +447,28 @@
       "title": "华雄人马兽",
       "item_type": "meme",
       "summary": "折棒系列中针对华雄相关镜头和表现的绰号梗。",
-      "aliases": ["人马兽华雄"],
-      "tags": ["新三国", "折棒", "人物梗", "角色梗", "华雄", "视频来源"],
-      "tone": ["吐槽", "绰号", "抽象"],
+      "aliases": [
+        "人马兽华雄"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "华雄",
+        "视频来源"
+      ],
+      "tone": [
+        "吐槽",
+        "绰号",
+        "抽象"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["吐槽华雄出场", "角色造型/镜头调侃"],
+      "usage": [
+        "吐槽华雄出场",
+        "角色造型/镜头调侃"
+      ],
       "primary_bvid": "BV1XKDWY9EQQ",
       "source_url": "https://www.bilibili.com/video/BV1XKDWY9EQQ",
       "image_status": "video_frame_needed"
@@ -234,12 +478,27 @@
       "title": "刘关张消失",
       "item_type": "meme",
       "summary": "折棒系列第一期的核心吐槽点，用于表示故事开局该在的人突然不在。",
-      "aliases": ["第一集刘关张都消失了"],
-      "tags": ["新三国", "折棒", "视频来源", "剧情梗", "吐槽"],
-      "tone": ["困惑", "离谱", "开局"],
+      "aliases": [
+        "第一集刘关张都消失了"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "剧情梗",
+        "吐槽"
+      ],
+      "tone": [
+        "困惑",
+        "离谱",
+        "开局"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["该出现的人没出现", "开局就不对劲"],
+      "usage": [
+        "该出现的人没出现",
+        "开局就不对劲"
+      ],
       "primary_bvid": "BV1rjyYYjEjQ",
       "source_url": "https://www.bilibili.com/video/BV1rjyYYjEjQ",
       "image_status": "video_frame_needed"
@@ -249,12 +508,27 @@
       "title": "董卓成了十常侍之首",
       "item_type": "meme",
       "summary": "用于吐槽身份关系和历史设定错位。",
-      "aliases": ["十常侍之首董卓"],
-      "tags": ["新三国", "折棒", "视频来源", "历史梗", "人物梗"],
-      "tone": ["错位", "离谱", "吐槽"],
+      "aliases": [
+        "十常侍之首董卓"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "历史梗",
+        "人物梗"
+      ],
+      "tone": [
+        "错位",
+        "离谱",
+        "吐槽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["身份错位", "设定乱套"],
+      "usage": [
+        "身份错位",
+        "设定乱套"
+      ],
       "primary_bvid": "BV1Y1yjYpE7L",
       "source_url": "https://www.bilibili.com/video/BV1Y1yjYpE7L",
       "image_status": "video_frame_needed"
@@ -264,12 +538,27 @@
       "title": "刚开局刘备称帝",
       "item_type": "meme",
       "summary": "用来形容进度条刚开始就跳到大后期，或剧情推进离谱加速。",
-      "aliases": ["刘备怎么就称帝啦"],
-      "tags": ["新三国", "折棒", "视频来源", "剧情梗", "时间线"],
-      "tone": ["震惊", "加速", "离谱"],
+      "aliases": [
+        "刘备怎么就称帝啦"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "剧情梗",
+        "时间线"
+      ],
+      "tone": [
+        "震惊",
+        "加速",
+        "离谱"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["剧情进度飞快", "刚开始就进入结局阶段"],
+      "usage": [
+        "剧情进度飞快",
+        "刚开始就进入结局阶段"
+      ],
       "primary_bvid": "BV1TgSoYTEHe",
       "source_url": "https://www.bilibili.com/video/BV1TgSoYTEHe",
       "image_status": "video_frame_needed"
@@ -279,12 +568,27 @@
       "title": "满洲兵",
       "item_type": "meme",
       "summary": "折棒系列中用于吐槽服化道或历史风格错位的梗。",
-      "aliases": ["刘备从哪找来的满洲兵"],
-      "tags": ["新三国", "折棒", "视频来源", "服化道", "历史梗"],
-      "tone": ["错位", "吐槽", "离谱"],
+      "aliases": [
+        "刘备从哪找来的满洲兵"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "服化道",
+        "历史梗"
+      ],
+      "tone": [
+        "错位",
+        "吐槽",
+        "离谱"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["服装风格不对", "年代感错位"],
+      "usage": [
+        "服装风格不对",
+        "年代感错位"
+      ],
       "primary_bvid": "BV1K2DLYsE4a",
       "source_url": "https://www.bilibili.com/video/BV1K2DLYsE4a",
       "image_status": "video_frame_needed"
@@ -294,12 +598,27 @@
       "title": "我们都有光明的未来",
       "item_type": "meme",
       "summary": "适合形容所有人都被剧情安排得很荒诞，但表面上仍然充满希望。",
-      "aliases": ["光明的未来"],
-      "tags": ["新三国", "折棒", "视频来源", "台词梗", "回复"],
-      "tone": ["黑色幽默", "反讽", "乐观"],
+      "aliases": [
+        "光明的未来"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "台词梗",
+        "回复"
+      ],
+      "tone": [
+        "黑色幽默",
+        "反讽",
+        "乐观"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["反讽式鼓励", "大家一起完蛋但很乐观"],
+      "usage": [
+        "反讽式鼓励",
+        "大家一起完蛋但很乐观"
+      ],
       "primary_bvid": "BV1eEDaYmENQ",
       "source_url": "https://www.bilibili.com/video/BV1eEDaYmENQ",
       "image_status": "video_frame_needed"
@@ -309,12 +628,29 @@
       "title": "曹操发癫",
       "item_type": "meme",
       "summary": "折棒系列中曹操相关抽象表现的集中吐槽，可用于形容角色突然失控。",
-      "aliases": ["曹操抽疯", "发癫曹操"],
-      "tags": ["新三国", "折棒", "视频来源", "人物梗", "曹操", "反应图"],
-      "tone": ["失控", "癫狂", "吐槽"],
+      "aliases": [
+        "曹操抽疯",
+        "发癫曹操"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "人物梗",
+        "曹操",
+        "反应图"
+      ],
+      "tone": [
+        "失控",
+        "癫狂",
+        "吐槽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["形容人突然发疯", "角色行为失控"],
+      "usage": [
+        "形容人突然发疯",
+        "角色行为失控"
+      ],
       "primary_bvid": "BV1dzRqYVEcR",
       "source_url": "https://www.bilibili.com/video/BV1dzRqYVEcR",
       "image_status": "video_frame_needed"
@@ -324,12 +660,28 @@
       "title": "新三学理论取得重大突破",
       "item_type": "meme",
       "summary": "用于表示对新三国式规律的研究又发现了新的解释框架。",
-      "aliases": ["新三学重大突破"],
-      "tags": ["新三国", "折棒", "视频来源", "世界观", "理论梗", "天意学"],
-      "tone": ["学术化", "抽象", "总结"],
+      "aliases": [
+        "新三学重大突破"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "世界观",
+        "理论梗",
+        "天意学"
+      ],
+      "tone": [
+        "学术化",
+        "抽象",
+        "总结"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["发现新规律", "严肃分析离谱剧情"],
+      "usage": [
+        "发现新规律",
+        "严肃分析离谱剧情"
+      ],
       "primary_bvid": "BV17PG46BEer",
       "source_url": "https://www.bilibili.com/video/BV17PG46BEer",
       "image_status": "video_frame_needed"
@@ -339,12 +691,27 @@
       "title": "回溯时光",
       "item_type": "meme",
       "summary": "折棒 re 系列相关梗，适合表示回看后发现早有伏笔或处处不对。",
-      "aliases": ["回溯时光处处惊喜"],
-      "tags": ["新三国", "折棒", "视频来源", "时间线", "世界观"],
-      "tone": ["复盘", "惊喜", "抽象"],
+      "aliases": [
+        "回溯时光处处惊喜"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "时间线",
+        "世界观"
+      ],
+      "tone": [
+        "复盘",
+        "惊喜",
+        "抽象"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["回看旧内容发现新问题", "复盘时挖出伏笔"],
+      "usage": [
+        "回看旧内容发现新问题",
+        "复盘时挖出伏笔"
+      ],
       "primary_bvid": "BV1R8GU6FE7X",
       "source_url": "https://www.bilibili.com/video/BV1R8GU6FE7X",
       "image_status": "video_frame_needed"
@@ -354,12 +721,27 @@
       "title": "桃园结义真相",
       "item_type": "meme",
       "summary": "re 系列对桃园结义相关内容的二次复盘梗。",
-      "aliases": ["被掩盖的真相"],
-      "tags": ["新三国", "折棒", "视频来源", "剧情梗", "复盘"],
-      "tone": ["揭秘", "复盘", "吐槽"],
+      "aliases": [
+        "被掩盖的真相"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "剧情梗",
+        "复盘"
+      ],
+      "tone": [
+        "揭秘",
+        "复盘",
+        "吐槽"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["揭开离谱真相", "重新解释早期剧情"],
+      "usage": [
+        "揭开离谱真相",
+        "重新解释早期剧情"
+      ],
       "primary_bvid": "BV1GVVY6SEBh",
       "source_url": "https://www.bilibili.com/video/BV1GVVY6SEBh",
       "image_status": "video_frame_needed"
@@ -369,12 +751,27 @@
       "title": "恭喜你完成新手教程",
       "item_type": "meme",
       "summary": "适合表示经历了很长折磨后才刚刚入门。",
-      "aliases": ["新手教程完成"],
-      "tags": ["新三国", "折棒", "视频来源", "回复", "反应图"],
-      "tone": ["调侃", "通关", "折磨"],
+      "aliases": [
+        "新手教程完成"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "调侃",
+        "通关",
+        "折磨"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["刚熬过入门阶段", "痛苦才刚开始"],
+      "usage": [
+        "刚熬过入门阶段",
+        "痛苦才刚开始"
+      ],
       "primary_bvid": "BV1BvV66mEBr",
       "source_url": "https://www.bilibili.com/video/BV1BvV66mEBr",
       "image_status": "video_frame_needed"
@@ -384,12 +781,28 @@
       "title": "关羽的替身又增加了",
       "item_type": "meme",
       "summary": "用于吐槽角色替身、错认、重复身份或镜头替代。",
-      "aliases": ["关羽替身"],
-      "tags": ["新三国", "折棒", "视频来源", "人物梗", "角色梗", "关羽"],
-      "tone": ["吐槽", "替身", "错认"],
+      "aliases": [
+        "关羽替身"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "人物梗",
+        "角色梗",
+        "关羽"
+      ],
+      "tone": [
+        "吐槽",
+        "替身",
+        "错认"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["角色像另一个人", "替代品越来越多"],
+      "usage": [
+        "角色像另一个人",
+        "替代品越来越多"
+      ],
       "primary_bvid": "BV1YjEp6vEEG",
       "source_url": "https://www.bilibili.com/video/BV1YjEp6vEEG",
       "image_status": "video_frame_needed"
@@ -399,12 +812,29 @@
       "title": "磨剑十几年",
       "item_type": "meme",
       "summary": "折棒系列完结期标题梗，适合形容准备很久只为关键一击。",
-      "aliases": ["挥剑只有一次", "磨剑磨了十几年"],
-      "tags": ["新三国", "折棒", "视频来源", "完结", "回复"],
-      "tone": ["收束", "燃", "长线伏笔"],
+      "aliases": [
+        "挥剑只有一次",
+        "磨剑磨了十几年"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "视频来源",
+        "完结",
+        "回复"
+      ],
+      "tone": [
+        "收束",
+        "燃",
+        "长线伏笔"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["长期准备终于出手", "完结感", "大结算"],
+      "usage": [
+        "长期准备终于出手",
+        "完结感",
+        "大结算"
+      ],
       "primary_bvid": "BV1kCLb68E9X",
       "source_url": "https://www.bilibili.com/video/BV1kCLb68E9X",
       "image_status": "video_frame_needed"
@@ -414,12 +844,29 @@
       "title": "缓存全集新三国",
       "item_type": "meme",
       "summary": "评论区自嘲式灾难体验梗，适合形容自己在错误时机主动选择了精神折磨。",
-      "aliases": ["回村缓存新三国", "缓存了全集的新三国"],
-      "tags": ["新三国", "折棒", "评论区梗", "自嘲", "反应图"],
-      "tone": ["后悔", "自嘲", "好笑"],
+      "aliases": [
+        "回村缓存新三国",
+        "缓存了全集的新三国"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "自嘲",
+        "反应图"
+      ],
+      "tone": [
+        "后悔",
+        "自嘲",
+        "好笑"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["自嘲做了错误选择", "明知会被折磨还看完", "精神污染式娱乐"],
+      "usage": [
+        "自嘲做了错误选择",
+        "明知会被折磨还看完",
+        "精神污染式娱乐"
+      ],
       "primary_bvid": "BV1rjyYYjEjQ",
       "source_url": "https://www.bilibili.com/video/BV1rjyYYjEjQ",
       "source_kind": "bilibili_comment_candidate",
@@ -430,12 +877,28 @@
       "title": "小馋猫",
       "item_type": "meme",
       "summary": "评论区用于调侃“你还挺爱看/挺爱吃这口”的短回复梗。",
-      "aliases": ["馋这口"],
-      "tags": ["新三国", "折棒", "评论区梗", "短句", "回复", "反应图"],
-      "tone": ["调侃", "亲昵", "阴阳怪气"],
+      "aliases": [
+        "馋这口"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "短句",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "调侃",
+        "亲昵",
+        "阴阳怪气"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["调侃对方明明痛苦但还想看", "看到别人主动找乐子时回复"],
+      "usage": [
+        "调侃对方明明痛苦但还想看",
+        "看到别人主动找乐子时回复"
+      ],
       "primary_bvid": "BV1rjyYYjEjQ",
       "source_url": "https://www.bilibili.com/video/BV1rjyYYjEjQ",
       "source_kind": "bilibili_comment_candidate",
@@ -446,12 +909,27 @@
       "title": "聋，可是帝王之征啊",
       "item_type": "meme",
       "summary": "评论区对新三国保密逻辑的二创延伸，适合吐槽离谱设定被强行合理化。",
-      "aliases": ["聋是帝王之征"],
-      "tags": ["新三国", "折棒", "评论区梗", "理论梗", "回复"],
-      "tone": ["一本正经", "荒诞", "强行解释"],
+      "aliases": [
+        "聋是帝王之征"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "理论梗",
+        "回复"
+      ],
+      "tone": [
+        "一本正经",
+        "荒诞",
+        "强行解释"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["用荒诞理论解释离谱设定", "把漏洞硬圆成设定"],
+      "usage": [
+        "用荒诞理论解释离谱设定",
+        "把漏洞硬圆成设定"
+      ],
       "primary_bvid": "BV1rjyYYjEjQ",
       "source_url": "https://www.bilibili.com/video/BV1rjyYYjEjQ",
       "source_kind": "bilibili_comment_candidate",
@@ -462,15 +940,1508 @@
       "title": "王允六十大寿忌日",
       "item_type": "meme",
       "summary": "评论区对年龄、寿宴和忌日错位的二创吐槽，适合形容时间线和设定互相打架。",
-      "aliases": ["过寿也是忌日", "王允忌日"],
-      "tags": ["新三国", "折棒", "评论区梗", "时间线", "吐槽"],
-      "tone": ["黑色幽默", "错位", "离谱"],
+      "aliases": [
+        "过寿也是忌日",
+        "王允忌日"
+      ],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "时间线",
+        "吐槽"
+      ],
+      "tone": [
+        "黑色幽默",
+        "错位",
+        "离谱"
+      ],
       "language": "zh",
       "safe": true,
-      "usage": ["时间线乱套", "一个设定同时满足两个相反结论"],
+      "usage": [
+        "时间线乱套",
+        "一个设定同时满足两个相反结论"
+      ],
       "primary_bvid": "BV1rjyYYjEjQ",
       "source_url": "https://www.bilibili.com/video/BV1rjyYYjEjQ",
       "source_kind": "bilibili_comment_candidate",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-normal-person",
+      "title": "这剧里还能有一个正常人吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：这剧里还能有一个正常人吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV15kyDYpEdQ",
+      "source_url": "https://www.bilibili.com/video/BV15kyDYpEdQ",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-cao-murder-maniac",
+      "title": "这曹操是哪来的变态杀人狂",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：这曹操是哪来的变态杀人狂",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "发癫",
+        "吐槽",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "失控"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1vDSgYpEA5",
+      "source_url": "https://www.bilibili.com/video/BV1vDSgYpEA5",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-liubei-start-emperor",
+      "title": "刚开局刘备怎么就称帝啦",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：刚开局刘备怎么就称帝啦",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "回复",
+        "反应图",
+        "历史梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1TgSoYTEHe",
+      "source_url": "https://www.bilibili.com/video/BV1TgSoYTEHe",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-rebels-too-many",
+      "title": "目中无人刘玄德，玩弄天子曹孟德，反贼疑似有点多了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：目中无人刘玄德，玩弄天子曹孟德，反贼疑似有点多了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1ooSqYPEt5",
+      "source_url": "https://www.bilibili.com/video/BV1ooSqYPEt5",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-strongest-military-theory",
+      "title": "史上最强军事理论诞生了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：史上最强军事理论诞生了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "历史梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1qGDCYHEHi",
+      "source_url": "https://www.bilibili.com/video/BV1qGDCYHEHi",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-yuan-gonglu-delicious",
+      "title": "袁公路，鲜美无比，不可不尝",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：袁公路，鲜美无比，不可不尝",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV155mpYUEB4",
+      "source_url": "https://www.bilibili.com/video/BV155mpYUEB4",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-earthling-fight",
+      "title": "这打戏是给地球人看的吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：这打戏是给地球人看的吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1edUKYzEEJ",
+      "source_url": "https://www.bilibili.com/video/BV1edUKYzEEJ",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-qin-shihuang-ancestor",
+      "title": "刘备祭祖为什么拜秦始皇",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：刘备祭祖为什么拜秦始皇",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1c6ScYuEZM",
+      "source_url": "https://www.bilibili.com/video/BV1c6ScYuEZM",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-space-jump-tech",
+      "title": "空间跃迁技术在新三国的可行性",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：空间跃迁技术在新三国的可行性",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "历史梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1CAU9YnETr",
+      "source_url": "https://www.bilibili.com/video/BV1CAU9YnETr",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-sunce-trisolarian",
+      "title": "破案了，孙策是三体星人",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：破案了，孙策是三体星人",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1UdB1Y2ExP",
+      "source_url": "https://www.bilibili.com/video/BV1UdB1Y2ExP",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-emperor-as-father",
+      "title": "皇上视我如父，天下之事岂可不顺我意",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：皇上视我如父，天下之事岂可不顺我意",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1teBdYrERB",
+      "source_url": "https://www.bilibili.com/video/BV1teBdYrERB",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-wang-yun-beggar-chief",
+      "title": "王允因吃不起饭改行做丐帮帮主",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：王允因吃不起饭改行做丐帮帮主",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1oeBRYQEzr",
+      "source_url": "https://www.bilibili.com/video/BV1oeBRYQEzr",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-scriptwriter-brain",
+      "title": "编剧大脑究竟什么构造",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：编剧大脑究竟什么构造",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1CZzfY1EUt",
+      "source_url": "https://www.bilibili.com/video/BV1CZzfY1EUt",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-giant-script-kill",
+      "title": "很显然，这个世界是一个巨大的剧本杀",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：很显然，这个世界是一个巨大的剧本杀",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1vczQYrEPx",
+      "source_url": "https://www.bilibili.com/video/BV1vczQYrEPx",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-wang-situ-wallbreaker",
+      "title": "王司徒，我是你的破壁人",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：王司徒，我是你的破壁人",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1h4qLYwEdB",
+      "source_url": "https://www.bilibili.com/video/BV1h4qLYwEdB",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-game-unplayable",
+      "title": "反贼跳忠，忠臣跳内，这游戏没法玩了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：反贼跳忠，忠臣跳内，这游戏没法玩了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1GSqDYAEBL",
+      "source_url": "https://www.bilibili.com/video/BV1GSqDYAEBL",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-your-father-died",
+      "title": "恭喜主公，你爹殡天了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：恭喜主公，你爹殡天了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "反讽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1QsqfYHE8G",
+      "source_url": "https://www.bilibili.com/video/BV1QsqfYHE8G",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-parallel-clones",
+      "title": "瞬息百里，平行宇宙，多重分身，我看的是三国吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：瞬息百里，平行宇宙，多重分身，我看的是三国吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "回复",
+        "反应图",
+        "历史梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1twk8YGEP3",
+      "source_url": "https://www.bilibili.com/video/BV1twk8YGEP3",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-loyal-cao",
+      "title": "但我确实忠心耿耿啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：但我确实忠心耿耿啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV16F6rYxEMW",
+      "source_url": "https://www.bilibili.com/video/BV16F6rYxEMW",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-spring-autumn-nonsense",
+      "title": "春秋胡言乱语！—曹操",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：春秋胡言乱语！—曹操",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1ybfpYbEqo",
+      "source_url": "https://www.bilibili.com/video/BV1ybfpYbEqo",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-skill-taunt",
+      "title": "刘备发动技能挑衅，新三秒变宫斗剧",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：刘备发动技能挑衅，新三秒变宫斗剧",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1DDF4eXEk6",
+      "source_url": "https://www.bilibili.com/video/BV1DDF4eXEk6",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-plot-too-wild",
+      "title": "曹操刘备原地成婚，这剧情太野了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：曹操刘备原地成婚，这剧情太野了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1PSPFe5EzT",
+      "source_url": "https://www.bilibili.com/video/BV1PSPFe5EzT",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-negative-age",
+      "title": "惊现负二十四岁的阴间子民，太可怕了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：惊现负二十四岁的阴间子民，太可怕了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1mx9AYcEKf",
+      "source_url": "https://www.bilibili.com/video/BV1mx9AYcEKf",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-early-wei-king",
+      "title": "提前二十年称魏王",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：提前二十年称魏王",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "历史梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1WQ9fYDE9g",
+      "source_url": "https://www.bilibili.com/video/BV1WQ9fYDE9g",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-dongxi-tianyi",
+      "title": "唯有洞悉天意，才是真正强者",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：唯有洞悉天意，才是真正强者",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1CxNmzBEkA",
+      "source_url": "https://www.bilibili.com/video/BV1CxNmzBEkA",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-zhouyu-hurt-world",
+      "title": "诸葛亮小乔终成眷属，只有周瑜受伤的世界达成了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：诸葛亮小乔终成眷属，只有周瑜受伤的世界达成了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1HVKezPEdx",
+      "source_url": "https://www.bilibili.com/video/BV1HVKezPEdx",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-cao-truth-seer",
+      "title": "曹操看破真相",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：曹操看破真相",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "世界观",
+        "理论梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1HkuZzGEvo",
+      "source_url": "https://www.bilibili.com/video/BV1HkuZzGEvo",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-liubei-hypocrite",
+      "title": "刘备大奸似忠、大伪似真，是个百年罕见的伪君子",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：刘备大奸似忠、大伪似真，是个百年罕见的伪君子",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1i78dzVEct",
+      "source_url": "https://www.bilibili.com/video/BV1i78dzVEct",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-void-soldiers",
+      "title": "虚空炼兵",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：虚空炼兵",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1Dbnnz1EXR",
+      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-wield-tianyi",
+      "title": "驭使天意谁人能挡",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：驭使天意谁人能挡",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1Dbnnz1EXR",
+      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-sima-deep-power",
+      "title": "司马懿功力深不可测啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：司马懿功力深不可测啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1BDfUBUELC",
+      "source_url": "https://www.bilibili.com/video/BV1BDfUBUELC",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-zhuge-shu-lord",
+      "title": "自今日起，我诸葛亮为蜀汉之主",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：自今日起，我诸葛亮为蜀汉之主",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "历史梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1LLNgzDExr",
+      "source_url": "https://www.bilibili.com/video/BV1LLNgzDExr",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-young-general-strategy",
+      "title": "少将军深通兵略，所说极确极明，老夫敬佩不已",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：少将军深通兵略，所说极确极明，老夫敬佩不已",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1Zkd5BLE2X",
+      "source_url": "https://www.bilibili.com/video/BV1Zkd5BLE2X",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-heavenly-soldiers",
+      "title": "有天兵天将相助，篡魏易如反掌",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：有天兵天将相助，篡魏易如反掌",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "历史梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV13ALz6BERn",
+      "source_url": "https://www.bilibili.com/video/BV13ALz6BERn",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-seven-eight-ten",
+      "title": "7门8卦阵，我9岁便10它了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：7门8卦阵，我9岁便10它了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1jroTBoEQy",
+      "source_url": "https://www.bilibili.com/video/BV1jroTBoEQy",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-biggest-mistake-20-years",
+      "title": "这20年来犯的最大的错误",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：这20年来犯的最大的错误",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1rjyYYjEjQ",
+      "source_url": "https://www.bilibili.com/video/BV1rjyYYjEjQ",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-happy-pain",
+      "title": "一想到还有200集可以看我就想笑",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：一想到还有200集可以看我就想笑",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1N11xYMEoE",
+      "source_url": "https://www.bilibili.com/video/BV1N11xYMEoE",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-lords-together",
+      "title": "与列位诸公同乐",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：与列位诸公同乐",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1N11xYMEoE",
+      "source_url": "https://www.bilibili.com/video/BV1N11xYMEoE",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-standin-happy",
+      "title": "替身确实很开心",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：替身确实很开心",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1XKDWY9EQQ",
+      "source_url": "https://www.bilibili.com/video/BV1XKDWY9EQQ",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-ten-seconds-one-flaw",
+      "title": "新三国平均十秒一个槽点",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：新三国平均十秒一个槽点",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1K2DLYsE4a",
+      "source_url": "https://www.bilibili.com/video/BV1K2DLYsE4a",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-san-shaking",
+      "title": "折棒的 SAN 值开始动摇",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：折棒的 SAN 值开始动摇",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV111GNzgEJk",
+      "source_url": "https://www.bilibili.com/video/BV111GNzgEJk",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-watch-cherish",
+      "title": "各位且看且珍惜",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：各位且看且珍惜",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV111GNzgEJk",
+      "source_url": "https://www.bilibili.com/video/BV111GNzgEJk",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-tainted-by-xsg",
+      "title": "我可能被玷污了",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：我可能被玷污了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV111GNzgEJk",
+      "source_url": "https://www.bilibili.com/video/BV111GNzgEJk",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-time-loop",
+      "title": "新三国其实是一个时间循环",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：新三国其实是一个时间循环",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1kCLb68E9X",
+      "source_url": "https://www.bilibili.com/video/BV1kCLb68E9X",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-despair-loop",
+      "title": "又要开始了吗，这绝望的轮回",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：又要开始了吗，这绝望的轮回",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1kCLb68E9X",
+      "source_url": "https://www.bilibili.com/video/BV1kCLb68E9X",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-history-changed",
+      "title": "历史发生了巨变",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：历史发生了巨变",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1kCLb68E9X",
+      "source_url": "https://www.bilibili.com/video/BV1kCLb68E9X",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-escape-loop",
+      "title": "成功脱离了轮回",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：成功脱离了轮回",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1DHG66YE1i",
+      "source_url": "https://www.bilibili.com/video/BV1DHG66YE1i",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-tianyi-puppet",
+      "title": "天意傀儡",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：天意傀儡",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV17PG46BEer",
+      "source_url": "https://www.bilibili.com/video/BV17PG46BEer",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-tianyi-invincible",
+      "title": "天意爷是不可战胜的",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：天意爷是不可战胜的",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV17PG46BEer",
+      "source_url": "https://www.bilibili.com/video/BV17PG46BEer",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-all-correct-emperor",
+      "title": "都做对的可以称帝了",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：都做对的可以称帝了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1BvV66mEBr",
+      "source_url": "https://www.bilibili.com/video/BV1BvV66mEBr",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-xu-zhou-first-pass",
+      "title": "徐州城是中原第一雄关",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：徐州城是中原第一雄关",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1K2DLYsE4a",
+      "source_url": "https://www.bilibili.com/video/BV1K2DLYsE4a",
+      "source_kind": "bilibili_comment_promoted",
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-comment-liu-mind-control",
+      "title": "刘备拥有顶尖的心灵控制之力",
+      "item_type": "meme",
+      "summary": "从折棒系列评论区候选中提升的正式梗：刘备拥有顶尖的心灵控制之力",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "评论区梗",
+        "回复",
+        "反应图",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "调侃"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国评论区语境下的回复梗",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1dzRqYVEcR",
+      "source_url": "https://www.bilibili.com/video/BV1dzRqYVEcR",
+      "source_kind": "bilibili_comment_promoted",
       "image_status": "generated_card"
     }
   ]

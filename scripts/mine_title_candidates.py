@@ -204,7 +204,7 @@ def main() -> int:
     parser.add_argument("--series", default=str(ROOT / "data" / "bilibili-series.json"))
     parser.add_argument("--curated", default=str(ROOT / "data" / "xin-sanguo-memes.json"))
     parser.add_argument("--output", default=str(ROOT / "data" / "title-candidates.json"))
-    parser.add_argument("--max-items", type=int, default=90)
+    parser.add_argument("--max-items", type=int, default=180)
     args = parser.parse_args()
 
     count = build_candidates(Path(args.series), Path(args.curated), Path(args.output), args.max_items)

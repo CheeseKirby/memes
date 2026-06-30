@@ -11,9 +11,9 @@
       "如需梗图，请在条目里补充授权图片 URL 或视频时间点，不要直接提交大批量截图。"
     ]
   },
-  "updated_at": "2026-06-30T06:51:24Z",
+  "updated_at": "2026-06-30T07:09:56Z",
   "pack": "worldview",
-  "item_count": 17,
+  "item_count": 23,
   "items": [
     {
       "id": "xsg-comment-deaf-emperor-sign",
@@ -47,8 +47,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-comment-deaf-emperor-sign.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-comment-deaf-emperor-sign.svg",
       "image_refs": [
@@ -113,8 +113,8 @@
       "image_status": "video_frame_needed",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-new-three-theory.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-new-three-theory.svg",
       "image_refs": [
@@ -178,8 +178,8 @@
       "image_status": "video_frame_needed",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-time-rewind.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-time-rewind.svg",
       "image_refs": [
@@ -243,8 +243,8 @@
       "image_status": "needs_curated_image",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-law-eavesdrop.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-law-eavesdrop.svg",
       "image_refs": [
@@ -287,8 +287,8 @@
       "image_status": "needs_curated_image",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-law-shi-bu-guo-san.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-law-shi-bu-guo-san.svg",
       "image_refs": [
@@ -301,6 +301,139 @@
         }
       ],
       "search_text": "事不过三 新三国式重复桥段被观众总结成规律时使用，适合标注同一套路第三次出现。 三次定律 新三国 定律 理论梗 复读 吐槽 总结 吐槽 同类剧情反复出现 某个梗第三次复现 "
+    },
+    {
+      "id": "xsg-title-13b24b94a2",
+      "title": "最终看破真相的",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 137 期标题中挖掘出的候选梗：最终看破真相的",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1HkuZzGEvo",
+      "source_url": "https://www.bilibili.com/video/BV1HkuZzGEvo",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "title_mined_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-13b24b94a2.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-13b24b94a2.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i2.hdslb.com/bfs/archive/b516ca802cc73d390ad04b8629acac6e6eb0bb93.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-13b24b94a2.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-13b24b94a2.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV1HkuZzGEvo",
+      "episode": 137,
+      "episode_title": "三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！",
+      "episode_pubdate": "2025-07-20T02:00:00Z",
+      "episode_stats": {
+        "view": 1446486,
+        "danmaku": 13440,
+        "reply": 3341,
+        "favorite": 3596,
+        "coin": 16389,
+        "share": 571,
+        "like": 36815
+      },
+      "search_text": "最终看破真相的 从吃蛋挞的折棒《吐槽新三国》第 137 期标题中挖掘出的候选梗：最终看破真相的  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！"
+    },
+    {
+      "id": "xsg-title-2648bf57f6",
+      "title": "原来历史早已发生巨变",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 288 期标题中挖掘出的候选梗：原来历史早已发生巨变",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1aSLn6WEX2",
+      "source_url": "https://www.bilibili.com/video/BV1aSLn6WEX2",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "title_mined_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2648bf57f6.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2648bf57f6.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i0.hdslb.com/bfs/archive/9bec2cd271a991233a6e3956be14c7b2a47cf786.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-2648bf57f6.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2648bf57f6.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV1aSLn6WEX2",
+      "episode": 288,
+      "episode_title": "三国杀up锐评新三国288：原来历史早已发生巨变",
+      "episode_pubdate": "2026-05-18T02:00:00Z",
+      "episode_stats": {
+        "view": 900419,
+        "danmaku": 12268,
+        "reply": 3999,
+        "favorite": 3334,
+        "coin": 11690,
+        "share": 713,
+        "like": 30157
+      },
+      "search_text": "原来历史早已发生巨变 从吃蛋挞的折棒《吐槽新三国》第 288 期标题中挖掘出的候选梗：原来历史早已发生巨变  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 历史梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国288：原来历史早已发生巨变"
     },
     {
       "id": "xsg-title-2d1842919e",
@@ -334,8 +467,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2d1842919e.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2d1842919e.svg",
       "image_refs": [
@@ -369,79 +502,10 @@
       "search_text": "从来天意高难问，只恨苍天不助周 从吃蛋挞的折棒《吐槽新三国》第 173 期标题中挖掘出的候选梗：从来天意高难问，只恨苍天不助周  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国173：从来天意高难问，只恨苍天不助周"
     },
     {
-      "id": "xsg-title-44e751ec62",
-      "title": "驭使天意谁人能挡",
+      "id": "xsg-title-3d55834cca",
+      "title": "从来天意高难问",
       "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 172 期标题中挖掘出的候选梗：驭使天意谁人能挡",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "世界观",
-        "理论梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑",
-        "一本正经"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1Dbnnz1EXR",
-      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
-      "image_status": "generated_card",
-      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
-      "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
-      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-44e751ec62.svg",
-      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-44e751ec62.svg",
-      "image_refs": [
-        {
-          "kind": "bilibili_cover",
-          "status": "reference_only",
-          "url": "https://i1.hdslb.com/bfs/archive/3543bfdf060a312c4e19ebff8f1167e9b2ceaa23.jpg",
-          "note": "Bilibili video cover URL; not rehosted by this repository."
-        },
-        {
-          "kind": "generated_card",
-          "status": "repo_owned",
-          "path": "assets/cards/xsg-title-44e751ec62.svg",
-          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-44e751ec62.svg",
-          "note": "仓库生成的文字梗图卡，不是视频截图。"
-        }
-      ],
-      "bilibili_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
-      "episode": 172,
-      "episode_title": "三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡",
-      "episode_pubdate": "2025-09-28T02:00:37Z",
-      "episode_stats": {
-        "view": 1463176,
-        "danmaku": 12405,
-        "reply": 3668,
-        "favorite": 4364,
-        "coin": 16183,
-        "share": 753,
-        "like": 37428
-      },
-      "search_text": "驭使天意谁人能挡 从吃蛋挞的折棒《吐槽新三国》第 172 期标题中挖掘出的候选梗：驭使天意谁人能挡  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 回复 反应图 吐槽 疑惑 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡"
-    },
-    {
-      "id": "xsg-title-499d480f21",
-      "title": "唯有洞悉天意，才是真正强者",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 123 期标题中挖掘出的候选梗：唯有洞悉天意，才是真正强者",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 173 期标题中挖掘出的候选梗：从来天意高难问",
       "aliases": [],
       "tags": [
         "新三国",
@@ -461,47 +525,113 @@
         "作为新三国语境下的吐槽短句",
         "需要人工复核后可提升为正式梗条目"
       ],
-      "primary_bvid": "BV1CxNmzBEkA",
-      "source_url": "https://www.bilibili.com/video/BV1CxNmzBEkA",
+      "primary_bvid": "BV1wCnrzoECj",
+      "source_url": "https://www.bilibili.com/video/BV1wCnrzoECj",
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
-      "candidate_score": 23,
+      "candidate_score": 17,
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
-      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-499d480f21.svg",
-      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-499d480f21.svg",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3d55834cca.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3d55834cca.svg",
       "image_refs": [
         {
           "kind": "bilibili_cover",
           "status": "reference_only",
-          "url": "https://i0.hdslb.com/bfs/archive/51c84e8a1bacb3d7782b1f1076dfd1db975f154c.jpg",
+          "url": "https://i2.hdslb.com/bfs/archive/f254fd3bc13d8d16df688abdc335ea785a5238bc.jpg",
           "note": "Bilibili video cover URL; not rehosted by this repository."
         },
         {
           "kind": "generated_card",
           "status": "repo_owned",
-          "path": "assets/cards/xsg-title-499d480f21.svg",
-          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-499d480f21.svg",
+          "path": "assets/cards/xsg-title-3d55834cca.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3d55834cca.svg",
           "note": "仓库生成的文字梗图卡，不是视频截图。"
         }
       ],
-      "bilibili_url": "https://www.bilibili.com/video/BV1CxNmzBEkA",
-      "episode": 123,
-      "episode_title": "三国杀up锐评新三国123：唯有洞悉天意，才是真正强者",
-      "episode_pubdate": "2025-06-22T02:00:00Z",
+      "bilibili_url": "https://www.bilibili.com/video/BV1wCnrzoECj",
+      "episode": 173,
+      "episode_title": "三国杀up锐评新三国173：从来天意高难问，只恨苍天不助周",
+      "episode_pubdate": "2025-09-30T02:00:19Z",
       "episode_stats": {
-        "view": 1605359,
-        "danmaku": 14387,
-        "reply": 2682,
-        "favorite": 3890,
-        "coin": 19128,
-        "share": 657,
-        "like": 39172
+        "view": 1296949,
+        "danmaku": 12007,
+        "reply": 3224,
+        "favorite": 3508,
+        "coin": 14801,
+        "share": 581,
+        "like": 32522
       },
-      "search_text": "唯有洞悉天意，才是真正强者 从吃蛋挞的折棒《吐槽新三国》第 123 期标题中挖掘出的候选梗：唯有洞悉天意，才是真正强者  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国123：唯有洞悉天意，才是真正强者"
+      "search_text": "从来天意高难问 从吃蛋挞的折棒《吐槽新三国》第 173 期标题中挖掘出的候选梗：从来天意高难问  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国173：从来天意高难问，只恨苍天不助周"
+    },
+    {
+      "id": "xsg-title-439f3d92d2",
+      "title": "就让天意来决断吧",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 185 期标题中挖掘出的候选梗：就让天意来决断吧",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV18Vs5zTEWz",
+      "source_url": "https://www.bilibili.com/video/BV18Vs5zTEWz",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "title_mined_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-439f3d92d2.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-439f3d92d2.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i1.hdslb.com/bfs/archive/946c6ba17a8080eaa989226947d124b15f4c23dd.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-439f3d92d2.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-439f3d92d2.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV18Vs5zTEWz",
+      "episode": 185,
+      "episode_title": "三国杀up锐评新三国185：就让天意来决断吧！",
+      "episode_pubdate": "2025-10-24T02:00:00Z",
+      "episode_stats": {
+        "view": 1168094,
+        "danmaku": 10781,
+        "reply": 2719,
+        "favorite": 3009,
+        "coin": 13944,
+        "share": 463,
+        "like": 30205
+      },
+      "search_text": "就让天意来决断吧 从吃蛋挞的折棒《吐槽新三国》第 185 期标题中挖掘出的候选梗：就让天意来决断吧  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国185：就让天意来决断吧！"
     },
     {
       "id": "xsg-title-ab09b52539",
@@ -538,8 +668,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-ab09b52539.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-ab09b52539.svg",
       "image_refs": [
@@ -606,8 +736,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-bf57be98b5.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-bf57be98b5.svg",
       "image_refs": [
@@ -641,10 +771,206 @@
       "search_text": "最终看破真相的，是一个头脑异于常人的深井冰，曹操 从吃蛋挞的折棒《吐槽新三国》第 137 期标题中挖掘出的候选梗：最终看破真相的，是一个头脑异于常人的深井冰，曹操  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！"
     },
     {
-      "id": "xsg-title-c67c33c13e",
-      "title": "瞬息百里，平行宇宙，多重分身，我看的是三国吗",
+      "id": "xsg-title-c0390b9f6f",
+      "title": "凡事，皆有天意",
       "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 32 期标题中挖掘出的候选梗：瞬息百里，平行宇宙，多重分身，我看的是三国吗",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 161 期标题中挖掘出的候选梗：凡事，皆有天意",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV15RaazmEbg",
+      "source_url": "https://www.bilibili.com/video/BV15RaazmEbg",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "title_mined_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c0390b9f6f.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c0390b9f6f.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i0.hdslb.com/bfs/archive/dc4ff3757c5991486cc35a94bf73cc41c12d5189.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-c0390b9f6f.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c0390b9f6f.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV15RaazmEbg",
+      "episode": 161,
+      "episode_title": "三国杀up锐评新三国161：凡事，皆有天意！",
+      "episode_pubdate": "2025-09-06T02:00:00Z",
+      "episode_stats": {
+        "view": 1397952,
+        "danmaku": 15113,
+        "reply": 3002,
+        "favorite": 3530,
+        "coin": 16628,
+        "share": 512,
+        "like": 34340
+      },
+      "search_text": "凡事，皆有天意 从吃蛋挞的折棒《吐槽新三国》第 161 期标题中挖掘出的候选梗：凡事，皆有天意  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国161：凡事，皆有天意！"
+    },
+    {
+      "id": "xsg-title-cao-truth-seer",
+      "title": "曹操看破真相",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：曹操看破真相",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "人物梗",
+        "角色梗",
+        "世界观",
+        "理论梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1HkuZzGEvo",
+      "source_url": "https://www.bilibili.com/video/BV1HkuZzGEvo",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "curated_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cao-truth-seer.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cao-truth-seer.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i2.hdslb.com/bfs/archive/b516ca802cc73d390ad04b8629acac6e6eb0bb93.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-cao-truth-seer.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cao-truth-seer.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV1HkuZzGEvo",
+      "episode": 137,
+      "episode_title": "三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！",
+      "episode_pubdate": "2025-07-20T02:00:00Z",
+      "episode_stats": {
+        "view": 1446486,
+        "danmaku": 13440,
+        "reply": 3341,
+        "favorite": 3596,
+        "coin": 16389,
+        "share": 571,
+        "like": 36815
+      },
+      "search_text": "曹操看破真相 从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：曹操看破真相  新三国 折棒 人物梗 角色梗 世界观 理论梗 标题梗 正式梗 吐槽 一本正经 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！"
+    },
+    {
+      "id": "xsg-title-dongxi-tianyi",
+      "title": "唯有洞悉天意，才是真正强者",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：唯有洞悉天意，才是真正强者",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1CxNmzBEkA",
+      "source_url": "https://www.bilibili.com/video/BV1CxNmzBEkA",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "curated_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-dongxi-tianyi.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-dongxi-tianyi.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i0.hdslb.com/bfs/archive/51c84e8a1bacb3d7782b1f1076dfd1db975f154c.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-dongxi-tianyi.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-dongxi-tianyi.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV1CxNmzBEkA",
+      "episode": 123,
+      "episode_title": "三国杀up锐评新三国123：唯有洞悉天意，才是真正强者",
+      "episode_pubdate": "2025-06-22T02:00:00Z",
+      "episode_stats": {
+        "view": 1605359,
+        "danmaku": 14387,
+        "reply": 2682,
+        "favorite": 3890,
+        "coin": 19128,
+        "share": 657,
+        "like": 39172
+      },
+      "search_text": "唯有洞悉天意，才是真正强者 从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：唯有洞悉天意，才是真正强者  新三国 折棒 世界观 理论梗 标题梗 正式梗 吐槽 一本正经 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国123：唯有洞悉天意，才是真正强者"
+    },
+    {
+      "id": "xsg-title-e3f7ec7735",
+      "title": "历史从此再度巨变",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 236 期标题中挖掘出的候选梗：历史从此再度巨变",
       "aliases": [],
       "tags": [
         "新三国",
@@ -653,9 +979,76 @@
         "候选梗",
         "世界观",
         "理论梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1eeFMzwELk",
+      "source_url": "https://www.bilibili.com/video/BV1eeFMzwELk",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "title_mined_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-e3f7ec7735.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-e3f7ec7735.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i2.hdslb.com/bfs/archive/aece699220e43961b116fd6e4bd5b89b818455b2.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-e3f7ec7735.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-e3f7ec7735.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV1eeFMzwELk",
+      "episode": 236,
+      "episode_title": "三国杀up锐评新三国236：刘备诸葛彻底决裂，历史从此再度巨变",
+      "episode_pubdate": "2026-02-03T02:00:00Z",
+      "episode_stats": {
+        "view": 1591964,
+        "danmaku": 14761,
+        "reply": 5582,
+        "favorite": 4742,
+        "coin": 15181,
+        "share": 1356,
+        "like": 42251
+      },
+      "search_text": "历史从此再度巨变 从吃蛋挞的折棒《吐槽新三国》第 236 期标题中挖掘出的候选梗：历史从此再度巨变  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 历史梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国236：刘备诸葛彻底决裂，历史从此再度巨变"
+    },
+    {
+      "id": "xsg-title-parallel-clones",
+      "title": "瞬息百里，平行宇宙，多重分身，我看的是三国吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：瞬息百里，平行宇宙，多重分身，我看的是三国吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
         "回复",
         "反应图",
-        "历史梗"
+        "历史梗",
+        "标题梗",
+        "正式梗"
       ],
       "tone": [
         "吐槽",
@@ -665,20 +1058,18 @@
       "safe": true,
       "usage": [
         "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
+        "可被 skill 直接作为正式梗使用"
       ],
       "primary_bvid": "BV1twk8YGEP3",
       "source_url": "https://www.bilibili.com/video/BV1twk8YGEP3",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 36,
+      "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
-      "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
-      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c67c33c13e.svg",
-      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c67c33c13e.svg",
+      "source": "curated_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-parallel-clones.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-parallel-clones.svg",
       "image_refs": [
         {
           "kind": "bilibili_cover",
@@ -689,8 +1080,8 @@
         {
           "kind": "generated_card",
           "status": "repo_owned",
-          "path": "assets/cards/xsg-title-c67c33c13e.svg",
-          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c67c33c13e.svg",
+          "path": "assets/cards/xsg-title-parallel-clones.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-parallel-clones.svg",
           "note": "仓库生成的文字梗图卡，不是视频截图。"
         }
       ],
@@ -707,91 +1098,22 @@
         "share": 1286,
         "like": 55312
       },
-      "search_text": "瞬息百里，平行宇宙，多重分身，我看的是三国吗 从吃蛋挞的折棒《吐槽新三国》第 32 期标题中挖掘出的候选梗：瞬息百里，平行宇宙，多重分身，我看的是三国吗  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 回复 反应图 历史梗 吐槽 疑惑 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国32：瞬息百里，平行宇宙，多重分身，我看的是三国吗？"
+      "search_text": "瞬息百里，平行宇宙，多重分身，我看的是三国吗 从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：瞬息百里，平行宇宙，多重分身，我看的是三国吗  新三国 折棒 世界观 理论梗 回复 反应图 历史梗 标题梗 正式梗 吐槽 疑惑 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国32：瞬息百里，平行宇宙，多重分身，我看的是三国吗？"
     },
     {
-      "id": "xsg-title-dd797149d3",
-      "title": "虚空炼兵诸葛孔明，驭使天意谁人能挡",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 172 期标题中挖掘出的候选梗：虚空炼兵诸葛孔明，驭使天意谁人能挡",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "世界观",
-        "理论梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑",
-        "一本正经"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1Dbnnz1EXR",
-      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 31,
-      "image_status": "generated_card",
-      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
-      "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
-      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-dd797149d3.svg",
-      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-dd797149d3.svg",
-      "image_refs": [
-        {
-          "kind": "bilibili_cover",
-          "status": "reference_only",
-          "url": "https://i1.hdslb.com/bfs/archive/3543bfdf060a312c4e19ebff8f1167e9b2ceaa23.jpg",
-          "note": "Bilibili video cover URL; not rehosted by this repository."
-        },
-        {
-          "kind": "generated_card",
-          "status": "repo_owned",
-          "path": "assets/cards/xsg-title-dd797149d3.svg",
-          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-dd797149d3.svg",
-          "note": "仓库生成的文字梗图卡，不是视频截图。"
-        }
-      ],
-      "bilibili_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
-      "episode": 172,
-      "episode_title": "三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡",
-      "episode_pubdate": "2025-09-28T02:00:37Z",
-      "episode_stats": {
-        "view": 1463176,
-        "danmaku": 12405,
-        "reply": 3668,
-        "favorite": 4364,
-        "coin": 16183,
-        "share": 753,
-        "like": 37428
-      },
-      "search_text": "虚空炼兵诸葛孔明，驭使天意谁人能挡 从吃蛋挞的折棒《吐槽新三国》第 172 期标题中挖掘出的候选梗：虚空炼兵诸葛孔明，驭使天意谁人能挡  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 回复 反应图 吐槽 疑惑 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡"
-    },
-    {
-      "id": "xsg-title-de640e1b9e",
+      "id": "xsg-title-strongest-military-theory",
       "title": "史上最强军事理论诞生了",
       "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 11 期标题中挖掘出的候选梗：史上最强军事理论诞生了",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：史上最强军事理论诞生了",
       "aliases": [],
       "tags": [
         "新三国",
         "折棒",
-        "标题挖掘",
-        "候选梗",
         "世界观",
         "理论梗",
-        "历史梗"
+        "历史梗",
+        "标题梗",
+        "正式梗"
       ],
       "tone": [
         "吐槽",
@@ -801,20 +1123,18 @@
       "safe": true,
       "usage": [
         "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
+        "可被 skill 直接作为正式梗使用"
       ],
       "primary_bvid": "BV1qGDCYHEHi",
       "source_url": "https://www.bilibili.com/video/BV1qGDCYHEHi",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 31,
+      "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
-      "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
-      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-de640e1b9e.svg",
-      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-de640e1b9e.svg",
+      "source": "curated_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-strongest-military-theory.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-strongest-military-theory.svg",
       "image_refs": [
         {
           "kind": "bilibili_cover",
@@ -825,8 +1145,8 @@
         {
           "kind": "generated_card",
           "status": "repo_owned",
-          "path": "assets/cards/xsg-title-de640e1b9e.svg",
-          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-de640e1b9e.svg",
+          "path": "assets/cards/xsg-title-strongest-military-theory.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-strongest-military-theory.svg",
           "note": "仓库生成的文字梗图卡，不是视频截图。"
         }
       ],
@@ -843,7 +1163,74 @@
         "share": 2796,
         "like": 56254
       },
-      "search_text": "史上最强军事理论诞生了 从吃蛋挞的折棒《吐槽新三国》第 11 期标题中挖掘出的候选梗：史上最强军事理论诞生了  新三国 折棒 标题挖掘 候选梗 世界观 理论梗 历史梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国11：史上最强军事理论诞生了！"
+      "search_text": "史上最强军事理论诞生了 从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：史上最强军事理论诞生了  新三国 折棒 世界观 理论梗 历史梗 标题梗 正式梗 吐槽 一本正经 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国11：史上最强军事理论诞生了！"
+    },
+    {
+      "id": "xsg-title-wield-tianyi",
+      "title": "驭使天意谁人能挡",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：驭使天意谁人能挡",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "世界观",
+        "理论梗",
+        "回复",
+        "反应图",
+        "标题梗",
+        "正式梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "可被 skill 直接作为正式梗使用"
+      ],
+      "primary_bvid": "BV1Dbnnz1EXR",
+      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
+      "source_kind": "bilibili_title_promoted",
+      "image_status": "generated_card",
+      "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
+      "source": "curated_xin_sanguo_memes",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
+      "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-wield-tianyi.svg",
+      "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-wield-tianyi.svg",
+      "image_refs": [
+        {
+          "kind": "bilibili_cover",
+          "status": "reference_only",
+          "url": "https://i1.hdslb.com/bfs/archive/3543bfdf060a312c4e19ebff8f1167e9b2ceaa23.jpg",
+          "note": "Bilibili video cover URL; not rehosted by this repository."
+        },
+        {
+          "kind": "generated_card",
+          "status": "repo_owned",
+          "path": "assets/cards/xsg-title-wield-tianyi.svg",
+          "url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-wield-tianyi.svg",
+          "note": "仓库生成的文字梗图卡，不是视频截图。"
+        }
+      ],
+      "bilibili_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
+      "episode": 172,
+      "episode_title": "三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡",
+      "episode_pubdate": "2025-09-28T02:00:37Z",
+      "episode_stats": {
+        "view": 1463176,
+        "danmaku": 12405,
+        "reply": 3668,
+        "favorite": 4364,
+        "coin": 16183,
+        "share": 753,
+        "like": 37428
+      },
+      "search_text": "驭使天意谁人能挡 从吃蛋挞的折棒《吐槽新三国》系列标题中提升的正式梗：驭使天意谁人能挡  新三国 折棒 世界观 理论梗 回复 反应图 标题梗 正式梗 吐槽 疑惑 一本正经 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡"
     },
     {
       "id": "xsg-worldview-portal",
@@ -875,8 +1262,8 @@
       "image_status": "needs_curated_image",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-portal.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-portal.svg",
       "image_refs": [
@@ -923,8 +1310,8 @@
       "image_status": "needs_curated_image",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-tianyi.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-tianyi.svg",
       "image_refs": [
@@ -971,8 +1358,8 @@
       "image_status": "video_frame_needed",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-tianyi-erosion.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-tianyi-erosion.svg",
       "image_refs": [
@@ -1032,8 +1419,8 @@
       "image_status": "needs_source_review",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-06-30T06:51:24Z",
-      "updated_at": "2026-06-30T06:51:24Z",
+      "added_at": "2026-06-30T07:09:56Z",
+      "updated_at": "2026-06-30T07:09:56Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-toilet.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-toilet.svg",
       "image_refs": [

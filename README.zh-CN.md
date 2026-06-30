@@ -46,18 +46,18 @@ B站视频 BVID
 当前生成结果是：
 
 ```text
-总条目：419
-梗条目：122
+总条目：561
+梗条目：264
 折棒视频来源：297
 ```
 
 也就是说，现在不是 325 张图，而是：
 
 ```text
-32 个已整理的新三国梗
-90 个从视频标题挖出的候选梗
+84 个已整理的新三国梗
+180 个从视频标题挖出的候选梗
 297 个折棒系列视频来源
-122 张仓库生成的原创 SVG 文字梗图卡
+264 张仓库生成的原创 SVG 文字梗图卡
 ```
 
 ## 主要文件
@@ -139,12 +139,12 @@ scripts/collect_bilibili_candidates.py
 现在的分包是：
 
 ```text
-packs/worldview.json    世界观梗，比如天意、定律类
-packs/quotes.json       台词梗、短句梗
-packs/characters.json   人物梗、角色梗
-packs/episodes.json     折棒视频来源
-packs/reaction.json     可当回复/反应图用的梗
-packs/title-candidates.json  从视频标题自动挖出的候选梗
+packs/worldview.json    世界观梗，比如天意、定律类，当前 23 条
+packs/quotes.json       台词梗、短句梗，当前 11 条
+packs/characters.json   人物梗、角色梗，当前 85 条
+packs/episodes.json     折棒视频来源，当前 297 条
+packs/reaction.json     可当回复/反应图用的梗，当前 90 条
+packs/title-candidates.json  从视频标题自动挖出的候选梗，当前 180 条
 ```
 
 ## skill 怎么用

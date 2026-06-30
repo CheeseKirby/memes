@@ -41,6 +41,8 @@ data/bilibili-comment-targets.json
 data/comment-lexicon.json
 ```
 
+当前评论抽样目标是 57 个代表视频。脚本只保存聚合候选；如果 B 站接口临时失败，会保留已有统计，不会把旧数据清空。
+
 运行：
 
 ```bash

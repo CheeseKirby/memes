@@ -1,6 +1,6 @@
 {
   "schema": "https://github.com/CheeseKirby/memes/schema/bilibili-comment-candidates/v1",
-  "updated_at": "2026-06-30T06:50:20Z",
+  "updated_at": "2026-06-30T07:01:21Z",
   "notes": [
     "Only aggregate phrase counts are stored.",
     "Do not promote candidates into the main index without human review."
@@ -27,17 +27,17 @@
         {
           "phrase": "这20年来犯的最大的错误",
           "count": 1,
-          "like_sum": 21783
+          "like_sum": 21784
         },
         {
           "phrase": "就是回村没啥信号的情况下",
           "count": 1,
-          "like_sum": 21783
+          "like_sum": 21784
         },
         {
           "phrase": "缓存了全集的新三国",
           "count": 1,
-          "like_sum": 21783
+          "like_sum": 21784
         },
         {
           "phrase": "虽然很快乐了",

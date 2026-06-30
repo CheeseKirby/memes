@@ -124,14 +124,19 @@ def fetch_comments(aid: int, page: int, page_size: int, user_agent: str) -> list
 def collect(targets_path: Path, lexicon_path: Path, output_path: Path, max_pages: int, page_size: int, user_agent: str) -> int:
     targets = load_json(targets_path, {"targets": []}).get("targets", [])
     phrases = load_json(lexicon_path, {"phrases": []}).get("phrases", [])
+    previous = load_json(output_path, {"videos": []})
+    previous_by_bvid = {video["bvid"]: video for video in previous.get("videos", []) if video.get("bvid")}
     phrase_counts: dict[str, collections.Counter[str]] = {}
     candidate_counts: dict[str, collections.Counter[str]] = {}
     candidate_likes: dict[str, collections.Counter[str]] = {}
+    target_order: list[str] = []
+    page_size = max(1, min(page_size, 20))
 
     for target in targets:
         bvid = target.get("bvid")
         if not bvid:
             continue
+        target_order.append(bvid)
         counter: collections.Counter[str] = collections.Counter()
         candidate_counter: collections.Counter[str] = collections.Counter()
         like_counter: collections.Counter[str] = collections.Counter()
@@ -155,6 +160,31 @@ def collect(targets_path: Path, lexicon_path: Path, output_path: Path, max_pages
         candidate_counts[bvid] = candidate_counter
         candidate_likes[bvid] = like_counter
 
+    videos: list[dict[str, Any]] = []
+    emitted: set[str] = set()
+    for bvid in target_order:
+        if bvid in emitted:
+            continue
+        emitted.add(bvid)
+        if bvid in phrase_counts:
+            videos.append(
+                {
+                    "bvid": bvid,
+                    "url": f"https://www.bilibili.com/video/{bvid}",
+                    "lexicon_hits": [{"phrase": phrase, "count": count} for phrase, count in phrase_counts[bvid].most_common()],
+                    "short_phrase_candidates": [
+                        {
+                            "phrase": phrase,
+                            "count": count,
+                            "like_sum": candidate_likes[bvid][phrase],
+                        }
+                        for phrase, count in candidate_counts[bvid].most_common(20)
+                    ],
+                }
+            )
+        elif bvid in previous_by_bvid:
+            videos.append(previous_by_bvid[bvid])
+
     payload = {
         "schema": "https://github.com/CheeseKirby/memes/schema/bilibili-comment-candidates/v1",
         "updated_at": utc_now(),
@@ -162,22 +192,7 @@ def collect(targets_path: Path, lexicon_path: Path, output_path: Path, max_pages
             "Only aggregate phrase counts are stored.",
             "Do not promote candidates into the main index without human review."
         ],
-        "videos": [
-            {
-                "bvid": bvid,
-                "url": f"https://www.bilibili.com/video/{bvid}",
-                "lexicon_hits": [{"phrase": phrase, "count": count} for phrase, count in counter.most_common()],
-                "short_phrase_candidates": [
-                    {
-                        "phrase": phrase,
-                        "count": count,
-                        "like_sum": candidate_likes[bvid][phrase],
-                    }
-                    for phrase, count in candidate_counts[bvid].most_common(20)
-                ],
-            }
-            for bvid, counter in phrase_counts.items()
-        ],
+        "videos": videos,
     }
     write_json(output_path, payload)
     return len(payload["videos"])

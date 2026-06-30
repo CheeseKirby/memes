@@ -4,7 +4,7 @@
     "这些是从折棒系列视频标题自动挖出的候选梗。",
     "它们会进入主索引用于检索，但仍建议人工复核后再视为正式经典梗。"
   ],
-  "item_count": 90,
+  "item_count": 180,
   "items": [
     {
       "id": "xsg-title-bf57be98b5",
@@ -37,104 +37,6 @@
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 42,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-73540a944b",
-      "title": "虽然我曹操剑指天子，但我确实忠心耿耿啊",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 38 期标题中挖掘出的候选梗：虽然我曹操剑指天子，但我确实忠心耿耿啊",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV16F6rYxEMW",
-      "source_url": "https://www.bilibili.com/video/BV16F6rYxEMW",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 41,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-108ef07fd0",
-      "title": "5岁女儿做皇后，提前二十年称魏王，未来一片光明啊",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 69 期标题中挖掘出的候选梗：5岁女儿做皇后，提前二十年称魏王，未来一片光明啊",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "回复",
-        "反应图",
-        "历史梗"
-      ],
-      "tone": [
-        "吐槽",
-        "反讽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1WQ9fYDE9g",
-      "source_url": "https://www.bilibili.com/video/BV1WQ9fYDE9g",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 38,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-c67c33c13e",
-      "title": "瞬息百里，平行宇宙，多重分身，我看的是三国吗",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 32 期标题中挖掘出的候选梗：瞬息百里，平行宇宙，多重分身，我看的是三国吗",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "世界观",
-        "理论梗",
-        "回复",
-        "反应图",
-        "历史梗"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1twk8YGEP3",
-      "source_url": "https://www.bilibili.com/video/BV1twk8YGEP3",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 36,
       "image_status": "generated_card"
     },
     {
@@ -205,64 +107,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-eb8533ee68",
-      "title": "目中无人刘玄德，玩弄天子曹孟德，反贼疑似有点多了",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 7 期标题中挖掘出的候选梗：目中无人刘玄德，玩弄天子曹孟德，反贼疑似有点多了",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1ooSqYPEt5",
-      "source_url": "https://www.bilibili.com/video/BV1ooSqYPEt5",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 34,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-a0f33602aa",
-      "title": "曹操刘备原地成婚，这剧情太野了",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 63 期标题中挖掘出的候选梗：曹操刘备原地成婚，这剧情太野了",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1PSPFe5EzT",
-      "source_url": "https://www.bilibili.com/video/BV1PSPFe5EzT",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 33,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-30dd1ee23a",
       "title": "华雄变身人马兽，关羽的酒也没了",
       "item_type": "meme",
@@ -293,133 +137,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-4317cde88c",
-      "title": "刘关张互相决斗，这打戏是给地球人看的吗",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 13 期标题中挖掘出的候选梗：刘关张互相决斗，这打戏是给地球人看的吗",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1edUKYzEEJ",
-      "source_url": "https://www.bilibili.com/video/BV1edUKYzEEJ",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 33,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-2378468ada",
-      "title": "春秋胡言乱语！—曹操",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 49 期标题中挖掘出的候选梗：春秋胡言乱语！—曹操",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1ybfpYbEqo",
-      "source_url": "https://www.bilibili.com/video/BV1ybfpYbEqo",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 32,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-dd797149d3",
-      "title": "虚空炼兵诸葛孔明，驭使天意谁人能挡",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 172 期标题中挖掘出的候选梗：虚空炼兵诸葛孔明，驭使天意谁人能挡",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "世界观",
-        "理论梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑",
-        "一本正经"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1Dbnnz1EXR",
-      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 31,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-de640e1b9e",
-      "title": "史上最强军事理论诞生了",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 11 期标题中挖掘出的候选梗：史上最强军事理论诞生了",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "世界观",
-        "理论梗",
-        "历史梗"
-      ],
-      "tone": [
-        "吐槽",
-        "一本正经"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1qGDCYHEHi",
-      "source_url": "https://www.bilibili.com/video/BV1qGDCYHEHi",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 31,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-66f2df4088",
       "title": "一夜过去，貂蝉被董卓征服了",
       "item_type": "meme",
@@ -447,99 +164,6 @@
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 31,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-07ef5dedf7",
-      "title": "这曹操是哪来的变态杀人狂",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 5 期标题中挖掘出的候选梗：这曹操是哪来的变态杀人狂",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗",
-        "发癫",
-        "吐槽"
-      ],
-      "tone": [
-        "吐槽",
-        "失控"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1vDSgYpEA5",
-      "source_url": "https://www.bilibili.com/video/BV1vDSgYpEA5",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 30,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-280d5f69a1",
-      "title": "诸葛亮小乔终成眷属，只有周瑜受伤的世界达成了",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 124 期标题中挖掘出的候选梗：诸葛亮小乔终成眷属，只有周瑜受伤的世界达成了",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1HVKezPEdx",
-      "source_url": "https://www.bilibili.com/video/BV1HVKezPEdx",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 30,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-00951d4e7c",
-      "title": "礼崩乐坏，逆天至极，编剧大脑究竟什么构造",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 22 期标题中挖掘出的候选梗：礼崩乐坏，逆天至极，编剧大脑究竟什么构造",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1CZzfY1EUt",
-      "source_url": "https://www.bilibili.com/video/BV1CZzfY1EUt",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 30,
       "image_status": "generated_card"
     },
     {
@@ -599,36 +223,6 @@
       ],
       "primary_bvid": "BV1mFCsYwEif",
       "source_url": "https://www.bilibili.com/video/BV1mFCsYwEif",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 30,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-0a25d90e89",
-      "title": "刘备大奸似忠、大伪似真，是个百年罕见的伪君子",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 142 期标题中挖掘出的候选梗：刘备大奸似忠、大伪似真，是个百年罕见的伪君子",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1i78dzVEct",
-      "source_url": "https://www.bilibili.com/video/BV1i78dzVEct",
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 30,
@@ -719,68 +313,6 @@
       ],
       "primary_bvid": "BV1K2DLYsE4a",
       "source_url": "https://www.bilibili.com/video/BV1K2DLYsE4a",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 29,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-e1fc3c512a",
-      "title": "刘备祭祖为什么拜秦始皇",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 16 期标题中挖掘出的候选梗：刘备祭祖为什么拜秦始皇",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1c6ScYuEZM",
-      "source_url": "https://www.bilibili.com/video/BV1c6ScYuEZM",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 29,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-ef1301691c",
-      "title": "刘备发动技能挑衅，新三秒变宫斗剧",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 51 期标题中挖掘出的候选梗：刘备发动技能挑衅，新三秒变宫斗剧",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1DDF4eXEk6",
-      "source_url": "https://www.bilibili.com/video/BV1DDF4eXEk6",
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 29,
@@ -972,64 +504,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-960091b85a",
-      "title": "王允因吃不起饭改行做丐帮帮主",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 21 期标题中挖掘出的候选梗：王允因吃不起饭改行做丐帮帮主",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1oeBRYQEzr",
-      "source_url": "https://www.bilibili.com/video/BV1oeBRYQEzr",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 27,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-d05918ed5c",
-      "title": "很显然，这个世界是一个巨大的剧本杀",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 23 期标题中挖掘出的候选梗：很显然，这个世界是一个巨大的剧本杀",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1vczQYrEPx",
-      "source_url": "https://www.bilibili.com/video/BV1vczQYrEPx",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 27,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-c4a5dacc2e",
       "title": "关平受命伏杀张飞，弱智卧龙大展神威",
       "item_type": "meme",
@@ -1057,37 +531,6 @@
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 27,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-b687370bbd",
-      "title": "这剧里还能有一个正常人吗",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 3 期标题中挖掘出的候选梗：这剧里还能有一个正常人吗",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV15kyDYpEdQ",
-      "source_url": "https://www.bilibili.com/video/BV15kyDYpEdQ",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 26,
       "image_status": "generated_card"
     },
     {
@@ -1179,36 +622,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-c178365c7d",
-      "title": "曹操刘备原地成婚",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 63 期标题中挖掘出的候选梗：曹操刘备原地成婚",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1PSPFe5EzT",
-      "source_url": "https://www.bilibili.com/video/BV1PSPFe5EzT",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 26,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-84f597f3d5",
       "title": "大汉反贼荀文若，天子已入吾彀中矣",
       "item_type": "meme",
@@ -1294,37 +707,6 @@
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 26,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-64896a5fa2",
-      "title": "这打戏是给地球人看的吗",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 13 期标题中挖掘出的候选梗：这打戏是给地球人看的吗",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1edUKYzEEJ",
-      "source_url": "https://www.bilibili.com/video/BV1edUKYzEEJ",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 25,
       "image_status": "generated_card"
     },
     {
@@ -1926,34 +1308,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-e10a27d977",
-      "title": "这个世界是一个巨大的剧本杀",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 23 期标题中挖掘出的候选梗：这个世界是一个巨大的剧本杀",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1vczQYrEPx",
-      "source_url": "https://www.bilibili.com/video/BV1vczQYrEPx",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 23,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-d71a6e7d32",
       "title": "数学先驱诸葛亮，领先世界一千年",
       "item_type": "meme",
@@ -2105,37 +1459,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-499d480f21",
-      "title": "唯有洞悉天意，才是真正强者",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 123 期标题中挖掘出的候选梗：唯有洞悉天意，才是真正强者",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "世界观",
-        "理论梗"
-      ],
-      "tone": [
-        "吐槽",
-        "一本正经"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1CxNmzBEkA",
-      "source_url": "https://www.bilibili.com/video/BV1CxNmzBEkA",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 23,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-74c87ef1ba",
       "title": "刘备跳明反",
       "item_type": "meme",
@@ -2163,70 +1486,6 @@
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 23,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-30a2a341b9",
-      "title": "但我确实忠心耿耿啊",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 38 期标题中挖掘出的候选梗：但我确实忠心耿耿啊",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV16F6rYxEMW",
-      "source_url": "https://www.bilibili.com/video/BV16F6rYxEMW",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 23,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-44e751ec62",
-      "title": "驭使天意谁人能挡",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 172 期标题中挖掘出的候选梗：驭使天意谁人能挡",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "世界观",
-        "理论梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑",
-        "一本正经"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1Dbnnz1EXR",
-      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
       "image_status": "generated_card"
     },
     {
@@ -2258,65 +1517,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-83a312bd0e",
-      "title": "自今日起，我诸葛亮为蜀汉之主",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 253 期标题中挖掘出的候选梗：自今日起，我诸葛亮为蜀汉之主",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗",
-        "历史梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1LLNgzDExr",
-      "source_url": "https://www.bilibili.com/video/BV1LLNgzDExr",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-4016a7f970",
-      "title": "皇上视我如父，天下之事岂可不顺我意",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 20 期标题中挖掘出的候选梗：皇上视我如父，天下之事岂可不顺我意",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1teBdYrERB",
-      "source_url": "https://www.bilibili.com/video/BV1teBdYrERB",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-21aaf23956",
       "title": "曹丕辣手毒杀曹冲，世子之争已达巅峰",
       "item_type": "meme",
@@ -2339,94 +1539,6 @@
       ],
       "primary_bvid": "BV17KgTzZEbx",
       "source_url": "https://www.bilibili.com/video/BV17KgTzZEbx",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-bddfcd0182",
-      "title": "惊现负二十四岁的阴间子民，太可怕了",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 66 期标题中挖掘出的候选梗：惊现负二十四岁的阴间子民，太可怕了",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1mx9AYcEKf",
-      "source_url": "https://www.bilibili.com/video/BV1mx9AYcEKf",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-9cbdc59782",
-      "title": "司马懿功力深不可测啊",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 247 期标题中挖掘出的候选梗：司马懿功力深不可测啊",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "人物梗",
-        "角色梗",
-        "回复",
-        "反应图"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1BDfUBUELC",
-      "source_url": "https://www.bilibili.com/video/BV1BDfUBUELC",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-37da98b65a",
-      "title": "反贼跳忠，忠臣跳内，这游戏没法玩了",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 27 期标题中挖掘出的候选梗：反贼跳忠，忠臣跳内，这游戏没法玩了",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1GSqDYAEBL",
-      "source_url": "https://www.bilibili.com/video/BV1GSqDYAEBL",
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 22,
@@ -2550,38 +1662,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-6c86395545",
-      "title": "我看的是三国吗",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 32 期标题中挖掘出的候选梗：我看的是三国吗",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "回复",
-        "反应图",
-        "历史梗"
-      ],
-      "tone": [
-        "吐槽",
-        "疑惑"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1twk8YGEP3",
-      "source_url": "https://www.bilibili.com/video/BV1twk8YGEP3",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 21,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-8feb574d8c",
       "title": "我打了一辈子的仗，就不能享受享受吗",
       "item_type": "meme",
@@ -2671,38 +1751,10 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-e810c37e95",
-      "title": "少将军深通兵略，所说极确极明，老夫敬佩不已",
+      "id": "xsg-title-32a783c41f",
+      "title": "刘备久进不出，待我一探究竟",
       "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 273 期标题中挖掘出的候选梗：少将军深通兵略，所说极确极明，老夫敬佩不已",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1Zkd5BLE2X",
-      "source_url": "https://www.bilibili.com/video/BV1Zkd5BLE2X",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 21,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-926677b10f",
-      "title": "刘备发动技能挑衅",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 51 期标题中挖掘出的候选梗：刘备发动技能挑衅",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 93 期标题中挖掘出的候选梗：刘备久进不出，待我一探究竟",
       "aliases": [],
       "tags": [
         "新三国",
@@ -2721,11 +1773,3564 @@
         "作为新三国语境下的吐槽短句",
         "需要人工复核后可提升为正式梗条目"
       ],
-      "primary_bvid": "BV1DDF4eXEk6",
-      "source_url": "https://www.bilibili.com/video/BV1DDF4eXEk6",
+      "primary_bvid": "BV1Um5dzZEEd",
+      "source_url": "https://www.bilibili.com/video/BV1Um5dzZEEd",
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 21,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-adfd25ad33",
+      "title": "全员人机复读课文，舌战群儒烂完了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 112 期标题中挖掘出的候选梗：全员人机复读课文，舌战群儒烂完了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1Am7szuES9",
+      "source_url": "https://www.bilibili.com/video/BV1Am7szuES9",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 21,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-1684e82538",
+      "title": "主公生气了，称帝有望了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 231 期标题中挖掘出的候选梗：主公生气了，称帝有望了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1LNzuBEE1z",
+      "source_url": "https://www.bilibili.com/video/BV1LNzuBEE1z",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 21,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-76410338ea",
+      "title": "一壶酒就可以收下一颗被你伤过的心吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 177 期标题中挖掘出的候选梗：一壶酒就可以收下一颗被你伤过的心吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1kHxDzhEyV",
+      "source_url": "https://www.bilibili.com/video/BV1kHxDzhEyV",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 21,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-f2b35db185",
+      "title": "那就容我诸葛亮告老还乡了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 169 期标题中挖掘出的候选梗：那就容我诸葛亮告老还乡了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1ExJRzXEx5",
+      "source_url": "https://www.bilibili.com/video/BV1ExJRzXEx5",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-59c1255684",
+      "title": "诸葛亮与刀斧手的再次相会",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 203 期标题中挖掘出的候选梗：诸葛亮与刀斧手的再次相会",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1dMSnB3E5d",
+      "source_url": "https://www.bilibili.com/video/BV1dMSnB3E5d",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-a0b820a722",
+      "title": "袁绍家门口漏成筛子了，没人管管吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 81 期标题中挖掘出的候选梗：袁绍家门口漏成筛子了，没人管管吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1p4ZAYNEZT",
+      "source_url": "https://www.bilibili.com/video/BV1p4ZAYNEZT",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-b22e8e650f",
+      "title": "曹操视妙龄少女如残花败柳",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 114 期标题中挖掘出的候选梗：曹操视妙龄少女如残花败柳",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1Xx7ez5Eui",
+      "source_url": "https://www.bilibili.com/video/BV1Xx7ez5Eui",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-e93d135a7f",
+      "title": "我当了十年吴侯了，这江东到底姓孙还是姓周",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 159 期标题中挖掘出的候选梗：我当了十年吴侯了，这江东到底姓孙还是姓周",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1sdaHzTEfw",
+      "source_url": "https://www.bilibili.com/video/BV1sdaHzTEfw",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-fae990f8c2",
+      "title": "当你在关羽之歌里攻打关羽",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 218 期标题中挖掘出的候选梗：当你在关羽之歌里攻打关羽",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1T3vyB4EZR",
+      "source_url": "https://www.bilibili.com/video/BV1T3vyB4EZR",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-aaf528ef87",
+      "title": "孙礼回不来了，谁肯给本督一个面子",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 270 期标题中挖掘出的候选梗：孙礼回不来了，谁肯给本督一个面子",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV14nQMBaEta",
+      "source_url": "https://www.bilibili.com/video/BV14nQMBaEta",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-92bf683b2b",
+      "title": "司马懿也能体验凤凰涅槃了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 280 期标题中挖掘出的候选梗：司马懿也能体验凤凰涅槃了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1tDR3BJEWz",
+      "source_url": "https://www.bilibili.com/video/BV1tDR3BJEWz",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-2648bf57f6",
+      "title": "原来历史早已发生巨变",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 288 期标题中挖掘出的候选梗：原来历史早已发生巨变",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1aSLn6WEX2",
+      "source_url": "https://www.bilibili.com/video/BV1aSLn6WEX2",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-7e554c30c2",
+      "title": "你连人都没医死，也好意思叫神医",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 129 期标题中挖掘出的候选梗：你连人都没医死，也好意思叫神医",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1vt3gzPEAv",
+      "source_url": "https://www.bilibili.com/video/BV1vt3gzPEAv",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-774aefb423",
+      "title": "你杀朕两次还不够，还要杀第三次吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 229 期标题中挖掘出的候选梗：你杀朕两次还不够，还要杀第三次吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1WjkgB6EAs",
+      "source_url": "https://www.bilibili.com/video/BV1WjkgB6EAs",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-a854bf68d8",
+      "title": "与其寻找一个主公，不如为自己创造一个主公",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 98 期标题中挖掘出的候选梗：与其寻找一个主公，不如为自己创造一个主公",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV14hVjzVEit",
+      "source_url": "https://www.bilibili.com/video/BV14hVjzVEit",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-ec870494f1",
+      "title": "三国时期的实时网络直播技术疑似有点先进了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 26 期标题中挖掘出的候选梗：三国时期的实时网络直播技术疑似有点先进了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1WHqNY9EWp",
+      "source_url": "https://www.bilibili.com/video/BV1WHqNY9EWp",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-919b6d4b53",
+      "title": "这徐州到底你是主，还是我是主",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 41 期标题中挖掘出的候选梗：这徐州到底你是主，还是我是主",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1hVreY4Ef5",
+      "source_url": "https://www.bilibili.com/video/BV1hVreY4Ef5",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-86c4a5df7e",
+      "title": "这天上人间，真是让人乐不思蜀啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 95 期标题中挖掘出的候选梗：这天上人间，真是让人乐不思蜀啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1hjLfz6Ex6",
+      "source_url": "https://www.bilibili.com/video/BV1hjLfz6Ex6",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-7b00799ecb",
+      "title": "没人跟我说世子之争还有加时赛啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 222 期标题中挖掘出的候选梗：没人跟我说世子之争还有加时赛啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1r5iZBREkg",
+      "source_url": "https://www.bilibili.com/video/BV1r5iZBREkg",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-53e9aae389",
+      "title": "曹操就是天子",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 39 期标题中挖掘出的候选梗：曹操就是天子",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1KmrWYsEVS",
+      "source_url": "https://www.bilibili.com/video/BV1KmrWYsEVS",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-65acc8f2d0",
+      "title": "普天同庆！张飞归天了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 235 期标题中挖掘出的候选梗：普天同庆！张飞归天了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1cy6HBPE6a",
+      "source_url": "https://www.bilibili.com/video/BV1cy6HBPE6a",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-8882e9a10c",
+      "title": "新三史记载，董白被犒赏三军了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 15 期标题中挖掘出的候选梗：新三史记载，董白被犒赏三军了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1RLU7YiEnU",
+      "source_url": "https://www.bilibili.com/video/BV1RLU7YiEnU",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-b20445c4d8",
+      "title": "怎么还有限制级画面，这是三国吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 67 期标题中挖掘出的候选梗：怎么还有限制级画面，这是三国吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1QwXRYyEJq",
+      "source_url": "https://www.bilibili.com/video/BV1QwXRYyEJq",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-e49fadf0dc",
+      "title": "孔明只要钱粮在手，马上就能变出十万大军",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 107 期标题中挖掘出的候选梗：孔明只要钱粮在手，马上就能变出十万大军",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1rnJazoE5m",
+      "source_url": "https://www.bilibili.com/video/BV1rnJazoE5m",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-62afc2f75f",
+      "title": "天子就是曹操",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 39 期标题中挖掘出的候选梗：天子就是曹操",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1KmrWYsEVS",
+      "source_url": "https://www.bilibili.com/video/BV1KmrWYsEVS",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-c35d8dc92c",
+      "title": "大型纪录片《范疆张达在哪里》持续热播中",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 78 期标题中挖掘出的候选梗：大型纪录片《范疆张达在哪里》持续热播中",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV15vXaY9EgM",
+      "source_url": "https://www.bilibili.com/video/BV15vXaY9EgM",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-6646071eb5",
+      "title": "以神礼观众之名，鲁子敬已走到命运的终点",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 207 期标题中挖掘出的候选梗：以神礼观众之名，鲁子敬已走到命运的终点",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1Ef29BvExh",
+      "source_url": "https://www.bilibili.com/video/BV1Ef29BvExh",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-383309eb7d",
+      "title": "马谡，你听说过春秋时的赵括吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 245 期标题中挖掘出的候选梗：马谡，你听说过春秋时的赵括吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1zCfGBmE7C",
+      "source_url": "https://www.bilibili.com/video/BV1zCfGBmE7C",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-7013f003c5",
+      "title": "马岱也能七进七出，新三战力还是太高了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 183 期标题中挖掘出的候选梗：马岱也能七进七出，新三战力还是太高了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1YSsNzDE6C",
+      "source_url": "https://www.bilibili.com/video/BV1YSsNzDE6C",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-203f8e28a7",
+      "title": "这事要流传百年了啊啊啊啊啊啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 287 期标题中挖掘出的候选梗：这事要流传百年了啊啊啊啊啊啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV17f5i6zEWA",
+      "source_url": "https://www.bilibili.com/video/BV17f5i6zEWA",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-0453c7104d",
+      "title": "这个世界太魔幻了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 48 期标题中挖掘出的候选梗：这个世界太魔幻了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1n5fYYUEw3",
+      "source_url": "https://www.bilibili.com/video/BV1n5fYYUEw3",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-a52fe6280e",
+      "title": "诸葛亮，他是我的天敌",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 153 期标题中挖掘出的候选梗：诸葛亮，他是我的天敌",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1NVeVzDEd7",
+      "source_url": "https://www.bilibili.com/video/BV1NVeVzDEd7",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-a08e00c437",
+      "title": "论出身，我是皇室宗亲，他却是宦官之后",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 193 期标题中挖掘出的候选梗：论出身，我是皇室宗亲，他却是宦官之后",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1vi19B4Eu2",
+      "source_url": "https://www.bilibili.com/video/BV1vi19B4Eu2",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-2f9a838ed6",
+      "title": "苍天呐，诸葛亮要走了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 286 期标题中挖掘出的候选梗：苍天呐，诸葛亮要走了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1Cs526kE6B",
+      "source_url": "https://www.bilibili.com/video/BV1Cs526kE6B",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-a55e5fbb10",
+      "title": "狂徒！天下英雄闻我名无不丧胆",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 215 期标题中挖掘出的候选梗：狂徒！天下英雄闻我名无不丧胆",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1SyBbBbESV",
+      "source_url": "https://www.bilibili.com/video/BV1SyBbBbESV",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-cbd72bc6c4",
+      "title": "正因为你们不听我曹操",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 5 期标题中挖掘出的候选梗：正因为你们不听我曹操",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1fGVD6VEv9",
+      "source_url": "https://www.bilibili.com/video/BV1fGVD6VEv9",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-6398d4ff69",
+      "title": "梅花煮酒论英雄，太有个性了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 62 期标题中挖掘出的候选梗：梅花煮酒论英雄，太有个性了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1UUArewEXm",
+      "source_url": "https://www.bilibili.com/video/BV1UUArewEXm",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-10f72a6b27",
+      "title": "我匣中宝剑吱吱作响，浑身骨头酸痒难耐",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 271 期标题中挖掘出的候选梗：我匣中宝剑吱吱作响，浑身骨头酸痒难耐",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV18eQ8BAEyF",
+      "source_url": "https://www.bilibili.com/video/BV18eQ8BAEyF",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-f1b3739bc8",
+      "title": "弱智卧龙大展神威",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 104 期标题中挖掘出的候选梗：弱智卧龙大展神威",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1u2EqzHEho",
+      "source_url": "https://www.bilibili.com/video/BV1u2EqzHEho",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-439f3d92d2",
+      "title": "就让天意来决断吧",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 185 期标题中挖掘出的候选梗：就让天意来决断吧",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV18Vs5zTEWz",
+      "source_url": "https://www.bilibili.com/video/BV18Vs5zTEWz",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-7cb52c085a",
+      "title": "封王大圆满？我已是半步天子境",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 208 期标题中挖掘出的候选梗：封王大圆满？我已是半步天子境",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1U222B8Egs",
+      "source_url": "https://www.bilibili.com/video/BV1U222B8Egs",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-9a23c0a7cc",
+      "title": "天子已入吾彀中矣",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 36 期标题中挖掘出的候选梗：天子已入吾彀中矣",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1qT6aYfEio",
+      "source_url": "https://www.bilibili.com/video/BV1qT6aYfEio",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-9f741265d2",
+      "title": "四十军棍算什么？再来八十军棍",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 243 期标题中挖掘出的候选梗：四十军棍算什么？再来八十军棍",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1XHZgBcEdb",
+      "source_url": "https://www.bilibili.com/video/BV1XHZgBcEdb",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-1615a4a008",
+      "title": "啊哈哈哈，鸡汤来喽",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 37 期标题中挖掘出的候选梗：啊哈哈哈，鸡汤来喽",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1bK6HYSEH4",
+      "source_url": "https://www.bilibili.com/video/BV1bK6HYSEH4",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-0620cc990a",
+      "title": "哪怕不要这把老骨头，臣也要为陛下建功",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 267 期标题中挖掘出的候选梗：哪怕不要这把老骨头，臣也要为陛下建功",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV124SXBEE5k",
+      "source_url": "https://www.bilibili.com/video/BV124SXBEE5k",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-b6496817a1",
+      "title": "周瑜惨遭双重PUA，逆天权谋还在追我",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 103 期标题中挖掘出的候选梗：周瑜惨遭双重PUA，逆天权谋还在追我",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1kw7RzHEYG",
+      "source_url": "https://www.bilibili.com/video/BV1kw7RzHEYG",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-715ba86e3d",
+      "title": "吾有三罪，未能到现场、喝尽兴、不装壁",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 72 期标题中挖掘出的候选梗：吾有三罪，未能到现场、喝尽兴、不装壁",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1i4QGYeE6Y",
+      "source_url": "https://www.bilibili.com/video/BV1i4QGYeE6Y",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-c5fbe07d82",
+      "title": "可供人无忧的安眠",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 223 期标题中挖掘出的候选梗：可供人无忧的安眠",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV16Zi2BdEo1",
+      "source_url": "https://www.bilibili.com/video/BV16Zi2BdEo1",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-e3f7ec7735",
+      "title": "历史从此再度巨变",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 236 期标题中挖掘出的候选梗：历史从此再度巨变",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1eeFMzwELk",
+      "source_url": "https://www.bilibili.com/video/BV1eeFMzwELk",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-51a638fc0d",
+      "title": "刘备再不是先前主公了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 204 期标题中挖掘出的候选梗：刘备再不是先前主公了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1fqSzBPEj1",
+      "source_url": "https://www.bilibili.com/video/BV1fqSzBPEj1",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-0f7fd46ef8",
+      "title": "关平受命伏杀张飞",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 104 期标题中挖掘出的候选梗：关平受命伏杀张飞",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1u2EqzHEho",
+      "source_url": "https://www.bilibili.com/video/BV1u2EqzHEho",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-25037474fd",
+      "title": "你那总打败仗的爹怎么不来受死",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 269 期标题中挖掘出的候选梗：你那总打败仗的爹怎么不来受死",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1JWDtBME4o",
+      "source_url": "https://www.bilibili.com/video/BV1JWDtBME4o",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-db7a4ab19a",
+      "title": "你有貂蝉赤兔，我们没有，所以我们反了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 56 期标题中挖掘出的候选梗：你有貂蝉赤兔，我们没有，所以我们反了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1QVNNeTEEP",
+      "source_url": "https://www.bilibili.com/video/BV1QVNNeTEEP",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-acb09a31ae",
+      "title": "五虎仅剩一人，谁敢担北伐先锋",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 257 期标题中挖掘出的候选梗：五虎仅剩一人，谁敢担北伐先锋",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1srwUziEi6",
+      "source_url": "https://www.bilibili.com/video/BV1srwUziEi6",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-6b639a8047",
+      "title": "不是我刘备害了你……",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 145 期标题中挖掘出的候选梗：不是我刘备害了你……",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1pXtVzYE7R",
+      "source_url": "https://www.bilibili.com/video/BV1pXtVzYE7R",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-81d99b396f",
+      "title": "鲁肃小乔齐坑周瑜，公瑾还是活太久了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 117 期标题中挖掘出的候选梗：鲁肃小乔齐坑周瑜，公瑾还是活太久了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1SvTBztEgi",
+      "source_url": "https://www.bilibili.com/video/BV1SvTBztEgi",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-ca080947cc",
+      "title": "酒蒙子庞统喝光家产，酒还是太高贵了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 176 期标题中挖掘出的候选梗：酒蒙子庞统喝光家产，酒还是太高贵了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1xoxTzmEb3",
+      "source_url": "https://www.bilibili.com/video/BV1xoxTzmEb3",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-2febb78c53",
+      "title": "这曲子，弹错了八百个音调啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 73 期标题中挖掘出的候选梗：这曲子，弹错了八百个音调啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1JnQWYMECs",
+      "source_url": "https://www.bilibili.com/video/BV1JnQWYMECs",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-8c1f0fc28f",
+      "title": "这是上天赐我的葬身之地呀",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 200 期标题中挖掘出的候选梗：这是上天赐我的葬身之地呀",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV144UxB6E13",
+      "source_url": "https://www.bilibili.com/video/BV144UxB6E13",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-f6a643e4fc",
+      "title": "这就是传说中的两栖蜘蛛侠吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 217 期标题中挖掘出的候选梗：这就是传说中的两栖蜘蛛侠吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1EwBqBcEPF",
+      "source_url": "https://www.bilibili.com/video/BV1EwBqBcEPF",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-2701f16eb9",
+      "title": "这世上还有比你更健忘的人吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 212 期标题中挖掘出的候选梗：这世上还有比你更健忘的人吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1aWqvB5EcJ",
+      "source_url": "https://www.bilibili.com/video/BV1aWqvB5EcJ",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-abdfb7462e",
+      "title": "论空间跃迁技术在的可行性",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 17 期标题中挖掘出的候选梗：论空间跃迁技术在的可行性",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1CAU9YnETr",
+      "source_url": "https://www.bilibili.com/video/BV1CAU9YnETr",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-db8e9469e9",
+      "title": "让许褚砍他自己的爹娘，他都不皱眉头",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 184 期标题中挖掘出的候选梗：让许褚砍他自己的爹娘，他都不皱眉头",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1SzWRzmErM",
+      "source_url": "https://www.bilibili.com/video/BV1SzWRzmErM",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-b1eb90f5f5",
+      "title": "王允献城",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 28 期标题中挖掘出的候选梗：王允献城",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1XpBgYHE1i",
+      "source_url": "https://www.bilibili.com/video/BV1XpBgYHE1i",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-ea06cd643e",
+      "title": "死是凉爽的夏夜",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 223 期标题中挖掘出的候选梗：死是凉爽的夏夜",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV16Zi2BdEo1",
+      "source_url": "https://www.bilibili.com/video/BV16Zi2BdEo1",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-13b24b94a2",
+      "title": "最终看破真相的",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 137 期标题中挖掘出的候选梗：最终看破真相的",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1HkuZzGEvo",
+      "source_url": "https://www.bilibili.com/video/BV1HkuZzGEvo",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-36fc92dbb1",
+      "title": "时空异变愈发频繁，世界意志还在发力",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 47 期标题中挖掘出的候选梗：时空异变愈发频繁，世界意志还在发力",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1C7wWeiEAy",
+      "source_url": "https://www.bilibili.com/video/BV1C7wWeiEAy",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-74f5f71119",
+      "title": "我吐血不止，一怒之下就继续吐血不止",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 139 期标题中挖掘出的候选梗：我吐血不止，一怒之下就继续吐血不止",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1D58PzWEwf",
+      "source_url": "https://www.bilibili.com/video/BV1D58PzWEwf",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-026c009884",
+      "title": "我们的霸业正在蒸蒸日上哦",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 110 期标题中挖掘出的候选梗：我们的霸业正在蒸蒸日上哦",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1a1jSzXEag",
+      "source_url": "https://www.bilibili.com/video/BV1a1jSzXEag",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-2b856ed55f",
+      "title": "庞统人称小于禁，铁索连环关凤雏何事",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 119 期标题中挖掘出的候选梗：庞统人称小于禁，铁索连环关凤雏何事",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1rCM6z9Etr",
+      "source_url": "https://www.bilibili.com/video/BV1rCM6z9Etr",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-3bc139dcdd",
+      "title": "岂有连营七百里可以拒敌的吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 246 期标题中挖掘出的候选梗：岂有连营七百里可以拒敌的吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV14DfwBAEck",
+      "source_url": "https://www.bilibili.com/video/BV14DfwBAEck",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-7058607964",
+      "title": "孔明在火中安睡",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 100 期标题中挖掘出的候选梗：孔明在火中安睡",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV14kVpzFE9z",
+      "source_url": "https://www.bilibili.com/video/BV14kVpzFE9z",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-f538ad9625",
+      "title": "如果我们先干掉曹操",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 126 期标题中挖掘出的候选梗：如果我们先干掉曹操",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV17DKqzvEPf",
+      "source_url": "https://www.bilibili.com/video/BV17DKqzvEPf",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-92ff7c324a",
+      "title": "女子，就不能做荆州之主了吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 94 期标题中挖掘出的候选梗：女子，就不能做荆州之主了吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1mjL3zNEkL",
+      "source_url": "https://www.bilibili.com/video/BV1mjL3zNEkL",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-75b09d132a",
+      "title": "大汉反贼荀文若",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 36 期标题中挖掘出的候选梗：大汉反贼荀文若",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1qT6aYfEio",
+      "source_url": "https://www.bilibili.com/video/BV1qT6aYfEio",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-3699eb0e61",
+      "title": "周瑜张昭共掌大权，这制衡算玩明白了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 115 期标题中挖掘出的候选梗：周瑜张昭共掌大权，这制衡算玩明白了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1MqT4ztE6p",
+      "source_url": "https://www.bilibili.com/video/BV1MqT4ztE6p",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-9daf9f50e7",
+      "title": "听说你家刘备还没死",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 90 期标题中挖掘出的候选梗：听说你家刘备还没死",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1jNogYzEFd",
+      "source_url": "https://www.bilibili.com/video/BV1jNogYzEFd",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-cc84346d18",
+      "title": "名不虚传骷髅王",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 46 期标题中挖掘出的候选梗：名不虚传骷髅王",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1TJwTecEpi",
+      "source_url": "https://www.bilibili.com/video/BV1TJwTecEpi",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-3c7a7d1229",
+      "title": "史诗级计策连表计，孔明周瑜自叹不如",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 181 期标题中挖掘出的候选梗：史诗级计策连表计，孔明周瑜自叹不如",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1Wy4qzwE7D",
+      "source_url": "https://www.bilibili.com/video/BV1Wy4qzwE7D",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-c5d9f59f61",
+      "title": "刘备听令，自绝归天",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 252 期标题中挖掘出的候选梗：刘备听令，自绝归天",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1rMPbz5EnJ",
+      "source_url": "https://www.bilibili.com/video/BV1rMPbz5EnJ",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-8b0ef6c68b",
+      "title": "刘关张互相决斗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 13 期标题中挖掘出的候选梗：刘关张互相决斗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1edUKYzEEJ",
+      "source_url": "https://www.bilibili.com/video/BV1edUKYzEEJ",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-c0390b9f6f",
+      "title": "凡事，皆有天意",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 161 期标题中挖掘出的候选梗：凡事，皆有天意",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV15RaazmEbg",
+      "source_url": "https://www.bilibili.com/video/BV15RaazmEbg",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-9728726107",
+      "title": "先生听说你刘备要来",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 99 期标题中挖掘出的候选梗：先生听说你刘备要来",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1z1VNzPEmJ",
+      "source_url": "https://www.bilibili.com/video/BV1z1VNzPEmJ",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-1d43465844",
+      "title": "你们是来打仗的",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 84 期标题中挖掘出的候选梗：你们是来打仗的",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1RyZZY3Ecp",
+      "source_url": "https://www.bilibili.com/video/BV1RyZZY3Ecp",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-981d292cae",
+      "title": "仲德，你可真是个老实人儿啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 190 期标题中挖掘出的候选梗：仲德，你可真是个老实人儿啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1Np1cB4E3B",
+      "source_url": "https://www.bilibili.com/video/BV1Np1cB4E3B",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-3d55834cca",
+      "title": "从来天意高难问",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 173 期标题中挖掘出的候选梗：从来天意高难问",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "世界观",
+        "理论梗"
+      ],
+      "tone": [
+        "吐槽",
+        "一本正经"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1wCnrzoECj",
+      "source_url": "https://www.bilibili.com/video/BV1wCnrzoECj",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-c7a5656a86",
+      "title": "亡灵天灾袁公路",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 46 期标题中挖掘出的候选梗：亡灵天灾袁公路",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1TJwTecEpi",
+      "source_url": "https://www.bilibili.com/video/BV1TJwTecEpi",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-82902a77e1",
+      "title": "丞相极有灵性，遇到敌情便会大笑报警",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 127 期标题中挖掘出的候选梗：丞相极有灵性，遇到敌情便会大笑报警",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV18P3AzqEVP",
+      "source_url": "https://www.bilibili.com/video/BV18P3AzqEVP",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-e441c03c07",
+      "title": "东风导弹强势来袭，汉末科技还在发力",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 125 期标题中挖掘出的候选梗：东风导弹强势来袭，汉末科技还在发力",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV181KSz4EQk",
+      "source_url": "https://www.bilibili.com/video/BV181KSz4EQk",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-d46899afc1",
+      "title": "三国新增顺丰业务，今日下单明日到货",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 88 期标题中挖掘出的候选梗：三国新增顺丰业务，今日下单明日到货",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1c8deY2ECK",
+      "source_url": "https://www.bilibili.com/video/BV1c8deY2ECK",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-824f002202",
+      "title": "一人出演两位五虎，孙乾还是太超模了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 151 期标题中挖掘出的候选梗：一人出演两位五虎，孙乾还是太超模了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1xNYvzkE7j",
+      "source_url": "https://www.bilibili.com/video/BV1xNYvzkE7j",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-4260cef2a7",
+      "title": "难道你忘了，桃园之誓了吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 234 期标题中挖掘出的候选梗：难道你忘了，桃园之誓了吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1Da6ABbEms",
+      "source_url": "https://www.bilibili.com/video/BV1Da6ABbEms",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-7e6ee86cf9",
+      "title": "陈宫陈珪后宫争宠",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 52 期标题中挖掘出的候选梗：陈宫陈珪后宫争宠",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV16XFjerEQu",
+      "source_url": "https://www.bilibili.com/video/BV16XFjerEQu",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-58d73c7487",
+      "title": "这野史是真史啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 19 期标题中挖掘出的候选梗：这野史是真史啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图",
+        "历史梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1RdzAYzEPy",
+      "source_url": "https://www.bilibili.com/video/BV1RdzAYzEPy",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-ac7eb0d950",
+      "title": "这就是大都督永恒的宿命吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 240 期标题中挖掘出的候选梗：这就是大都督永恒的宿命吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1SpFXz7EKB",
+      "source_url": "https://www.bilibili.com/video/BV1SpFXz7EKB",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-44e1b53858",
+      "title": "还是来调情的",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 84 期标题中挖掘出的候选梗：还是来调情的",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1RyZZY3Ecp",
+      "source_url": "https://www.bilibili.com/video/BV1RyZZY3Ecp",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-f5d56c0a94",
+      "title": "迁都伊斯坦，方可无斯难",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 14 期标题中挖掘出的候选梗：迁都伊斯坦，方可无斯难",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1p2mfYYEnz",
+      "source_url": "https://www.bilibili.com/video/BV1p2mfYYEnz",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-7886319d64",
+      "title": "辕门射戟还能射偏？无敌了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 44 期标题中挖掘出的候选梗：辕门射戟还能射偏？无敌了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1dBche3Eur",
+      "source_url": "https://www.bilibili.com/video/BV1dBche3Eur",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-e6d5fc2010",
+      "title": "破案了，刘关张桃园结义拜的是鲁肃",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 128 期标题中挖掘出的候选梗：破案了，刘关张桃园结义拜的是鲁肃",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1sM3Hz2EKm",
+      "source_url": "https://www.bilibili.com/video/BV1sM3Hz2EKm",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-cea1eec6de",
+      "title": "直接散尽刘备家财",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 106 期标题中挖掘出的候选梗：直接散尽刘备家财",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1DsJGzpEdp",
+      "source_url": "https://www.bilibili.com/video/BV1DsJGzpEdp",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-949d38accd",
+      "title": "激昂刘备限时登陆",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 61 期标题中挖掘出的候选梗：激昂刘备限时登陆",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1tPwdevE2F",
+      "source_url": "https://www.bilibili.com/video/BV1tPwdevE2F",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-a8f4ba5e08",
+      "title": "朕宁拼一死！逆贼安敢一战",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 228 期标题中挖掘出的候选梗：朕宁拼一死！逆贼安敢一战",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV17zr9BDEux",
+      "source_url": "https://www.bilibili.com/video/BV17zr9BDEux",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-9040dfdd8a",
+      "title": "曹军战力大促销，是兄弟就来砍一刀",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 113 期标题中挖掘出的候选梗：曹军战力大促销，是兄弟就来砍一刀",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1iG7rzTEF4",
+      "source_url": "https://www.bilibili.com/video/BV1iG7rzTEF4",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-5265642bd9",
+      "title": "抽疯仍未停止",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 85 期标题中挖掘出的候选梗：抽疯仍未停止",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "发癫",
+        "吐槽"
+      ],
+      "tone": [
+        "吐槽",
+        "失控"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1dzRqYVEcR",
+      "source_url": "https://www.bilibili.com/video/BV1dzRqYVEcR",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-2b2995d5d5",
+      "title": "山不～厌高，海不～厌深",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 122 期标题中挖掘出的候选梗：山不～厌高，海不～厌深",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1kUNZzYEg7",
+      "source_url": "https://www.bilibili.com/video/BV1kUNZzYEg7",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-358f87cad1",
+      "title": "孙坚从婴儿期就开始创业，太励志了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 111 期标题中挖掘出的候选梗：孙坚从婴儿期就开始创业，太励志了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1ctjBziEV1",
+      "source_url": "https://www.bilibili.com/video/BV1ctjBziEV1",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-697a62f05d",
+      "title": "天子也能贬值",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 48 期标题中挖掘出的候选梗：天子也能贬值",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1n5fYYUEw3",
+      "source_url": "https://www.bilibili.com/video/BV1n5fYYUEw3",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-742b2da144",
+      "title": "因为我败了，所以我胜了",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 34 期标题中挖掘出的候选梗：因为我败了，所以我胜了",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1oRCaYqEiJ",
+      "source_url": "https://www.bilibili.com/video/BV1oRCaYqEiJ",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-0ddfe6da1b",
+      "title": "哥们，你要装壁别带上我啊",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 195 期标题中挖掘出的候选梗：哥们，你要装壁别带上我啊",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1TQCEBkEX2",
+      "source_url": "https://www.bilibili.com/video/BV1TQCEBkEX2",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-34f7810de1",
+      "title": "吕布射术太弱了，曹军人均百倍吕布",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 55 期标题中挖掘出的候选梗：吕布射术太弱了，曹军人均百倍吕布",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV197PUe8EXk",
+      "source_url": "https://www.bilibili.com/video/BV197PUe8EXk",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-164e404b2b",
+      "title": "司马懿上任宣贵妃",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 132 期标题中挖掘出的候选梗：司马懿上任宣贵妃",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV111GNzgEJk",
+      "source_url": "https://www.bilibili.com/video/BV111GNzgEJk",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-df7d6c8c97",
+      "title": "可泄刘备心中之火",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 238 期标题中挖掘出的候选梗：可泄刘备心中之火",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1xTF7zrEFx",
+      "source_url": "https://www.bilibili.com/video/BV1xTF7zrEFx",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-a529640d84",
+      "title": "原来在里还能看到赛亚人",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 68 期标题中挖掘出的候选梗：原来在里还能看到赛亚人",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1bT9BYcEFz",
+      "source_url": "https://www.bilibili.com/video/BV1bT9BYcEFz",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-81f1b7ad6b",
+      "title": "刘玄德挟民渡路，不得不说确实够新",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 108 期标题中挖掘出的候选梗：刘玄德挟民渡路，不得不说确实够新",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1WkJWz6ENa",
+      "source_url": "https://www.bilibili.com/video/BV1WkJWz6ENa",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-3d34820029",
+      "title": "刘备诸葛彻底决裂",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 236 期标题中挖掘出的候选梗：刘备诸葛彻底决裂",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "人物梗",
+        "角色梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1eeFMzwELk",
+      "source_url": "https://www.bilibili.com/video/BV1eeFMzwELk",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-34f4e6653d",
+      "title": "你这辈子，把我当成了最知心的朋友",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 174 期标题中挖掘出的候选梗：你这辈子，把我当成了最知心的朋友",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1hNHxzhEDv",
+      "source_url": "https://www.bilibili.com/video/BV1hNHxzhEDv",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-5c2bb89057",
+      "title": "你这城墙是防霍比特人的吗",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 263 期标题中挖掘出的候选梗：你这城墙是防霍比特人的吗",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "回复",
+        "反应图"
+      ],
+      "tone": [
+        "吐槽",
+        "疑惑"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV19sX1BEEu6",
+      "source_url": "https://www.bilibili.com/video/BV19sX1BEEu6",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-5140bd72cc",
+      "title": "今日端午佳节，大雪纷飞，可喜可贺",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 75 期标题中挖掘出的候选梗：今日端午佳节，大雪纷飞，可喜可贺",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1osXTYWE2h",
+      "source_url": "https://www.bilibili.com/video/BV1osXTYWE2h",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-64d85ad38e",
+      "title": "不小心剧本翻多了，应该没人在意吧",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 201 期标题中挖掘出的候选梗：不小心剧本翻多了，应该没人在意吧",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1nLU1BSEc2",
+      "source_url": "https://www.bilibili.com/video/BV1nLU1BSEc2",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 16,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-6e2ebc8afe",
+      "title": "黄哈哈笑死床前，陆伯言重回癫疯",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 242 期标题中挖掘出的候选梗：黄哈哈笑死床前，陆伯言重回癫疯",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "发癫",
+        "吐槽"
+      ],
+      "tone": [
+        "吐槽",
+        "失控"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1FsZEBwEJf",
+      "source_url": "https://www.bilibili.com/video/BV1FsZEBwEJf",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 15,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-5ded7e694c",
+      "title": "鲁肃完胜诸葛孔明，小老弟还得练",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 154 期标题中挖掘出的候选梗：鲁肃完胜诸葛孔明，小老弟还得练",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1CxebzoEtQ",
+      "source_url": "https://www.bilibili.com/video/BV1CxebzoEtQ",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 15,
       "image_status": "generated_card"
     }
   ]
