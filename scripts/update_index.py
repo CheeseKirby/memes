@@ -103,7 +103,59 @@ def enrich_with_bilibili(item: dict[str, Any], episodes_by_bvid: dict[str, dict[
     return item
 
 
-def normalize_item(item: dict[str, Any], source_id: str, now: str, episodes_by_bvid: dict[str, dict[str, Any]]) -> dict[str, Any]:
+def screenshot_candidate_url(path: str) -> str:
+    return f"{RAW_BASE_URL}/{path}"
+
+
+def load_screenshot_candidate_map(path: Path) -> dict[str, dict[str, Any]]:
+    payload = load_json(path, {"items": []})
+    return {item["item_id"]: item for item in payload.get("items", []) if item.get("item_id")}
+
+
+def apply_screenshot_candidate(item: dict[str, Any], screenshot_candidates: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    candidate = screenshot_candidates.get(item.get("id", ""))
+    if not candidate:
+        return item
+
+    item.setdefault("image_refs", [])
+    storyboard = candidate.get("storyboard") or {}
+    image_urls = storyboard.get("image_urls") or []
+    if not any(ref.get("kind") == "bilibili_videoshot_storyboard" for ref in item["image_refs"]):
+        item["image_refs"].append(
+            {
+                "kind": "bilibili_videoshot_storyboard",
+                "status": "authorization_reference_only",
+                "urls": image_urls,
+                "pvdata_url": storyboard.get("pvdata_url"),
+                "grid": storyboard.get("grid"),
+                "frame_hint": candidate.get("frame_hint"),
+                "authorization_status": candidate.get("authorization_status"),
+                "repository_image_path": candidate.get("repository_image_path"),
+                "note": "授权前只作找图参考，不作为仓库梗图发布。"
+            }
+        )
+
+    if candidate.get("authorization_status") == "authorized_for_repository":
+        image_path = candidate.get("repository_image_path")
+        if image_path:
+            image_url = screenshot_candidate_url(image_path)
+            item["image_url"] = image_url
+            item["thumbnail_url"] = image_url
+            item["image_status"] = "authorized_screenshot"
+
+    if item.get("image_status") in {"generated_card", "video_frame_needed", "needs_curated_image"}:
+        item["image_status"] = "screenshot_candidate_needs_authorization"
+
+    return item
+
+
+def normalize_item(
+    item: dict[str, Any],
+    source_id: str,
+    now: str,
+    episodes_by_bvid: dict[str, dict[str, Any]],
+    screenshot_candidates: dict[str, dict[str, Any]],
+) -> dict[str, Any]:
     item = dict(item)
     item["schema"] = SCHEMA
     item["source"] = source_id
@@ -121,6 +173,7 @@ def normalize_item(item: dict[str, Any], source_id: str, now: str, episodes_by_b
     item.setdefault("source_url", item.get("bilibili_url"))
     item.setdefault("summary", item.get("title", ""))
     item = enrich_with_bilibili(item, episodes_by_bvid)
+    item = apply_screenshot_candidate(item, screenshot_candidates)
     if item.get("item_type") == "meme" and not item.get("image_url"):
         card_path = f"assets/cards/{item['id']}.svg"
         card_url = f"{RAW_BASE_URL}/{card_path}"
@@ -152,7 +205,12 @@ def normalize_item(item: dict[str, Any], source_id: str, now: str, episodes_by_b
     return item
 
 
-def load_curated_items(config: dict[str, Any], episodes_by_bvid: dict[str, dict[str, Any]], now: str) -> list[dict[str, Any]]:
+def load_curated_items(
+    config: dict[str, Any],
+    episodes_by_bvid: dict[str, dict[str, Any]],
+    screenshot_candidates: dict[str, dict[str, Any]],
+    now: str,
+) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for source in config.get("sources", []):
         if source.get("type") != "curated_json":
@@ -160,7 +218,7 @@ def load_curated_items(config: dict[str, Any], episodes_by_bvid: dict[str, dict[
         source_path = ROOT / source["file"]
         payload = load_json(source_path, {"items": []})
         for item in payload.get("items", []):
-            items.append(normalize_item(item, source["id"], now, episodes_by_bvid))
+            items.append(normalize_item(item, source["id"], now, episodes_by_bvid, screenshot_candidates))
     return items
 
 
@@ -243,8 +301,9 @@ def build_index(config_path: Path, index_path: Path, packs_dir: Path, series_pat
     config = load_json(config_path, {})
     now = utc_now()
     episodes_by_bvid = load_bilibili_episode_map(series_path)
+    screenshot_candidates = load_screenshot_candidate_map(ROOT / "data" / "screenshot-candidates.json")
 
-    items = load_curated_items(config, episodes_by_bvid, now)
+    items = load_curated_items(config, episodes_by_bvid, screenshot_candidates, now)
     items.extend(load_episode_reference_items(config, now))
     items = sort_items(items)[: int(config.get("max_items", 1000))]
 

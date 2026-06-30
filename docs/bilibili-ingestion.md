@@ -77,6 +77,22 @@ assets/cards/*.svg
 
 这些卡片是仓库生成的原创文字图，不是 B 站视频截图。
 
+## 截图授权候选
+
+`scripts/update_screenshot_candidates.py` 会给一批明确梗生成截图授权候选清单：
+
+```text
+data/screenshot-candidates.json
+```
+
+它只保存 BVID、出处、建议截图画面和 B 站预览帧雪碧图 URL，不下载、不提交视频帧。
+
+授权流程见：
+
+```text
+docs/screenshot-authorization.md
+```
+
 ## 梗图怎么补
 
 不要批量截取视频画面提交进仓库。

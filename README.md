@@ -109,6 +109,12 @@ data/title-candidates.json
 从折棒系列视频标题中自动挖出的候选梗。
 
 ```text
+data/screenshot-candidates.json
+```
+
+明确梗的截图授权候选清单。只保存出处和预览帧引用，不保存未授权截图。
+
+```text
 assets/cards/
 ```
 
@@ -143,6 +149,12 @@ scripts/collect_bilibili_candidates.py
 ```
 
 抽样统计评论区候选梗。
+
+```text
+scripts/update_screenshot_candidates.py
+```
+
+生成截图授权候选清单。授权前不下载、不提交视频帧。
 
 ## 分包说明
 
@@ -248,6 +260,7 @@ python scripts/collect_bilibili_candidates.py --max-pages 1 --page-size 20
 README.zh-CN.md                 详细中文说明
 docs/skill-integration.md       skill 接入说明
 docs/bilibili-ingestion.md      B 站采集说明
+docs/screenshot-authorization.md 截图授权流程
 ```
 
 ## 一句话总结

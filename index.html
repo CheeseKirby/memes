@@ -472,6 +472,7 @@
         <div class="actions">
           <button id="copyId" type="button">复制 ID</button>
           <a id="openImage" href="#" target="_blank" rel="noreferrer">打开图卡</a>
+          <a id="openStoryboard" href="#" target="_blank" rel="noreferrer">截图候选帧</a>
           <a id="openSource" href="#" target="_blank" rel="noreferrer">打开出处</a>
         </div>
       </div>
@@ -611,6 +612,11 @@
         return item.image_url || item.thumbnail_url || "";
       }
 
+      function storyboardUrlFor(item) {
+        const ref = (item.image_refs || []).find((candidate) => candidate.kind === "bilibili_videoshot_storyboard");
+        return ref && ref.urls && ref.urls.length ? ref.urls[0] : "";
+      }
+
       function renderCard(item) {
         const card = document.createElement("article");
         card.className = "card";
@@ -713,6 +719,10 @@
         const image = imageFor(item);
         openImage.href = image || "#";
         openImage.hidden = !image;
+        const openStoryboard = document.querySelector("#openStoryboard");
+        const storyboard = storyboardUrlFor(item);
+        openStoryboard.href = storyboard || "#";
+        openStoryboard.hidden = !storyboard;
         const openSource = document.querySelector("#openSource");
         openSource.href = item.source_url || item.bilibili_url || "#";
         openSource.hidden = !(item.source_url || item.bilibili_url);

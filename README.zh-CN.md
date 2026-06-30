@@ -93,6 +93,12 @@ data/title-candidates.json
 从折棒系列视频标题中自动挖出的候选梗。
 
 ```text
+data/screenshot-candidates.json
+```
+
+明确梗的截图授权候选清单。它只保存出处、建议截图画面和 B 站预览帧引用，不保存未授权截图。
+
+```text
 assets/cards/
 ```
 
@@ -133,6 +139,12 @@ scripts/collect_bilibili_candidates.py
 ```
 
 抽样统计评论区候选梗。它只统计配置好的词有没有出现，不批量保存评论。
+
+```text
+scripts/update_screenshot_candidates.py
+```
+
+生成截图授权候选清单。授权前不下载、不提交视频帧。
 
 ## 分类文件
 
@@ -213,6 +225,12 @@ skill 就可能匹配到：
 再存出处
 再标记截图状态
 以后人工补授权图或可用图
+```
+
+明确梗的截图授权流程见：
+
+```text
+docs/screenshot-authorization.md
 ```
 
 相关字段：

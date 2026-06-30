@@ -1,0 +1,1123 @@
+{
+  "schema": "https://github.com/CheeseKirby/memes/schema/screenshot-candidates/v1",
+  "updated_at": "2026-06-30T07:37:02Z",
+  "notes": [
+    "These are screenshot authorization candidates, not licensed screenshots.",
+    "Storyboard URLs are reference-only Bilibili videoshot assets and are not rehosted by this repository.",
+    "Do not set an item image_url to a video frame until authorization_status is authorized_for_repository."
+  ],
+  "item_count": 33,
+  "items": [
+    {
+      "item_id": "xsg-worldview-tianyi-erosion",
+      "title": "天意侵蚀",
+      "bvid": "BV1DHG66YE1i",
+      "source_url": "https://www.bilibili.com/video/BV1DHG66YE1i",
+      "episode": 1,
+      "episode_title": "三国杀up锐评新三国re01：重生新三国之开局被天意侵蚀",
+      "priority": 1,
+      "frame_hint": "找标题中“开局被天意侵蚀”或视频里第一次明确讲天意侵蚀的画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-worldview-tianyi-erosion.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-worldview-tianyi-erosion.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/38562956594_gmt0gb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/38562956594_gmt0gb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/38562956594_gmt0gb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-character-chen-gong-bug-master",
+      "title": "虫系宝可梦大师陈宫",
+      "bvid": "BV1N11xYMEoE",
+      "source_url": "https://www.bilibili.com/video/BV1N11xYMEoE",
+      "episode": 4,
+      "episode_title": "三国杀up锐评新三国04：虫系宝可梦大师陈宫登场",
+      "priority": 1,
+      "frame_hint": "找陈宫与虫/蛐蛐吐槽直接相关的画面，优先保留角色和弹幕/字幕语境。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-character-chen-gong-bug-master.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-character-chen-gong-bug-master.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26475433317_84uq0b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26475433317_84uq0b-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-character-hua-xiong-centaur",
+      "title": "华雄人马兽",
+      "bvid": "BV1XKDWY9EQQ",
+      "source_url": "https://www.bilibili.com/video/BV1XKDWY9EQQ",
+      "episode": 8,
+      "episode_title": "三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？",
+      "priority": 1,
+      "frame_hint": "找华雄骑马/人马兽感最强的画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-character-hua-xiong-centaur.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-character-hua-xiong-centaur.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26619281618_ah6hyb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26619281618_ah6hyb-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-liu-guan-zhang-missing",
+      "title": "刘关张消失",
+      "bvid": "BV1rjyYYjEjQ",
+      "source_url": "https://www.bilibili.com/video/BV1rjyYYjEjQ",
+      "episode": 1,
+      "episode_title": "三国杀up锐评新三国：第一集怎么连刘关张都消失了？",
+      "priority": 1,
+      "frame_hint": "找第一期里吐槽刘关张消失的标题点或开场总结画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-liu-guan-zhang-missing.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-liu-guan-zhang-missing.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26385319595_wn1n1b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26385319595_wn1n1b-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-dong-zhuo-ten-attendants",
+      "title": "董卓成了十常侍之首",
+      "bvid": "BV1Y1yjYpE7L",
+      "source_url": "https://www.bilibili.com/video/BV1Y1yjYpE7L",
+      "episode": 2,
+      "episode_title": "三国杀up锐评新三国02：董卓怎么变成十常侍之首了？",
+      "priority": 1,
+      "frame_hint": "找董卓身份被说成十常侍之首的画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-dong-zhuo-ten-attendants.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-dong-zhuo-ten-attendants.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26401770107_h4qcnb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26401770107_h4qcnb-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-liu-bei-emperor",
+      "title": "刚开局刘备称帝",
+      "bvid": "BV1TgSoYTEHe",
+      "source_url": "https://www.bilibili.com/video/BV1TgSoYTEHe",
+      "episode": 6,
+      "episode_title": "三国杀up锐评新三国06：刚开局刘备怎么就称帝啦？",
+      "priority": 1,
+      "frame_hint": "找刘备称帝/开局进度飞跃相关的画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-liu-bei-emperor.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-liu-bei-emperor.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26568166948_sgli4b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26568166948_sgli4b-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-manchu-soldiers",
+      "title": "满洲兵",
+      "bvid": "BV1K2DLYsE4a",
+      "source_url": "https://www.bilibili.com/video/BV1K2DLYsE4a",
+      "episode": 9,
+      "episode_title": "三国杀up锐评新三国09：刘备这从哪找来的满洲兵？",
+      "priority": 1,
+      "frame_hint": "找服化道最像“满洲兵”的镜头。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-manchu-soldiers.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-manchu-soldiers.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26646547519_atmoyb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26646547519_atmoyb-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-bright-future",
+      "title": "我们都有光明的未来",
+      "bvid": "BV1eEDaYmENQ",
+      "source_url": "https://www.bilibili.com/video/BV1eEDaYmENQ",
+      "episode": 10,
+      "episode_title": "三国杀up锐评新三国10：李儒变太监，刘备跳明反，我们都有光明的未来",
+      "priority": 1,
+      "frame_hint": "找“我们都有光明的未来”标题语境或相关角色画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-bright-future.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-bright-future.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26675249945_ya2gtb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26675249945_ya2gtb-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-cao-cao-fadian",
+      "title": "曹操发癫",
+      "bvid": "BV1dzRqYVEcR",
+      "source_url": "https://www.bilibili.com/video/BV1dzRqYVEcR",
+      "episode": 85,
+      "episode_title": "三国杀up锐评新三国85：抽疯仍未停止，曹操发癫发出新高度",
+      "priority": 1,
+      "frame_hint": "找曹操表情/动作最发癫的一帧。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-cao-cao-fadian.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-cao-cao-fadian.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/29267922713_yzkclb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/29267922713_yzkclb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/29267922713_yzkclb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-new-three-theory",
+      "title": "新三学理论取得重大突破",
+      "bvid": "BV17PG46BEer",
+      "source_url": "https://www.bilibili.com/video/BV17PG46BEer",
+      "episode": 2,
+      "episode_title": "三国杀up锐评新三国re02：新三学理论取得重大突破",
+      "priority": 1,
+      "frame_hint": "找“新三学理论取得重大突破”或天意理论总结画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-new-three-theory.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-new-three-theory.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/38609815320_v9a7zb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/38609815320_v9a7zb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/38609815320_v9a7zb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-tutorial",
+      "title": "恭喜你完成新手教程",
+      "bvid": "BV1BvV66mEBr",
+      "source_url": "https://www.bilibili.com/video/BV1BvV66mEBr",
+      "episode": 6,
+      "episode_title": "三国杀up锐评新三国re06：恭喜你完成新手教程",
+      "priority": 1,
+      "frame_hint": "找“恭喜你完成新手教程”标题或总结画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-tutorial.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-tutorial.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/38806618998_a7isvb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/38806618998_a7isvb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/38806618998_a7isvb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-guan-yu-stand-in",
+      "title": "关羽的替身又增加了",
+      "bvid": "BV1YjEp6vEEG",
+      "source_url": "https://www.bilibili.com/video/BV1YjEp6vEEG",
+      "episode": 7,
+      "episode_title": "三国杀up锐评新三国re07：关羽的替身又增加了",
+      "priority": 1,
+      "frame_hint": "找关羽替身相关镜头，优先人物清楚的一帧。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-guan-yu-stand-in.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-guan-yu-stand-in.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/38916131901_79pcyb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/38916131901_79pcyb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/38916131901_79pcyb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-episode-grind-sword",
+      "title": "磨剑十几年",
+      "bvid": "BV1kCLb68E9X",
+      "source_url": "https://www.bilibili.com/video/BV1kCLb68E9X",
+      "episode": 290,
+      "episode_title": "三国杀up锐评新三国290：我挥剑只有一次，可磨剑磨了十几年呐！",
+      "priority": 1,
+      "frame_hint": "找“磨剑十几年/挥剑只有一次”的完结感画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-episode-grind-sword.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-episode-grind-sword.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/38501157032_p7fl3b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/38501157032_p7fl3b-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/38501157032_p7fl3b-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-normal-person",
+      "title": "这剧里还能有一个正常人吗",
+      "bvid": "BV15kyDYpEdQ",
+      "source_url": "https://www.bilibili.com/video/BV15kyDYpEdQ",
+      "episode": 3,
+      "episode_title": "三国杀up锐评新三国03：这剧里还能有一个正常人吗？",
+      "priority": 2,
+      "frame_hint": "找标题对应视频里最能体现“全员不正常”的画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-normal-person.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-normal-person.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26459573535_cf1h2b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26459573535_cf1h2b-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-cao-murder-maniac",
+      "title": "这曹操是哪来的变态杀人狂",
+      "bvid": "BV1vDSgYpEA5",
+      "source_url": "https://www.bilibili.com/video/BV1vDSgYpEA5",
+      "episode": 5,
+      "episode_title": "三国杀up锐评新三国05：这曹操是哪来的变态杀人狂？",
+      "priority": 2,
+      "frame_hint": "找曹操被吐槽成变态杀人狂的相关表情或动作。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-cao-murder-maniac.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-cao-murder-maniac.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26537690242_22qj1b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26537690242_22qj1b-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-strongest-military-theory",
+      "title": "史上最强军事理论诞生了",
+      "bvid": "BV1qGDCYHEHi",
+      "source_url": "https://www.bilibili.com/video/BV1qGDCYHEHi",
+      "episode": 11,
+      "episode_title": "三国杀up锐评新三国11：史上最强军事理论诞生了！",
+      "priority": 2,
+      "frame_hint": "找军事理论被讲出来或被吐槽的关键画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-strongest-military-theory.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-strongest-military-theory.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26688949691_50u6db.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26688949691_50u6db-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-yuan-gonglu-delicious",
+      "title": "袁公路，鲜美无比，不可不尝",
+      "bvid": "BV155mpYUEB4",
+      "source_url": "https://www.bilibili.com/video/BV155mpYUEB4",
+      "episode": 12,
+      "episode_title": "三国杀up锐评新三国12：袁公路，鲜美无比，不可不尝！",
+      "priority": 2,
+      "frame_hint": "找袁术/袁公路相关，最好有吃喝荒诞语境。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-yuan-gonglu-delicious.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-yuan-gonglu-delicious.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26718047711_fcxo1b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26718047711_fcxo1b-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/26718047711_fcxo1b-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-earthling-fight",
+      "title": "这打戏是给地球人看的吗",
+      "bvid": "BV1edUKYzEEJ",
+      "source_url": "https://www.bilibili.com/video/BV1edUKYzEEJ",
+      "episode": 13,
+      "episode_title": "三国杀up锐评新三国13：刘关张互相决斗，这打戏是给地球人看的吗？",
+      "priority": 2,
+      "frame_hint": "找刘关张互相决斗或打戏最抽象的一帧。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-earthling-fight.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-earthling-fight.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26743802890_bsxqdb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26743802890_bsxqdb-0001.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-qin-shihuang-ancestor",
+      "title": "刘备祭祖为什么拜秦始皇",
+      "bvid": "BV1c6ScYuEZM",
+      "source_url": "https://www.bilibili.com/video/BV1c6ScYuEZM",
+      "episode": 16,
+      "episode_title": "三国杀up锐评新三国16：刘备祭祖为什么拜秦始皇？",
+      "priority": 2,
+      "frame_hint": "找刘备祭祖拜秦始皇相关画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-qin-shihuang-ancestor.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-qin-shihuang-ancestor.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26843351504_me8wnb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26843351504_me8wnb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/26843351504_me8wnb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-space-jump-tech",
+      "title": "空间跃迁技术在新三国的可行性",
+      "bvid": "BV1CAU9YnETr",
+      "source_url": "https://www.bilibili.com/video/BV1CAU9YnETr",
+      "episode": 17,
+      "episode_title": "三国杀up锐评新三国17：论空间跃迁技术在新三国的可行性",
+      "priority": 2,
+      "frame_hint": "找空间跃迁/移动距离离谱的代表画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-space-jump-tech.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-space-jump-tech.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/26881493517_38uthb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/26881493517_38uthb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/26881493517_38uthb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-giant-script-kill",
+      "title": "很显然，这个世界是一个巨大的剧本杀",
+      "bvid": "BV1vczQYrEPx",
+      "source_url": "https://www.bilibili.com/video/BV1vczQYrEPx",
+      "episode": 23,
+      "episode_title": "三国杀up锐评新三国23：很显然，这个世界是一个巨大的剧本杀",
+      "priority": 2,
+      "frame_hint": "找“世界是巨大剧本杀”的理论总结画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-giant-script-kill.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-giant-script-kill.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/27167558946_1vvlkb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/27167558946_1vvlkb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/27167558946_1vvlkb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-game-unplayable",
+      "title": "反贼跳忠，忠臣跳内，这游戏没法玩了",
+      "bvid": "BV1GSqDYAEBL",
+      "source_url": "https://www.bilibili.com/video/BV1GSqDYAEBL",
+      "episode": 27,
+      "episode_title": "三国杀up锐评新三国27：反贼跳忠，忠臣跳内，这游戏没法玩了",
+      "priority": 2,
+      "frame_hint": "找反贼跳忠、忠臣跳内对应的身份混乱画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-game-unplayable.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-game-unplayable.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/27291226089_978hdb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/27291226089_978hdb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/27291226089_978hdb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-parallel-clones",
+      "title": "瞬息百里，平行宇宙，多重分身，我看的是三国吗",
+      "bvid": "BV1twk8YGEP3",
+      "source_url": "https://www.bilibili.com/video/BV1twk8YGEP3",
+      "episode": 32,
+      "episode_title": "三国杀up锐评新三国32：瞬息百里，平行宇宙，多重分身，我看的是三国吗？",
+      "priority": 2,
+      "frame_hint": "找瞬息百里/多重分身/平行宇宙语境最明显的画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-parallel-clones.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-parallel-clones.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/27463452128_m3isob.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/27463452128_m3isob-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/27463452128_m3isob-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-loyal-cao",
+      "title": "但我确实忠心耿耿啊",
+      "bvid": "BV16F6rYxEMW",
+      "source_url": "https://www.bilibili.com/video/BV16F6rYxEMW",
+      "episode": 38,
+      "episode_title": "三国杀up锐评新三国38：虽然我曹操剑指天子，但我确实忠心耿耿啊！",
+      "priority": 2,
+      "frame_hint": "找曹操“剑指天子但忠心耿耿”的反讽语境画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-loyal-cao.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-loyal-cao.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/27664319805_33qrwb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/27664319805_33qrwb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/27664319805_33qrwb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-spring-autumn-nonsense",
+      "title": "春秋胡言乱语！—曹操",
+      "bvid": "BV1ybfpYbEqo",
+      "source_url": "https://www.bilibili.com/video/BV1ybfpYbEqo",
+      "episode": 49,
+      "episode_title": "三国杀up锐评新三国49：春秋胡言乱语！—曹操",
+      "priority": 2,
+      "frame_hint": "找曹操说/被配上“春秋胡言乱语”的画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-spring-autumn-nonsense.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-spring-autumn-nonsense.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/28058911376_i7qeeb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/28058911376_i7qeeb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/28058911376_i7qeeb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-negative-age",
+      "title": "惊现负二十四岁的阴间子民，太可怕了",
+      "bvid": "BV1mx9AYcEKf",
+      "source_url": "https://www.bilibili.com/video/BV1mx9AYcEKf",
+      "episode": 66,
+      "episode_title": "三国杀up锐评新三国66：惊现负二十四岁的阴间子民，太可怕了",
+      "priority": 2,
+      "frame_hint": "找“负二十四岁阴间子民”年龄时间线吐槽画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-negative-age.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-negative-age.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/28621999293_kacjeb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/28621999293_kacjeb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/28621999293_kacjeb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-dongxi-tianyi",
+      "title": "唯有洞悉天意，才是真正强者",
+      "bvid": "BV1CxNmzBEkA",
+      "source_url": "https://www.bilibili.com/video/BV1CxNmzBEkA",
+      "episode": 123,
+      "episode_title": "三国杀up锐评新三国123：唯有洞悉天意，才是真正强者",
+      "priority": 2,
+      "frame_hint": "找“洞悉天意”相关总结画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-dongxi-tianyi.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-dongxi-tianyi.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/30627007480_j9mk2b.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/30627007480_j9mk2b-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/30627007480_j9mk2b-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-void-soldiers",
+      "title": "虚空炼兵",
+      "bvid": "BV1Dbnnz1EXR",
+      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
+      "episode": 172,
+      "episode_title": "三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡",
+      "priority": 2,
+      "frame_hint": "找诸葛亮虚空炼兵相关画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-void-soldiers.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-void-soldiers.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/32677236537_k946xb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/32677236537_k946xb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/32677236537_k946xb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-wield-tianyi",
+      "title": "驭使天意谁人能挡",
+      "bvid": "BV1Dbnnz1EXR",
+      "source_url": "https://www.bilibili.com/video/BV1Dbnnz1EXR",
+      "episode": 172,
+      "episode_title": "三国杀up锐评新三国172：虚空炼兵诸葛孔明，驭使天意谁人能挡",
+      "priority": 2,
+      "frame_hint": "找“驭使天意谁人能挡”的相关画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-wield-tianyi.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-wield-tianyi.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/32677236537_k946xb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/32677236537_k946xb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/32677236537_k946xb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-sima-deep-power",
+      "title": "司马懿功力深不可测啊",
+      "bvid": "BV1BDfUBUELC",
+      "source_url": "https://www.bilibili.com/video/BV1BDfUBUELC",
+      "episode": 247,
+      "episode_title": "三国杀up锐评新三国247：司马懿功力深不可测啊",
+      "priority": 2,
+      "frame_hint": "找司马懿功力深不可测对应表情或剧情画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-sima-deep-power.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-sima-deep-power.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/36264152148_xo2vtb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/36264152148_xo2vtb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/36264152148_xo2vtb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-zhuge-shu-lord",
+      "title": "自今日起，我诸葛亮为蜀汉之主",
+      "bvid": "BV1LLNgzDExr",
+      "source_url": "https://www.bilibili.com/video/BV1LLNgzDExr",
+      "episode": 253,
+      "episode_title": "三国杀up锐评新三国253：自今日起，我诸葛亮为蜀汉之主！",
+      "priority": 2,
+      "frame_hint": "找诸葛亮为蜀汉之主相关画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-zhuge-shu-lord.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-zhuge-shu-lord.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/36553625195_v91vbb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/36553625195_v91vbb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/36553625195_v91vbb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-heavenly-soldiers",
+      "title": "有天兵天将相助，篡魏易如反掌",
+      "bvid": "BV13ALz6BERn",
+      "source_url": "https://www.bilibili.com/video/BV13ALz6BERn",
+      "episode": 289,
+      "episode_title": "三国杀up锐评新三国289：有天兵天将相助，篡魏易如反掌！",
+      "priority": 2,
+      "frame_hint": "找天兵天将/篡魏易如反掌相关画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-heavenly-soldiers.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-heavenly-soldiers.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/38454297762_p29msb.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/38454297762_p29msb-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/38454297762_p29msb-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    },
+    {
+      "item_id": "xsg-title-seven-eight-ten",
+      "title": "7门8卦阵，我9岁便10它了",
+      "bvid": "BV1jroTBoEQy",
+      "source_url": "https://www.bilibili.com/video/BV1jroTBoEQy",
+      "episode": 276,
+      "episode_title": "三国杀up锐评新三国276：此乃7门8卦阵，我9岁便10它了",
+      "priority": 2,
+      "frame_hint": "找“7门8卦阵，我9岁便10它了”台词或字幕画面。",
+      "authorization_status": "needs_up_authorization",
+      "publish_status": "do_not_publish_frame_yet",
+      "requested_rights": [
+        "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
+        "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
+        "允许在 README 和可视化浏览页中展示该截图"
+      ],
+      "repository_image_path": "assets/screenshots/xsg-title-seven-eight-ten.jpg",
+      "local_review_path": "assets/pending-authorization/xsg-title-seven-eight-ten.jpg",
+      "storyboard": {
+        "status": "reference_only",
+        "pvdata_url": "https://boss.hdslb.com/videoshotpvhdboss/37759552517_j7jrib.bin",
+        "image_urls": [
+          "https://bimp.hdslb.com/videoshotpvhdboss/37759552517_j7jrib-0001.jpg",
+          "https://bimp.hdslb.com/videoshotpvhdboss/37759552517_j7jrib-0002.jpg"
+        ],
+        "grid": {
+          "columns": 10,
+          "rows": 10,
+          "cell_width": 480,
+          "cell_height": 270
+        },
+        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted."
+      }
+    }
+  ]
+}

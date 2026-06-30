@@ -28,6 +28,9 @@ jobs:
       - name: Mine title candidates
         run: python scripts/mine_title_candidates.py
 
+      - name: Refresh screenshot authorization candidates
+        run: python scripts/update_screenshot_candidates.py
+
       - name: Update index
         run: python scripts/update_index.py
 
@@ -38,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.json packs/*.json data/bilibili-series.json data/title-candidates.json assets/cards/*.svg
+          git add index.json packs/*.json data/bilibili-series.json data/title-candidates.json data/screenshot-candidates.json assets/cards/*.svg
           if git diff --cached --quiet; then
             echo "No index changes."
           else
