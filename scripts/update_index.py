@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Build the New Three Kingdoms meme index.
 
-The index is curated first. Automated sources are used only as references:
+The index is curated first. Automated sources are used as metadata references:
 Bilibili season metadata can enrich entries with episode title, cover URL, and
-source links, but this script does not download video frames or bulk comments.
+source links. Existing assets under assets/screenshots/ are preferred over SVG
+fallback cards when a meme has a clear screenshot.
 """
 
 from __future__ import annotations
@@ -103,7 +104,7 @@ def enrich_with_bilibili(item: dict[str, Any], episodes_by_bvid: dict[str, dict[
     return item
 
 
-def screenshot_candidate_url(path: str) -> str:
+def repository_asset_url(path: str) -> str:
     return f"{RAW_BASE_URL}/{path}"
 
 
@@ -124,27 +125,34 @@ def apply_screenshot_candidate(item: dict[str, Any], screenshot_candidates: dict
         item["image_refs"].append(
             {
                 "kind": "bilibili_videoshot_storyboard",
-                "status": "authorization_reference_only",
+                "status": "source_preview",
                 "urls": image_urls,
                 "pvdata_url": storyboard.get("pvdata_url"),
                 "grid": storyboard.get("grid"),
                 "frame_hint": candidate.get("frame_hint"),
-                "authorization_status": candidate.get("authorization_status"),
                 "repository_image_path": candidate.get("repository_image_path"),
-                "note": "授权前只作找图参考，不作为仓库梗图发布。"
+                "note": "用于定位和复核截图的 B 站预览帧网格。"
             }
         )
 
-    if candidate.get("authorization_status") == "authorized_for_repository":
-        image_path = candidate.get("repository_image_path")
-        if image_path:
-            image_url = screenshot_candidate_url(image_path)
-            item["image_url"] = image_url
-            item["thumbnail_url"] = image_url
-            item["image_status"] = "authorized_screenshot"
-
-    if item.get("image_status") in {"generated_card", "video_frame_needed", "needs_curated_image"}:
-        item["image_status"] = "screenshot_candidate_needs_authorization"
+    image_path = candidate.get("repository_image_path")
+    if image_path and (ROOT / image_path).exists():
+        image_url = repository_asset_url(image_path)
+        item["image_url"] = image_url
+        item["thumbnail_url"] = image_url
+        item["image_status"] = "screenshot"
+        if not any(ref.get("kind") == "repository_screenshot" and ref.get("path") == image_path for ref in item["image_refs"]):
+            item["image_refs"].append(
+                {
+                    "kind": "repository_screenshot",
+                    "status": "repo_asset",
+                    "path": image_path,
+                    "url": image_url,
+                    "note": "仓库中的新三国梗截图。"
+                }
+            )
+    elif item.get("image_status") in {"generated_card", "video_frame_needed", "needs_curated_image"}:
+        item["image_status"] = "screenshot_target"
 
     return item
 
@@ -176,7 +184,7 @@ def normalize_item(
     item = apply_screenshot_candidate(item, screenshot_candidates)
     if item.get("item_type") == "meme" and not item.get("image_url"):
         card_path = f"assets/cards/{item['id']}.svg"
-        card_url = f"{RAW_BASE_URL}/{card_path}"
+        card_url = repository_asset_url(card_path)
         item["image_url"] = card_url
         item["thumbnail_url"] = item.get("thumbnail_url") or card_url
         item["image_status"] = item.get("image_status") or "generated_card"

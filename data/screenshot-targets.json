@@ -1,208 +1,175 @@
 {
   "schema": "https://github.com/CheeseKirby/memes/schema/screenshot-targets/v1",
   "notes": [
-    "这里列出最适合从视频里补截图的明确梗。",
-    "不要在未授权前把视频帧提交到仓库；授权前只保存 BVID、画面提示和 B 站预览帧引用。",
-    "拿到授权后，把图片放到 assets/screenshots/<item_id>.jpg，并把授权状态改成 authorized_for_repository。"
+    "这里列出最适合配截图的明确梗。",
+    "实际入库图片放在 assets/screenshots/<item_id>.jpg。",
+    "没有截图的条目继续使用 assets/cards/ SVG 文字卡兜底。"
   ],
   "targets": [
     {
       "item_id": "xsg-worldview-tianyi-erosion",
       "priority": 1,
-      "frame_hint": "找标题中“开局被天意侵蚀”或视频里第一次明确讲天意侵蚀的画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找标题中“开局被天意侵蚀”或视频里第一次明确讲天意侵蚀的画面。"
     },
     {
       "item_id": "xsg-character-chen-gong-bug-master",
       "priority": 1,
-      "frame_hint": "找陈宫与虫/蛐蛐吐槽直接相关的画面，优先保留角色和弹幕/字幕语境。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找陈宫与虫/蛐蛐吐槽直接相关的画面，优先保留角色和弹幕/字幕语境。"
     },
     {
       "item_id": "xsg-character-hua-xiong-centaur",
       "priority": 1,
-      "frame_hint": "找华雄骑马/人马兽感最强的画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找华雄骑马/人马兽感最强的画面。"
     },
     {
       "item_id": "xsg-episode-liu-guan-zhang-missing",
       "priority": 1,
-      "frame_hint": "找第一期里吐槽刘关张消失的标题点或开场总结画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找第一期里吐槽刘关张消失的标题点或开场总结画面。"
     },
     {
       "item_id": "xsg-episode-dong-zhuo-ten-attendants",
       "priority": 1,
-      "frame_hint": "找董卓身份被说成十常侍之首的画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找董卓身份被说成十常侍之首的画面。"
     },
     {
       "item_id": "xsg-episode-liu-bei-emperor",
       "priority": 1,
-      "frame_hint": "找刘备称帝/开局进度飞跃相关的画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找刘备称帝/开局进度飞跃相关的画面。"
     },
     {
       "item_id": "xsg-episode-manchu-soldiers",
       "priority": 1,
-      "frame_hint": "找服化道最像“满洲兵”的镜头。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找服化道最像“满洲兵”的镜头。"
     },
     {
       "item_id": "xsg-episode-bright-future",
       "priority": 1,
-      "frame_hint": "找“我们都有光明的未来”标题语境或相关角色画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“我们都有光明的未来”标题语境或相关角色画面。"
     },
     {
       "item_id": "xsg-episode-cao-cao-fadian",
       "priority": 1,
-      "frame_hint": "找曹操表情/动作最发癫的一帧。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找曹操表情/动作最发癫的一帧。"
     },
     {
       "item_id": "xsg-episode-new-three-theory",
       "priority": 1,
-      "frame_hint": "找“新三学理论取得重大突破”或天意理论总结画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“新三学理论取得重大突破”或天意理论总结画面。"
     },
     {
       "item_id": "xsg-episode-tutorial",
       "priority": 1,
-      "frame_hint": "找“恭喜你完成新手教程”标题或总结画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“恭喜你完成新手教程”标题或总结画面。"
     },
     {
       "item_id": "xsg-episode-guan-yu-stand-in",
       "priority": 1,
-      "frame_hint": "找关羽替身相关镜头，优先人物清楚的一帧。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找关羽替身相关镜头，优先人物清楚的一帧。"
     },
     {
       "item_id": "xsg-episode-grind-sword",
       "priority": 1,
-      "frame_hint": "找“磨剑十几年/挥剑只有一次”的完结感画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“磨剑十几年/挥剑只有一次”的完结感画面。"
     },
     {
       "item_id": "xsg-title-normal-person",
       "priority": 2,
-      "frame_hint": "找标题对应视频里最能体现“全员不正常”的画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找标题对应视频里最能体现“全员不正常”的画面。"
     },
     {
       "item_id": "xsg-title-cao-murder-maniac",
       "priority": 2,
-      "frame_hint": "找曹操被吐槽成变态杀人狂的相关表情或动作。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找曹操被吐槽成变态杀人狂的相关表情或动作。"
     },
     {
       "item_id": "xsg-title-strongest-military-theory",
       "priority": 2,
-      "frame_hint": "找军事理论被讲出来或被吐槽的关键画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找军事理论被讲出来或被吐槽的关键画面。"
     },
     {
       "item_id": "xsg-title-yuan-gonglu-delicious",
       "priority": 2,
-      "frame_hint": "找袁术/袁公路相关，最好有吃喝荒诞语境。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找袁术/袁公路相关，最好有吃喝荒诞语境。"
     },
     {
       "item_id": "xsg-title-earthling-fight",
       "priority": 2,
-      "frame_hint": "找刘关张互相决斗或打戏最抽象的一帧。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找刘关张互相决斗或打戏最抽象的一帧。"
     },
     {
       "item_id": "xsg-title-qin-shihuang-ancestor",
       "priority": 2,
-      "frame_hint": "找刘备祭祖拜秦始皇相关画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找刘备祭祖拜秦始皇相关画面。"
     },
     {
       "item_id": "xsg-title-space-jump-tech",
       "priority": 2,
-      "frame_hint": "找空间跃迁/移动距离离谱的代表画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找空间跃迁/移动距离离谱的代表画面。"
     },
     {
       "item_id": "xsg-title-giant-script-kill",
       "priority": 2,
-      "frame_hint": "找“世界是巨大剧本杀”的理论总结画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“世界是巨大剧本杀”的理论总结画面。"
     },
     {
       "item_id": "xsg-title-game-unplayable",
       "priority": 2,
-      "frame_hint": "找反贼跳忠、忠臣跳内对应的身份混乱画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找反贼跳忠、忠臣跳内对应的身份混乱画面。"
     },
     {
       "item_id": "xsg-title-parallel-clones",
       "priority": 2,
-      "frame_hint": "找瞬息百里/多重分身/平行宇宙语境最明显的画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找瞬息百里/多重分身/平行宇宙语境最明显的画面。"
     },
     {
       "item_id": "xsg-title-loyal-cao",
       "priority": 2,
-      "frame_hint": "找曹操“剑指天子但忠心耿耿”的反讽语境画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找曹操“剑指天子但忠心耿耿”的反讽语境画面。"
     },
     {
       "item_id": "xsg-title-spring-autumn-nonsense",
       "priority": 2,
-      "frame_hint": "找曹操说/被配上“春秋胡言乱语”的画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找曹操说/被配上“春秋胡言乱语”的画面。"
     },
     {
       "item_id": "xsg-title-negative-age",
       "priority": 2,
-      "frame_hint": "找“负二十四岁阴间子民”年龄时间线吐槽画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“负二十四岁阴间子民”年龄时间线吐槽画面。"
     },
     {
       "item_id": "xsg-title-dongxi-tianyi",
       "priority": 2,
-      "frame_hint": "找“洞悉天意”相关总结画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“洞悉天意”相关总结画面。"
     },
     {
       "item_id": "xsg-title-void-soldiers",
       "priority": 2,
-      "frame_hint": "找诸葛亮虚空炼兵相关画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找诸葛亮虚空炼兵相关画面。"
     },
     {
       "item_id": "xsg-title-wield-tianyi",
       "priority": 2,
-      "frame_hint": "找“驭使天意谁人能挡”的相关画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“驭使天意谁人能挡”的相关画面。"
     },
     {
       "item_id": "xsg-title-sima-deep-power",
       "priority": 2,
-      "frame_hint": "找司马懿功力深不可测对应表情或剧情画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找司马懿功力深不可测对应表情或剧情画面。"
     },
     {
       "item_id": "xsg-title-zhuge-shu-lord",
       "priority": 2,
-      "frame_hint": "找诸葛亮为蜀汉之主相关画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找诸葛亮为蜀汉之主相关画面。"
     },
     {
       "item_id": "xsg-title-heavenly-soldiers",
       "priority": 2,
-      "frame_hint": "找天兵天将/篡魏易如反掌相关画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找天兵天将/篡魏易如反掌相关画面。"
     },
     {
       "item_id": "xsg-title-seven-eight-ten",
       "priority": 2,
-      "frame_hint": "找“7门8卦阵，我9岁便10它了”台词或字幕画面。",
-      "authorization_status": "needs_up_authorization"
+      "frame_hint": "找“7门8卦阵，我9岁便10它了”台词或字幕画面。"
     }
   ]
 }

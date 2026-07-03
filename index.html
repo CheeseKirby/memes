@@ -471,8 +471,8 @@
         <button id="closeDialog" type="button">关闭</button>
         <div class="actions">
           <button id="copyId" type="button">复制 ID</button>
-          <a id="openImage" href="#" target="_blank" rel="noreferrer">打开图卡</a>
-          <a id="openStoryboard" href="#" target="_blank" rel="noreferrer">截图候选帧</a>
+          <a id="openImage" href="#" target="_blank" rel="noreferrer">打开图片</a>
+          <a id="openStoryboard" href="#" target="_blank" rel="noreferrer">预览帧</a>
           <a id="openSource" href="#" target="_blank" rel="noreferrer">打开出处</a>
         </div>
       </div>
@@ -573,12 +573,12 @@
       function renderStats() {
         const total = state.items.length;
         const memes = state.items.filter((item) => item.item_type === "meme").length;
-        const curated = state.items.filter((item) => item.item_type === "meme" && item.curation_status !== "title_mined").length;
+        const screenshots = state.items.filter((item) => item.item_type === "meme" && isScreenshot(item)).length;
         const candidates = state.items.filter((item) => item.curation_status === "title_mined").length;
         const data = [
           ["总条目", total],
           ["梗条目", memes],
-          ["正式梗", curated],
+          ["已配截图", screenshots],
           ["标题候选", candidates]
         ];
         stats.replaceChildren(...data.map(([label, value]) => {
@@ -610,6 +610,10 @@
 
       function imageFor(item) {
         return item.image_url || item.thumbnail_url || "";
+      }
+
+      function isScreenshot(item) {
+        return item.image_status === "screenshot" || String(item.image_url || "").includes("/assets/screenshots/");
       }
 
       function storyboardUrlFor(item) {
@@ -681,8 +685,9 @@
         renderFilters();
         const items = filteredItems();
         const shown = items.slice(0, state.limit);
+        const screenshotCount = state.items.filter((item) => item.item_type === "meme" && isScreenshot(item)).length;
         resultCount.textContent = `显示 ${shown.length} / ${items.length} 条`;
-        sourceNote.textContent = "图卡为仓库生成的 SVG，不是 B 站截图";
+        sourceNote.textContent = `${screenshotCount} 条已配截图，其余用 SVG 文字卡兜底`;
         moreButton.hidden = state.limit >= items.length;
         grid.replaceChildren(...shown.map(renderCard));
         if (!items.length) {

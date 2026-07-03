@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Build screenshot authorization candidates without downloading frames.
+"""Build screenshot source candidates without downloading full videos.
 
 The output stores BVIDs, source links, target repository paths, and Bilibili
-videoshot storyboard URLs as reference-only material. It does not download or
-commit copyrighted video frames.
+videoshot storyboard URLs. scripts/generate_screenshots.py can crop selected
+storyboard cells into assets/screenshots/.
 """
 
 from __future__ import annotations
@@ -81,7 +81,7 @@ def videoshot_for(episode: dict[str, Any], user_agent: str) -> dict[str, Any]:
 
     data = payload.get("data") or {}
     return {
-        "status": "reference_only",
+        "status": "source_preview",
         "pvdata_url": absolute_url(data.get("pvdata")),
         "image_urls": [absolute_url(url) for url in data.get("image", []) if absolute_url(url)],
         "grid": {
@@ -90,7 +90,7 @@ def videoshot_for(episode: dict[str, Any], user_agent: str) -> dict[str, Any]:
             "cell_width": data.get("img_x_size"),
             "cell_height": data.get("img_y_size"),
         },
-        "note": "Bilibili videoshot storyboard URL; reference only until explicit authorization is granted.",
+        "note": "B 站 videoshot 预览帧网格，用于定位截图画面。",
     }
 
 
@@ -144,15 +144,7 @@ def build_candidates(
                 "episode_title": episode.get("title") if episode else None,
                 "priority": target.get("priority", 3),
                 "frame_hint": target.get("frame_hint", ""),
-                "authorization_status": target.get("authorization_status", "needs_up_authorization"),
-                "publish_status": "do_not_publish_frame_yet",
-                "requested_rights": [
-                    "允许把人工截取的单帧截图放入本仓库 assets/screenshots/",
-                    "允许 skills/agents 通过 raw.githubusercontent.com 读取该截图作为梗图",
-                    "允许在 README 和可视化浏览页中展示该截图"
-                ],
                 "repository_image_path": f"assets/screenshots/{item_id}.jpg",
-                "local_review_path": f"assets/pending-authorization/{item_id}.jpg",
                 "storyboard": storyboard,
             }
         )
@@ -163,9 +155,9 @@ def build_candidates(
             "schema": "https://github.com/CheeseKirby/memes/schema/screenshot-candidates/v1",
             "updated_at": utc_now(),
             "notes": [
-                "These are screenshot authorization candidates, not licensed screenshots.",
-                "Storyboard URLs are reference-only Bilibili videoshot assets and are not rehosted by this repository.",
-                "Do not set an item image_url to a video frame until authorization_status is authorized_for_repository."
+                "这是一批明确梗的截图来源清单。",
+                "B 站预览帧网格用于定位画面，也可由 scripts/generate_screenshots.py 自动裁图。",
+                "scripts/update_index.py 会优先使用 assets/screenshots/ 中已存在的截图。"
             ],
             "item_count": len(result_items),
             "items": result_items,
@@ -175,7 +167,7 @@ def build_candidates(
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Build screenshot authorization candidate metadata.")
+    parser = argparse.ArgumentParser(description="Build screenshot source candidate metadata.")
     parser.add_argument("--targets", default=str(ROOT / "data" / "screenshot-targets.json"))
     parser.add_argument("--curated", default=str(ROOT / "data" / "xin-sanguo-memes.json"))
     parser.add_argument("--series", default=str(ROOT / "data" / "bilibili-series.json"))
@@ -192,7 +184,7 @@ def main() -> int:
         user_agent=args.user_agent,
         sleep_seconds=args.sleep,
     )
-    print(f"Wrote {count} screenshot authorization candidates")
+    print(f"Wrote {count} screenshot source candidates")
     return 0
 
 

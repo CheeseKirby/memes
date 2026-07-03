@@ -25,7 +25,6 @@ BVID
 
 ```text
 视频文件
-视频帧
 弹幕正文
 评论正文
 ```
@@ -77,34 +76,33 @@ assets/cards/*.svg
 
 这些卡片是仓库生成的原创文字图，不是 B 站视频截图。
 
-## 截图授权候选
+## 截图来源
 
-`scripts/update_screenshot_candidates.py` 会给一批明确梗生成截图授权候选清单：
+`scripts/update_screenshot_candidates.py` 会给一批明确梗生成截图来源清单：
 
 ```text
 data/screenshot-candidates.json
 ```
 
-它只保存 BVID、出处、建议截图画面和 B 站预览帧雪碧图 URL，不下载、不提交视频帧。
+它保存 BVID、出处、建议截图画面和 B 站预览帧网格 URL。
 
-授权流程见：
+要生成仓库截图，运行：
 
-```text
-docs/screenshot-authorization.md
+```bash
+python scripts/generate_screenshots.py --overwrite
 ```
 
 ## 梗图怎么补
-
-不要批量截取视频画面提交进仓库。
 
 推荐流程：
 
 1. 在 `data/xin-sanguo-memes.json` 里先建梗条目。
 2. 填 `primary_bvid` 和 `source_url`。
-3. 如果已经确认具体片段，在 `image_refs` 里补时间点说明。
-4. 如果有可公开使用的授权图片 URL，再填 `image_url`。
-5. 运行 `python scripts/update_index.py` 重新生成索引。
+3. 在 `data/screenshot-targets.json` 里补截图提示。
+4. 运行 `python scripts/update_screenshot_candidates.py`。
+5. 运行 `python scripts/generate_screenshots.py --overwrite`。
+6. 运行 `python scripts/update_index.py` 重新生成索引。
 
 ## 为什么这么做
 
-这样做可以让 skills 找到梗和出处，同时避免把视频画面、评论原文、版权素材批量搬进仓库。
+这样做可以让 skills 找到梗、出处和配图，同时避免把评论原文或整段视频搬进仓库。

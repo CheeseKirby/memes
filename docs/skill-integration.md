@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/CheeseKirby/memes/main/index.json
 3. 优先使用 `item_type: meme` 的条目。
 4. 用用户意图匹配 `title`、`summary`、`aliases`、`tags`、`tone`、`usage`。
 5. `source_episode` 条目只当作视频出处，不要当成梗本体。
-6. 如果 `image_url` 为空，不要假装有现成梗图，返回来源链接或 BVID 即可。
+6. 优先返回 `image_status: screenshot` 的真实截图；其他条目可以返回 SVG 文字卡。
 
 ## 重要字段
 
@@ -32,14 +32,14 @@ tone           语气
 usage          适用场景
 language       语言，目前主要是 zh
 safe           是否适合默认公开调用
-image_url      整理好的梗图 URL，可能为空
+image_url      整理好的梗图 URL
 thumbnail_url  B 站封面或预览图，可能为空
 source_url     来源链接
 primary_bvid   B 站视频 ID
 image_status   梗图整理状态
 ```
 
-注意：现在很多 `image_url` 指向 `assets/cards/*.svg`。这些是仓库生成的原创文字梗图卡，不是 B 站截图。
+注意：`assets/screenshots/*.jpg` 是真实截图；`assets/cards/*.svg` 是仓库生成的文字卡兜底。
 
 ## 推荐检索方式
 
@@ -92,14 +92,14 @@ episode_title
 }
 ```
 
-如果条目没有 `image_url`：
+如果条目是 SVG 文字卡：
 
 ```json
 {
   "title": "天意",
   "summary": "用于解释新三国剧情突然拐弯、人物突然被安排、历史线被强行拨动的核心世界观梗。",
-  "image_status": "needs_curated_image",
-  "source_url": "https://new-three-kingdoms.fandom.com/zh/wiki/...",
+  "image_status": "generated_card",
+  "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-worldview-tianyi.svg",
   "primary_bvid": "BVxxxx"
 }
 ```
@@ -109,10 +109,8 @@ episode_title
 不要让 skill：
 
 ```text
-直接批量下载 B 站视频画面
 把 source_episode 当成梗图
 忽略 safe 字段
-在没有 image_url 时谎称有现成图片
 把评论区原文大规模复制进输出
 ```
 
@@ -138,7 +136,7 @@ def score(item, query):
 skill 查这个库时，应该把它当成：
 
 ```text
-新三国梗名 + 解释 + 来源 + 梗图状态 的索引
+新三国梗名 + 解释 + 来源 + 图片 的索引
 ```
 
 而不是：

@@ -28,7 +28,7 @@ jobs:
       - name: Mine title candidates
         run: python scripts/mine_title_candidates.py
 
-      - name: Refresh screenshot authorization candidates
+      - name: Refresh screenshot source candidates
         run: python scripts/update_screenshot_candidates.py
 
       - name: Update index
