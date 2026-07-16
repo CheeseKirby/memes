@@ -11,7 +11,7 @@
       "有截图的条目优先使用 assets/screenshots/，没有截图的条目使用 assets/cards/ SVG 文字卡兜底。"
     ]
   },
-  "updated_at": "2026-07-15T07:24:50Z",
+  "updated_at": "2026-07-16T07:33:00Z",
   "pack": "characters",
   "item_count": 85,
   "items": [
@@ -47,8 +47,8 @@
       "image_status": "screenshot",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-character-chen-gong-bug-master.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-character-chen-gong-bug-master.jpg",
       "image_refs": [
@@ -88,13 +88,13 @@
       "episode_title": "三国杀up锐评新三国04：虫系宝可梦大师陈宫登场",
       "episode_pubdate": "2024-10-27T02:00:00Z",
       "episode_stats": {
-        "view": 3219688,
-        "danmaku": 12963,
-        "reply": 1736,
-        "favorite": 7188,
-        "coin": 10619,
-        "share": 3932,
-        "like": 54166
+        "view": 3224180,
+        "danmaku": 12991,
+        "reply": 1738,
+        "favorite": 7204,
+        "coin": 10628,
+        "share": 3934,
+        "like": 54247
       },
       "search_text": "虫系宝可梦大师陈宫 折棒系列早期对陈宫相关桥段的二创称呼，适合收录为角色绰号梗。 陈宫虫系大师 新三国 折棒 人物梗 角色梗 陈宫 视频来源 二创 吐槽 绰号 提到新三国陈宫时使用 角色绰号 三国杀up锐评新三国04：虫系宝可梦大师陈宫登场"
     },
@@ -130,8 +130,8 @@
       "image_status": "screenshot",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-character-hua-xiong-centaur.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-character-hua-xiong-centaur.jpg",
       "image_refs": [
@@ -171,13 +171,13 @@
       "episode_title": "三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？",
       "episode_pubdate": "2024-11-05T02:00:00Z",
       "episode_stats": {
-        "view": 3086547,
-        "danmaku": 17071,
-        "reply": 2097,
-        "favorite": 7309,
-        "coin": 26261,
-        "share": 3419,
-        "like": 67208
+        "view": 3091090,
+        "danmaku": 17107,
+        "reply": 2098,
+        "favorite": 7318,
+        "coin": 26273,
+        "share": 3422,
+        "like": 67304
       },
       "search_text": "华雄人马兽 折棒系列中针对华雄相关镜头和表现的绰号梗。 人马兽华雄 新三国 折棒 人物梗 角色梗 华雄 视频来源 吐槽 绰号 抽象 吐槽华雄出场 角色造型/镜头调侃 三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？"
     },
@@ -214,8 +214,8 @@
       "image_status": "screenshot_target",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-cao-cao-fadian.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-cao-cao-fadian.svg",
       "image_refs": [
@@ -256,13 +256,13 @@
       "episode_title": "三国杀up锐评新三国85：抽疯仍未停止，曹操发癫发出新高度",
       "episode_pubdate": "2025-04-07T02:00:00Z",
       "episode_stats": {
-        "view": 1995461,
-        "danmaku": 18255,
+        "view": 1998985,
+        "danmaku": 18286,
         "reply": 3941,
-        "favorite": 5195,
-        "coin": 20404,
-        "share": 1777,
-        "like": 44379
+        "favorite": 5197,
+        "coin": 20419,
+        "share": 1779,
+        "like": 44424
       },
       "search_text": "曹操发癫 折棒系列中曹操相关抽象表现的集中吐槽，可用于形容角色突然失控。 曹操抽疯 发癫曹操 新三国 折棒 视频来源 人物梗 曹操 反应图 失控 癫狂 吐槽 形容人突然发疯 角色行为失控 三国杀up锐评新三国85：抽疯仍未停止，曹操发癫发出新高度"
     },
@@ -297,8 +297,8 @@
       "image_status": "screenshot",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-episode-dong-zhuo-ten-attendants.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-episode-dong-zhuo-ten-attendants.jpg",
       "image_refs": [
@@ -338,13 +338,13 @@
       "episode_title": "三国杀up锐评新三国02：董卓怎么变成十常侍之首了？",
       "episode_pubdate": "2024-10-22T02:00:00Z",
       "episode_stats": {
-        "view": 3968028,
-        "danmaku": 11255,
-        "reply": 1945,
-        "favorite": 9446,
-        "coin": 16237,
-        "share": 3361,
-        "like": 72844
+        "view": 3973060,
+        "danmaku": 11263,
+        "reply": 1946,
+        "favorite": 9456,
+        "coin": 16249,
+        "share": 3371,
+        "like": 72938
       },
       "search_text": "董卓成了十常侍之首 用于吐槽身份关系和历史设定错位。 十常侍之首董卓 新三国 折棒 视频来源 历史梗 人物梗 错位 离谱 吐槽 身份错位 设定乱套 三国杀up锐评新三国02：董卓怎么变成十常侍之首了？"
     },
@@ -380,8 +380,8 @@
       "image_status": "screenshot_target",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-guan-yu-stand-in.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-episode-guan-yu-stand-in.svg",
       "image_refs": [
@@ -422,13 +422,13 @@
       "episode_title": "三国杀up锐评新三国re07：关羽的替身又增加了",
       "episode_pubdate": "2026-06-07T02:00:00Z",
       "episode_stats": {
-        "view": 1048124,
-        "danmaku": 9138,
-        "reply": 3096,
+        "view": 1051363,
+        "danmaku": 9140,
+        "reply": 3099,
         "favorite": 3617,
-        "coin": 10592,
-        "share": 592,
-        "like": 34052
+        "coin": 10600,
+        "share": 593,
+        "like": 34094
       },
       "search_text": "关羽的替身又增加了 用于吐槽角色替身、错认、重复身份或镜头替代。 关羽替身 新三国 折棒 视频来源 人物梗 角色梗 关羽 吐槽 替身 错认 角色像另一个人 替代品越来越多 三国杀up锐评新三国re07：关羽的替身又增加了"
     },
@@ -464,8 +464,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-0bd3e4ff8d.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-0bd3e4ff8d.svg",
       "image_refs": [
@@ -488,13 +488,13 @@
       "episode_title": "三国杀up锐评新三国132：司马懿上任宣贵妃，这史有点太野了",
       "episode_pubdate": "2025-07-10T02:00:00Z",
       "episode_stats": {
-        "view": 1631420,
-        "danmaku": 16136,
+        "view": 1634215,
+        "danmaku": 16154,
         "reply": 3081,
-        "favorite": 4992,
-        "coin": 19908,
+        "favorite": 4994,
+        "coin": 19916,
         "share": 1956,
-        "like": 40780
+        "like": 40819
       },
       "search_text": "司马懿上任宣贵妃，这史有点太野了 从吃蛋挞的折棒《吐槽新三国》第 132 期标题中挖掘出的候选梗：司马懿上任宣贵妃，这史有点太野了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 历史梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国132：司马懿上任宣贵妃，这史有点太野了"
     },
@@ -529,8 +529,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-0e43b6f693.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-0e43b6f693.svg",
       "image_refs": [
@@ -553,13 +553,13 @@
       "episode_title": "三国杀up锐评新三国76：四庭柱内战，杯酒斩华雄，太有创意了",
       "episode_pubdate": "2025-03-20T02:00:00Z",
       "episode_stats": {
-        "view": 1774921,
-        "danmaku": 10212,
+        "view": 1778229,
+        "danmaku": 10217,
         "reply": 1752,
-        "favorite": 4431,
-        "coin": 28672,
+        "favorite": 4436,
+        "coin": 28682,
         "share": 567,
-        "like": 46731
+        "like": 46776
       },
       "search_text": "四庭柱内战，杯酒斩华雄，太有创意了 从吃蛋挞的折棒《吐槽新三国》第 76 期标题中挖掘出的候选梗：四庭柱内战，杯酒斩华雄，太有创意了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国76：四庭柱内战，杯酒斩华雄，太有创意了"
     },
@@ -594,8 +594,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-0f7fd46ef8.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-0f7fd46ef8.svg",
       "image_refs": [
@@ -618,13 +618,13 @@
       "episode_title": "三国杀up锐评新三国104：关平受命伏杀张飞，弱智卧龙大展神威",
       "episode_pubdate": "2025-05-15T02:00:00Z",
       "episode_stats": {
-        "view": 2298569,
-        "danmaku": 14546,
+        "view": 2301787,
+        "danmaku": 14555,
         "reply": 3740,
-        "favorite": 6894,
-        "coin": 26663,
-        "share": 3964,
-        "like": 52457
+        "favorite": 6898,
+        "coin": 26674,
+        "share": 3967,
+        "like": 52500
       },
       "search_text": "关平受命伏杀张飞 从吃蛋挞的折棒《吐槽新三国》第 104 期标题中挖掘出的候选梗：关平受命伏杀张飞  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国104：关平受命伏杀张飞，弱智卧龙大展神威"
     },
@@ -659,8 +659,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-1046d98437.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-1046d98437.svg",
       "image_refs": [
@@ -683,13 +683,13 @@
       "episode_title": "三国杀up锐评新三国24：一夜过去，貂蝉被董卓征服了",
       "episode_pubdate": "2024-12-06T02:00:00Z",
       "episode_stats": {
-        "view": 2359760,
-        "danmaku": 19008,
-        "reply": 2331,
-        "favorite": 5948,
-        "coin": 25987,
+        "view": 2363333,
+        "danmaku": 19027,
+        "reply": 2327,
+        "favorite": 5947,
+        "coin": 25997,
         "share": 1384,
-        "like": 60365
+        "like": 60425
       },
       "search_text": "貂蝉被董卓征服了 从吃蛋挞的折棒《吐槽新三国》第 24 期标题中挖掘出的候选梗：貂蝉被董卓征服了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国24：一夜过去，貂蝉被董卓征服了"
     },
@@ -724,8 +724,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-164e404b2b.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-164e404b2b.svg",
       "image_refs": [
@@ -748,13 +748,13 @@
       "episode_title": "三国杀up锐评新三国132：司马懿上任宣贵妃，这史有点太野了",
       "episode_pubdate": "2025-07-10T02:00:00Z",
       "episode_stats": {
-        "view": 1631420,
-        "danmaku": 16136,
+        "view": 1634215,
+        "danmaku": 16154,
         "reply": 3081,
-        "favorite": 4992,
-        "coin": 19908,
+        "favorite": 4994,
+        "coin": 19916,
         "share": 1956,
-        "like": 40780
+        "like": 40819
       },
       "search_text": "司马懿上任宣贵妃 从吃蛋挞的折棒《吐槽新三国》第 132 期标题中挖掘出的候选梗：司马懿上任宣贵妃  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国132：司马懿上任宣贵妃，这史有点太野了"
     },
@@ -789,8 +789,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-1d0831ddb2.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-1d0831ddb2.svg",
       "image_refs": [
@@ -813,13 +813,13 @@
       "episode_title": "三国杀up锐评新三国39：曹操就是天子，天子就是曹操！",
       "episode_pubdate": "2025-01-05T02:00:00Z",
       "episode_stats": {
-        "view": 2152729,
-        "danmaku": 13071,
-        "reply": 2147,
-        "favorite": 5203,
-        "coin": 15902,
+        "view": 2155863,
+        "danmaku": 13098,
+        "reply": 2149,
+        "favorite": 5211,
+        "coin": 15917,
         "share": 766,
-        "like": 47893
+        "like": 47953
       },
       "search_text": "曹操就是天子，天子就是曹操 从吃蛋挞的折棒《吐槽新三国》第 39 期标题中挖掘出的候选梗：曹操就是天子，天子就是曹操  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国39：曹操就是天子，天子就是曹操！"
     },
@@ -854,8 +854,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2816146433.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2816146433.svg",
       "image_refs": [
@@ -878,13 +878,13 @@
       "episode_title": "三国杀up锐评新三国38：虽然我曹操剑指天子，但我确实忠心耿耿啊！",
       "episode_pubdate": "2025-01-03T02:00:00Z",
       "episode_stats": {
-        "view": 2117316,
-        "danmaku": 11134,
-        "reply": 2310,
-        "favorite": 5288,
-        "coin": 23512,
-        "share": 797,
-        "like": 52278
+        "view": 2120575,
+        "danmaku": 11153,
+        "reply": 2315,
+        "favorite": 5295,
+        "coin": 23528,
+        "share": 800,
+        "like": 52341
       },
       "search_text": "虽然我曹操剑指天子 从吃蛋挞的折棒《吐槽新三国》第 38 期标题中挖掘出的候选梗：虽然我曹操剑指天子  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国38：虽然我曹操剑指天子，但我确实忠心耿耿啊！"
     },
@@ -921,8 +921,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2922952652.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2922952652.svg",
       "image_refs": [
@@ -945,13 +945,13 @@
       "episode_title": "三国杀up锐评新三国145：呱，公子啊，不是我刘备害了你……",
       "episode_pubdate": "2025-08-05T02:00:00Z",
       "episode_stats": {
-        "view": 1461794,
-        "danmaku": 11559,
+        "view": 1464379,
+        "danmaku": 11578,
         "reply": 2583,
-        "favorite": 3636,
-        "coin": 15771,
-        "share": 580,
-        "like": 34221
+        "favorite": 3642,
+        "coin": 15777,
+        "share": 581,
+        "like": 34255
       },
       "search_text": "呱，公子啊，不是我刘备害了你…… 从吃蛋挞的折棒《吐槽新三国》第 145 期标题中挖掘出的候选梗：呱，公子啊，不是我刘备害了你……  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 回复 反应图 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国145：呱，公子啊，不是我刘备害了你……"
     },
@@ -986,8 +986,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2c65fd476f.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2c65fd476f.svg",
       "image_refs": [
@@ -1010,13 +1010,13 @@
       "episode_title": "三国杀up锐评新三国09：刘备这从哪找来的满洲兵？",
       "episode_pubdate": "2024-11-07T02:00:00Z",
       "episode_stats": {
-        "view": 3079639,
-        "danmaku": 10456,
-        "reply": 2195,
-        "favorite": 7118,
-        "coin": 18225,
+        "view": 3084132,
+        "danmaku": 10475,
+        "reply": 2197,
+        "favorite": 7132,
+        "coin": 18240,
         "share": 2354,
-        "like": 62149
+        "like": 62240
       },
       "search_text": "刘备这从哪找来的满洲兵 从吃蛋挞的折棒《吐槽新三国》第 9 期标题中挖掘出的候选梗：刘备这从哪找来的满洲兵  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国09：刘备这从哪找来的满洲兵？"
     },
@@ -1051,8 +1051,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2f9a838ed6.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-2f9a838ed6.svg",
       "image_refs": [
@@ -1075,13 +1075,13 @@
       "episode_title": "三国杀up锐评新三国286：苍天呐，诸葛亮要走了！",
       "episode_pubdate": "2026-05-14T02:00:00Z",
       "episode_stats": {
-        "view": 1033587,
-        "danmaku": 14223,
-        "reply": 4769,
-        "favorite": 3812,
-        "coin": 12445,
-        "share": 1282,
-        "like": 33793
+        "view": 1036074,
+        "danmaku": 14247,
+        "reply": 4770,
+        "favorite": 3818,
+        "coin": 12453,
+        "share": 1283,
+        "like": 33835
       },
       "search_text": "苍天呐，诸葛亮要走了 从吃蛋挞的折棒《吐槽新三国》第 286 期标题中挖掘出的候选梗：苍天呐，诸葛亮要走了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国286：苍天呐，诸葛亮要走了！"
     },
@@ -1116,8 +1116,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-30dd1ee23a.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-30dd1ee23a.svg",
       "image_refs": [
@@ -1140,13 +1140,13 @@
       "episode_title": "三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？",
       "episode_pubdate": "2024-11-05T02:00:00Z",
       "episode_stats": {
-        "view": 3086547,
-        "danmaku": 17071,
-        "reply": 2097,
-        "favorite": 7309,
-        "coin": 26261,
-        "share": 3419,
-        "like": 67208
+        "view": 3091090,
+        "danmaku": 17107,
+        "reply": 2098,
+        "favorite": 7318,
+        "coin": 26273,
+        "share": 3422,
+        "like": 67304
       },
       "search_text": "华雄变身人马兽，关羽的酒也没了 从吃蛋挞的折棒《吐槽新三国》第 8 期标题中挖掘出的候选梗：华雄变身人马兽，关羽的酒也没了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？"
     },
@@ -1181,8 +1181,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-31568fd6e3.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-31568fd6e3.svg",
       "image_refs": [
@@ -1205,13 +1205,13 @@
       "episode_title": "三国杀up锐评新三国179：我曹操，绝非，他们猜忌的，那种人！",
       "episode_pubdate": "2025-10-12T02:00:00Z",
       "episode_stats": {
-        "view": 1417574,
-        "danmaku": 11275,
+        "view": 1419760,
+        "danmaku": 11278,
         "reply": 2882,
-        "favorite": 3622,
-        "coin": 14313,
-        "share": 658,
-        "like": 33949
+        "favorite": 3621,
+        "coin": 14320,
+        "share": 659,
+        "like": 33986
       },
       "search_text": "我曹操，绝非，他们猜忌的，那种人 从吃蛋挞的折棒《吐槽新三国》第 179 期标题中挖掘出的候选梗：我曹操，绝非，他们猜忌的，那种人  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国179：我曹操，绝非，他们猜忌的，那种人！"
     },
@@ -1246,8 +1246,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-32a783c41f.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-32a783c41f.svg",
       "image_refs": [
@@ -1270,13 +1270,13 @@
       "episode_title": "三国杀up锐评新三国93：刘备久进不出，待我一探究竟！",
       "episode_pubdate": "2025-04-23T02:00:00Z",
       "episode_stats": {
-        "view": 1704930,
-        "danmaku": 12857,
+        "view": 1707438,
+        "danmaku": 12868,
         "reply": 2050,
-        "favorite": 4060,
-        "coin": 18411,
-        "share": 536,
-        "like": 38829
+        "favorite": 4066,
+        "coin": 18427,
+        "share": 537,
+        "like": 38870
       },
       "search_text": "刘备久进不出，待我一探究竟 从吃蛋挞的折棒《吐槽新三国》第 93 期标题中挖掘出的候选梗：刘备久进不出，待我一探究竟  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国93：刘备久进不出，待我一探究竟！"
     },
@@ -1311,8 +1311,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-34f7810de1.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-34f7810de1.svg",
       "image_refs": [
@@ -1335,13 +1335,13 @@
       "episode_title": "三国杀up锐评新三国55：吕布射术太弱了，曹军人均百倍吕布",
       "episode_pubdate": "2025-02-06T02:00:00Z",
       "episode_stats": {
-        "view": 1868820,
-        "danmaku": 15641,
-        "reply": 2045,
-        "favorite": 4600,
-        "coin": 18328,
-        "share": 804,
-        "like": 45355
+        "view": 1871432,
+        "danmaku": 15662,
+        "reply": 2047,
+        "favorite": 4609,
+        "coin": 18341,
+        "share": 807,
+        "like": 45417
       },
       "search_text": "吕布射术太弱了，曹军人均百倍吕布 从吃蛋挞的折棒《吐槽新三国》第 55 期标题中挖掘出的候选梗：吕布射术太弱了，曹军人均百倍吕布  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国55：吕布射术太弱了，曹军人均百倍吕布"
     },
@@ -1376,8 +1376,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3699eb0e61.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3699eb0e61.svg",
       "image_refs": [
@@ -1400,13 +1400,13 @@
       "episode_title": "三国杀up锐评新三国115：周瑜张昭共掌大权，这制衡算玩明白了",
       "episode_pubdate": "2025-06-06T02:00:00Z",
       "episode_stats": {
-        "view": 1725636,
-        "danmaku": 13040,
+        "view": 1728889,
+        "danmaku": 13048,
         "reply": 2982,
-        "favorite": 4007,
-        "coin": 17580,
-        "share": 583,
-        "like": 39041
+        "favorite": 4013,
+        "coin": 17591,
+        "share": 584,
+        "like": 39085
       },
       "search_text": "周瑜张昭共掌大权，这制衡算玩明白了 从吃蛋挞的折棒《吐槽新三国》第 115 期标题中挖掘出的候选梗：周瑜张昭共掌大权，这制衡算玩明白了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国115：周瑜张昭共掌大权，这制衡算玩明白了"
     },
@@ -1442,8 +1442,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3c7a7d1229.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3c7a7d1229.svg",
       "image_refs": [
@@ -1466,13 +1466,13 @@
       "episode_title": "三国杀up锐评新三国181：史诗级计策连表计，孔明周瑜自叹不如",
       "episode_pubdate": "2025-10-16T02:00:00Z",
       "episode_stats": {
-        "view": 1333252,
-        "danmaku": 10672,
+        "view": 1335472,
+        "danmaku": 10678,
         "reply": 2651,
-        "favorite": 3510,
-        "coin": 13973,
+        "favorite": 3517,
+        "coin": 13979,
         "share": 641,
-        "like": 32206
+        "like": 32241
       },
       "search_text": "史诗级计策连表计，孔明周瑜自叹不如 从吃蛋挞的折棒《吐槽新三国》第 181 期标题中挖掘出的候选梗：史诗级计策连表计，孔明周瑜自叹不如  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 历史梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国181：史诗级计策连表计，孔明周瑜自叹不如"
     },
@@ -1507,8 +1507,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3d34820029.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3d34820029.svg",
       "image_refs": [
@@ -1531,13 +1531,13 @@
       "episode_title": "三国杀up锐评新三国236：刘备诸葛彻底决裂，历史从此再度巨变",
       "episode_pubdate": "2026-02-03T02:00:00Z",
       "episode_stats": {
-        "view": 1636842,
-        "danmaku": 14963,
-        "reply": 5606,
-        "favorite": 4842,
-        "coin": 15267,
+        "view": 1639269,
+        "danmaku": 14980,
+        "reply": 5609,
+        "favorite": 4848,
+        "coin": 15275,
         "share": 1364,
-        "like": 42907
+        "like": 42946
       },
       "search_text": "刘备诸葛彻底决裂 从吃蛋挞的折棒《吐槽新三国》第 236 期标题中挖掘出的候选梗：刘备诸葛彻底决裂  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国236：刘备诸葛彻底决裂，历史从此再度巨变"
     },
@@ -1574,8 +1574,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3e36c31225.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-3e36c31225.svg",
       "image_refs": [
@@ -1598,13 +1598,13 @@
       "episode_title": "三国杀up锐评新三国199：我刘备想穿了心，也不敢迈出这一步啊！",
       "episode_pubdate": "2025-11-21T02:00:00Z",
       "episode_stats": {
-        "view": 1304013,
-        "danmaku": 7289,
+        "view": 1305966,
+        "danmaku": 7296,
         "reply": 3452,
         "favorite": 3444,
-        "coin": 14312,
-        "share": 564,
-        "like": 32831
+        "coin": 14316,
+        "share": 565,
+        "like": 32856
       },
       "search_text": "我刘备想穿了心，也不敢迈出这一步啊 从吃蛋挞的折棒《吐槽新三国》第 199 期标题中挖掘出的候选梗：我刘备想穿了心，也不敢迈出这一步啊  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 回复 反应图 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国199：我刘备想穿了心，也不敢迈出这一步啊！"
     },
@@ -1639,8 +1639,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-435ccbf881.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-435ccbf881.svg",
       "image_refs": [
@@ -1663,13 +1663,13 @@
       "episode_title": "三国杀up锐评新三国65：刘备还是个忠厚人呐！",
       "episode_pubdate": "2025-02-26T02:00:17Z",
       "episode_stats": {
-        "view": 2141925,
-        "danmaku": 14843,
-        "reply": 2524,
-        "favorite": 6250,
-        "coin": 20647,
-        "share": 1264,
-        "like": 48716
+        "view": 2145247,
+        "danmaku": 14853,
+        "reply": 2525,
+        "favorite": 6251,
+        "coin": 20661,
+        "share": 1265,
+        "like": 48787
       },
       "search_text": "刘备还是个忠厚人呐 从吃蛋挞的折棒《吐槽新三国》第 65 期标题中挖掘出的候选梗：刘备还是个忠厚人呐  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国65：刘备还是个忠厚人呐！"
     },
@@ -1704,8 +1704,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-51a638fc0d.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-51a638fc0d.svg",
       "image_refs": [
@@ -1728,13 +1728,13 @@
       "episode_title": "三国杀up锐评新三国204：刘备再不是先前主公了，他已成为真正的君王！",
       "episode_pubdate": "2025-12-01T02:00:00Z",
       "episode_stats": {
-        "view": 1479515,
-        "danmaku": 13494,
+        "view": 1481616,
+        "danmaku": 13507,
         "reply": 4084,
-        "favorite": 4124,
-        "coin": 14477,
+        "favorite": 4126,
+        "coin": 14491,
         "share": 878,
-        "like": 35227
+        "like": 35253
       },
       "search_text": "刘备再不是先前主公了 从吃蛋挞的折棒《吐槽新三国》第 204 期标题中挖掘出的候选梗：刘备再不是先前主公了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国204：刘备再不是先前主公了，他已成为真正的君王！"
     },
@@ -1769,8 +1769,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-53e9aae389.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-53e9aae389.svg",
       "image_refs": [
@@ -1793,13 +1793,13 @@
       "episode_title": "三国杀up锐评新三国39：曹操就是天子，天子就是曹操！",
       "episode_pubdate": "2025-01-05T02:00:00Z",
       "episode_stats": {
-        "view": 2152729,
-        "danmaku": 13071,
-        "reply": 2147,
-        "favorite": 5203,
-        "coin": 15902,
+        "view": 2155863,
+        "danmaku": 13098,
+        "reply": 2149,
+        "favorite": 5211,
+        "coin": 15917,
         "share": 766,
-        "like": 47893
+        "like": 47953
       },
       "search_text": "曹操就是天子 从吃蛋挞的折棒《吐槽新三国》第 39 期标题中挖掘出的候选梗：曹操就是天子  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国39：曹操就是天子，天子就是曹操！"
     },
@@ -1834,8 +1834,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-59c1255684.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-59c1255684.svg",
       "image_refs": [
@@ -1858,13 +1858,13 @@
       "episode_title": "三国杀up锐评新三国203：诸葛亮与刀斧手的再次相会",
       "episode_pubdate": "2025-11-29T02:00:00Z",
       "episode_stats": {
-        "view": 1369599,
-        "danmaku": 10917,
-        "reply": 3188,
-        "favorite": 3704,
-        "coin": 13924,
+        "view": 1371642,
+        "danmaku": 10932,
+        "reply": 3189,
+        "favorite": 3707,
+        "coin": 13933,
         "share": 530,
-        "like": 33032
+        "like": 33048
       },
       "search_text": "诸葛亮与刀斧手的再次相会 从吃蛋挞的折棒《吐槽新三国》第 203 期标题中挖掘出的候选梗：诸葛亮与刀斧手的再次相会  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国203：诸葛亮与刀斧手的再次相会"
     },
@@ -1899,8 +1899,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-62afc2f75f.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-62afc2f75f.svg",
       "image_refs": [
@@ -1923,13 +1923,13 @@
       "episode_title": "三国杀up锐评新三国39：曹操就是天子，天子就是曹操！",
       "episode_pubdate": "2025-01-05T02:00:00Z",
       "episode_stats": {
-        "view": 2152729,
-        "danmaku": 13071,
-        "reply": 2147,
-        "favorite": 5203,
-        "coin": 15902,
+        "view": 2155863,
+        "danmaku": 13098,
+        "reply": 2149,
+        "favorite": 5211,
+        "coin": 15917,
         "share": 766,
-        "like": 47893
+        "like": 47953
       },
       "search_text": "天子就是曹操 从吃蛋挞的折棒《吐槽新三国》第 39 期标题中挖掘出的候选梗：天子就是曹操  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国39：曹操就是天子，天子就是曹操！"
     },
@@ -1966,8 +1966,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-653e3a7f33.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-653e3a7f33.svg",
       "image_refs": [
@@ -1990,13 +1990,13 @@
       "episode_title": "三国杀up锐评新三国90：听说你家刘备还没死，我深感欣慰啊！",
       "episode_pubdate": "2025-04-17T02:00:00Z",
       "episode_stats": {
-        "view": 1790105,
-        "danmaku": 13689,
-        "reply": 2813,
-        "favorite": 4651,
-        "coin": 19364,
-        "share": 753,
-        "like": 42021
+        "view": 1792850,
+        "danmaku": 13696,
+        "reply": 2814,
+        "favorite": 4654,
+        "coin": 19382,
+        "share": 755,
+        "like": 42075
       },
       "search_text": "听说你家刘备还没死，我深感欣慰啊 从吃蛋挞的折棒《吐槽新三国》第 90 期标题中挖掘出的候选梗：听说你家刘备还没死，我深感欣慰啊  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 回复 反应图 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国90：听说你家刘备还没死，我深感欣慰啊！"
     },
@@ -2031,8 +2031,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-65acc8f2d0.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-65acc8f2d0.svg",
       "image_refs": [
@@ -2055,13 +2055,13 @@
       "episode_title": "三国杀up锐评新三国235：普天同庆！张飞归天了！",
       "episode_pubdate": "2026-02-01T02:00:00Z",
       "episode_stats": {
-        "view": 1933842,
-        "danmaku": 16917,
-        "reply": 7972,
-        "favorite": 7324,
-        "coin": 26132,
+        "view": 1937388,
+        "danmaku": 16933,
+        "reply": 7976,
+        "favorite": 7340,
+        "coin": 26156,
         "share": 4068,
-        "like": 57484
+        "like": 57546
       },
       "search_text": "普天同庆！张飞归天了 从吃蛋挞的折棒《吐槽新三国》第 235 期标题中挖掘出的候选梗：普天同庆！张飞归天了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国235：普天同庆！张飞归天了！"
     },
@@ -2096,8 +2096,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-66f2df4088.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-66f2df4088.svg",
       "image_refs": [
@@ -2120,13 +2120,13 @@
       "episode_title": "三国杀up锐评新三国24：一夜过去，貂蝉被董卓征服了",
       "episode_pubdate": "2024-12-06T02:00:00Z",
       "episode_stats": {
-        "view": 2359760,
-        "danmaku": 19008,
-        "reply": 2331,
-        "favorite": 5948,
-        "coin": 25987,
+        "view": 2363333,
+        "danmaku": 19027,
+        "reply": 2327,
+        "favorite": 5947,
+        "coin": 25997,
         "share": 1384,
-        "like": 60365
+        "like": 60425
       },
       "search_text": "一夜过去，貂蝉被董卓征服了 从吃蛋挞的折棒《吐槽新三国》第 24 期标题中挖掘出的候选梗：一夜过去，貂蝉被董卓征服了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国24：一夜过去，貂蝉被董卓征服了"
     },
@@ -2161,8 +2161,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-6b639a8047.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-6b639a8047.svg",
       "image_refs": [
@@ -2185,13 +2185,13 @@
       "episode_title": "三国杀up锐评新三国145：呱，公子啊，不是我刘备害了你……",
       "episode_pubdate": "2025-08-05T02:00:00Z",
       "episode_stats": {
-        "view": 1461794,
-        "danmaku": 11559,
+        "view": 1464379,
+        "danmaku": 11578,
         "reply": 2583,
-        "favorite": 3636,
-        "coin": 15771,
-        "share": 580,
-        "like": 34221
+        "favorite": 3642,
+        "coin": 15777,
+        "share": 581,
+        "like": 34255
       },
       "search_text": "不是我刘备害了你…… 从吃蛋挞的折棒《吐槽新三国》第 145 期标题中挖掘出的候选梗：不是我刘备害了你……  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国145：呱，公子啊，不是我刘备害了你……"
     },
@@ -2226,8 +2226,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-71cebea250.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-71cebea250.svg",
       "image_refs": [
@@ -2250,13 +2250,13 @@
       "episode_title": "三国杀up锐评新三国35：我刘备与吕布结拜，吕布之妻便是我妻！",
       "episode_pubdate": "2024-12-28T02:00:00Z",
       "episode_stats": {
-        "view": 2150573,
-        "danmaku": 14279,
-        "reply": 1716,
-        "favorite": 4602,
-        "coin": 10947,
+        "view": 2153867,
+        "danmaku": 14297,
+        "reply": 1717,
+        "favorite": 4610,
+        "coin": 10957,
         "share": 872,
-        "like": 41317
+        "like": 41372
       },
       "search_text": "我刘备与吕布结拜，吕布之妻便是我妻 从吃蛋挞的折棒《吐槽新三国》第 35 期标题中挖掘出的候选梗：我刘备与吕布结拜，吕布之妻便是我妻  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国35：我刘备与吕布结拜，吕布之妻便是我妻！"
     },
@@ -2291,8 +2291,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-74c87ef1ba.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-74c87ef1ba.svg",
       "image_refs": [
@@ -2315,13 +2315,13 @@
       "episode_title": "三国杀up锐评新三国10：李儒变太监，刘备跳明反，我们都有光明的未来",
       "episode_pubdate": "2024-11-09T02:00:00Z",
       "episode_stats": {
-        "view": 2755723,
-        "danmaku": 10707,
-        "reply": 1352,
-        "favorite": 5956,
-        "coin": 15649,
+        "view": 2759914,
+        "danmaku": 10723,
+        "reply": 1353,
+        "favorite": 5972,
+        "coin": 15658,
         "share": 1617,
-        "like": 52958
+        "like": 53029
       },
       "search_text": "刘备跳明反 从吃蛋挞的折棒《吐槽新三国》第 10 期标题中挖掘出的候选梗：刘备跳明反  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国10：李儒变太监，刘备跳明反，我们都有光明的未来"
     },
@@ -2358,8 +2358,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-7af1dac6dc.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-7af1dac6dc.svg",
       "image_refs": [
@@ -2382,13 +2382,13 @@
       "episode_title": "三国杀up锐评新三国114：曹操视妙龄少女如残花败柳，唯好人妻啊！",
       "episode_pubdate": "2025-06-04T02:00:00Z",
       "episode_stats": {
-        "view": 1829289,
-        "danmaku": 17206,
+        "view": 1832557,
+        "danmaku": 17217,
         "reply": 3359,
-        "favorite": 4350,
-        "coin": 19267,
+        "favorite": 4356,
+        "coin": 19278,
         "share": 968,
-        "like": 39705
+        "like": 39739
       },
       "search_text": "曹操视妙龄少女如残花败柳，唯好人妻啊 从吃蛋挞的折棒《吐槽新三国》第 114 期标题中挖掘出的候选梗：曹操视妙龄少女如残花败柳，唯好人妻啊  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 回复 反应图 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国114：曹操视妙龄少女如残花败柳，唯好人妻啊！"
     },
@@ -2423,8 +2423,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-7e6ee86cf9.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-7e6ee86cf9.svg",
       "image_refs": [
@@ -2447,13 +2447,13 @@
       "episode_title": "三国杀up锐评新三国52：陈宫陈珪后宫争宠，这剧情有点野",
       "episode_pubdate": "2025-01-31T02:00:00Z",
       "episode_stats": {
-        "view": 1808404,
-        "danmaku": 11765,
-        "reply": 1607,
-        "favorite": 4191,
-        "coin": 13907,
+        "view": 1811141,
+        "danmaku": 11783,
+        "reply": 1611,
+        "favorite": 4200,
+        "coin": 13915,
         "share": 775,
-        "like": 39910
+        "like": 39962
       },
       "search_text": "陈宫陈珪后宫争宠 从吃蛋挞的折棒《吐槽新三国》第 52 期标题中挖掘出的候选梗：陈宫陈珪后宫争宠  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国52：陈宫陈珪后宫争宠，这剧情有点野"
     },
@@ -2488,8 +2488,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-80120a7934.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-80120a7934.svg",
       "image_refs": [
@@ -2512,13 +2512,13 @@
       "episode_title": "三国杀up锐评新三国163：多情剑客无情剑，有我刘备便有天",
       "episode_pubdate": "2025-09-10T02:00:00Z",
       "episode_stats": {
-        "view": 1451974,
-        "danmaku": 16036,
-        "reply": 3448,
-        "favorite": 3847,
-        "coin": 14199,
-        "share": 943,
-        "like": 33868
+        "view": 1454524,
+        "danmaku": 16056,
+        "reply": 3453,
+        "favorite": 3849,
+        "coin": 14207,
+        "share": 944,
+        "like": 33900
       },
       "search_text": "多情剑客无情剑，有我刘备便有天 从吃蛋挞的折棒《吐槽新三国》第 163 期标题中挖掘出的候选梗：多情剑客无情剑，有我刘备便有天  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国163：多情剑客无情剑，有我刘备便有天"
     },
@@ -2553,8 +2553,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-81d99b396f.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-81d99b396f.svg",
       "image_refs": [
@@ -2577,13 +2577,13 @@
       "episode_title": "三国杀up锐评新三国117：鲁肃小乔齐坑周瑜，公瑾还是活太久了",
       "episode_pubdate": "2025-06-10T02:00:00Z",
       "episode_stats": {
-        "view": 1645864,
-        "danmaku": 15661,
+        "view": 1648879,
+        "danmaku": 15682,
         "reply": 2652,
-        "favorite": 4201,
-        "coin": 20531,
+        "favorite": 4205,
+        "coin": 20537,
         "share": 652,
-        "like": 42291
+        "like": 42333
       },
       "search_text": "鲁肃小乔齐坑周瑜，公瑾还是活太久了 从吃蛋挞的折棒《吐槽新三国》第 117 期标题中挖掘出的候选梗：鲁肃小乔齐坑周瑜，公瑾还是活太久了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国117：鲁肃小乔齐坑周瑜，公瑾还是活太久了"
     },
@@ -2618,8 +2618,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-910ca36785.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-910ca36785.svg",
       "image_refs": [
@@ -2642,13 +2642,13 @@
       "episode_title": "三国杀up锐评新三国126：如果我们先干掉曹操，我们就输了！",
       "episode_pubdate": "2025-06-28T02:00:00Z",
       "episode_stats": {
-        "view": 1634592,
-        "danmaku": 14665,
-        "reply": 2566,
-        "favorite": 3871,
-        "coin": 17720,
+        "view": 1637463,
+        "danmaku": 14678,
+        "reply": 2567,
+        "favorite": 3877,
+        "coin": 17728,
         "share": 696,
-        "like": 38234
+        "like": 38269
       },
       "search_text": "如果我们先干掉曹操，我们就输了 从吃蛋挞的折棒《吐槽新三国》第 126 期标题中挖掘出的候选梗：如果我们先干掉曹操，我们就输了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国126：如果我们先干掉曹操，我们就输了！"
     },
@@ -2683,8 +2683,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-92ac173722.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-92ac173722.svg",
       "image_refs": [
@@ -2707,13 +2707,13 @@
       "episode_title": "三国杀up锐评新三国204：刘备再不是先前主公了，他已成为真正的君王！",
       "episode_pubdate": "2025-12-01T02:00:00Z",
       "episode_stats": {
-        "view": 1479515,
-        "danmaku": 13494,
+        "view": 1481616,
+        "danmaku": 13507,
         "reply": 4084,
-        "favorite": 4124,
-        "coin": 14477,
+        "favorite": 4126,
+        "coin": 14491,
         "share": 878,
-        "like": 35227
+        "like": 35253
       },
       "search_text": "刘备再不是先前主公了，他已成为真正的君王 从吃蛋挞的折棒《吐槽新三国》第 204 期标题中挖掘出的候选梗：刘备再不是先前主公了，他已成为真正的君王  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国204：刘备再不是先前主公了，他已成为真正的君王！"
     },
@@ -2748,8 +2748,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-92bf683b2b.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-92bf683b2b.svg",
       "image_refs": [
@@ -2772,13 +2772,13 @@
       "episode_title": "三国杀up锐评新三国280：司马懿也能体验凤凰涅槃了",
       "episode_pubdate": "2026-05-02T02:00:00Z",
       "episode_stats": {
-        "view": 861955,
-        "danmaku": 9442,
+        "view": 863799,
+        "danmaku": 9450,
         "reply": 2821,
-        "favorite": 2968,
-        "coin": 12162,
-        "share": 408,
-        "like": 27768
+        "favorite": 2974,
+        "coin": 12164,
+        "share": 409,
+        "like": 27803
       },
       "search_text": "司马懿也能体验凤凰涅槃了 从吃蛋挞的折棒《吐槽新三国》第 280 期标题中挖掘出的候选梗：司马懿也能体验凤凰涅槃了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国280：司马懿也能体验凤凰涅槃了"
     },
@@ -2813,8 +2813,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-949d38accd.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-949d38accd.svg",
       "image_refs": [
@@ -2837,13 +2837,13 @@
       "episode_title": "三国杀up锐评新三国61：激昂刘备限时登陆，无用董承不打自招",
       "episode_pubdate": "2025-02-18T02:00:00Z",
       "episode_stats": {
-        "view": 1903607,
-        "danmaku": 14523,
-        "reply": 2562,
-        "favorite": 4765,
-        "coin": 15291,
-        "share": 953,
-        "like": 41524
+        "view": 1906571,
+        "danmaku": 14544,
+        "reply": 2563,
+        "favorite": 4772,
+        "coin": 15303,
+        "share": 954,
+        "like": 41566
       },
       "search_text": "激昂刘备限时登陆 从吃蛋挞的折棒《吐槽新三国》第 61 期标题中挖掘出的候选梗：激昂刘备限时登陆  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国61：激昂刘备限时登陆，无用董承不打自招"
     },
@@ -2878,8 +2878,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-9728726107.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-9728726107.svg",
       "image_refs": [
@@ -2902,13 +2902,13 @@
       "episode_title": "三国杀up锐评新三国99：先生听说你刘备要来，已经连夜跑路啦！",
       "episode_pubdate": "2025-05-05T02:00:00Z",
       "episode_stats": {
-        "view": 1876831,
-        "danmaku": 19183,
-        "reply": 3051,
-        "favorite": 5065,
-        "coin": 22351,
-        "share": 1347,
-        "like": 46540
+        "view": 1879951,
+        "danmaku": 19204,
+        "reply": 3052,
+        "favorite": 5073,
+        "coin": 22358,
+        "share": 1348,
+        "like": 46582
       },
       "search_text": "先生听说你刘备要来 从吃蛋挞的折棒《吐槽新三国》第 99 期标题中挖掘出的候选梗：先生听说你刘备要来  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国99：先生听说你刘备要来，已经连夜跑路啦！"
     },
@@ -2943,8 +2943,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-9a8eaa23b2.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-9a8eaa23b2.svg",
       "image_refs": [
@@ -2967,13 +2967,13 @@
       "episode_title": "三国杀up锐评新三国238：孙尚香是温良之药，可泄刘备心中之火",
       "episode_pubdate": "2026-02-07T02:00:00Z",
       "episode_stats": {
-        "view": 1176410,
-        "danmaku": 13818,
-        "reply": 4106,
-        "favorite": 3642,
-        "coin": 12433,
+        "view": 1178533,
+        "danmaku": 13825,
+        "reply": 4110,
+        "favorite": 3652,
+        "coin": 12449,
         "share": 738,
-        "like": 32617
+        "like": 32650
       },
       "search_text": "孙尚香是温良之药，可泄刘备心中之火 从吃蛋挞的折棒《吐槽新三国》第 238 期标题中挖掘出的候选梗：孙尚香是温良之药，可泄刘备心中之火  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国238：孙尚香是温良之药，可泄刘备心中之火"
     },
@@ -3008,8 +3008,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-9daf9f50e7.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-9daf9f50e7.svg",
       "image_refs": [
@@ -3032,13 +3032,13 @@
       "episode_title": "三国杀up锐评新三国90：听说你家刘备还没死，我深感欣慰啊！",
       "episode_pubdate": "2025-04-17T02:00:00Z",
       "episode_stats": {
-        "view": 1790105,
-        "danmaku": 13689,
-        "reply": 2813,
-        "favorite": 4651,
-        "coin": 19364,
-        "share": 753,
-        "like": 42021
+        "view": 1792850,
+        "danmaku": 13696,
+        "reply": 2814,
+        "favorite": 4654,
+        "coin": 19382,
+        "share": 755,
+        "like": 42075
       },
       "search_text": "听说你家刘备还没死 从吃蛋挞的折棒《吐槽新三国》第 90 期标题中挖掘出的候选梗：听说你家刘备还没死  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国90：听说你家刘备还没死，我深感欣慰啊！"
     },
@@ -3076,8 +3076,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-a0b820a722.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-a0b820a722.svg",
       "image_refs": [
@@ -3100,13 +3100,13 @@
       "episode_title": "三国杀up锐评新三国81：袁绍家门口漏成筛子了，没人管管吗？",
       "episode_pubdate": "2025-03-30T02:00:00Z",
       "episode_stats": {
-        "view": 1850330,
-        "danmaku": 10514,
+        "view": 1853178,
+        "danmaku": 10519,
         "reply": 1943,
         "favorite": 4760,
-        "coin": 24315,
+        "coin": 24327,
         "share": 584,
-        "like": 44990
+        "like": 45024
       },
       "search_text": "袁绍家门口漏成筛子了，没人管管吗 从吃蛋挞的折棒《吐槽新三国》第 81 期标题中挖掘出的候选梗：袁绍家门口漏成筛子了，没人管管吗  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 回复 反应图 吐槽 疑惑 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国81：袁绍家门口漏成筛子了，没人管管吗？"
     },
@@ -3141,8 +3141,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-a52fe6280e.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-a52fe6280e.svg",
       "image_refs": [
@@ -3165,13 +3165,13 @@
       "episode_title": "三国杀up锐评新三国153：诸葛亮，他是我的天敌！",
       "episode_pubdate": "2025-08-21T02:00:59Z",
       "episode_stats": {
-        "view": 1394374,
-        "danmaku": 11598,
+        "view": 1396879,
+        "danmaku": 11608,
         "reply": 2414,
-        "favorite": 3587,
-        "coin": 16676,
-        "share": 495,
-        "like": 35183
+        "favorite": 3595,
+        "coin": 16682,
+        "share": 496,
+        "like": 35222
       },
       "search_text": "诸葛亮，他是我的天敌 从吃蛋挞的折棒《吐槽新三国》第 153 期标题中挖掘出的候选梗：诸葛亮，他是我的天敌  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国153：诸葛亮，他是我的天敌！"
     },
@@ -3206,8 +3206,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-a9c846e319.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-a9c846e319.svg",
       "image_refs": [
@@ -3230,13 +3230,13 @@
       "episode_title": "三国杀up锐评新三国35：我刘备与吕布结拜，吕布之妻便是我妻！",
       "episode_pubdate": "2024-12-28T02:00:00Z",
       "episode_stats": {
-        "view": 2150573,
-        "danmaku": 14279,
-        "reply": 1716,
-        "favorite": 4602,
-        "coin": 10947,
+        "view": 2153867,
+        "danmaku": 14297,
+        "reply": 1717,
+        "favorite": 4610,
+        "coin": 10957,
         "share": 872,
-        "like": 41317
+        "like": 41372
       },
       "search_text": "我刘备与吕布结拜 从吃蛋挞的折棒《吐槽新三国》第 35 期标题中挖掘出的候选梗：我刘备与吕布结拜  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国35：我刘备与吕布结拜，吕布之妻便是我妻！"
     },
@@ -3275,8 +3275,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-ab09b52539.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-ab09b52539.svg",
       "image_refs": [
@@ -3299,13 +3299,13 @@
       "episode_title": "三国杀up锐评新三国236：刘备诸葛彻底决裂，历史从此再度巨变",
       "episode_pubdate": "2026-02-03T02:00:00Z",
       "episode_stats": {
-        "view": 1636842,
-        "danmaku": 14963,
-        "reply": 5606,
-        "favorite": 4842,
-        "coin": 15267,
+        "view": 1639269,
+        "danmaku": 14980,
+        "reply": 5609,
+        "favorite": 4848,
+        "coin": 15275,
         "share": 1364,
-        "like": 42907
+        "like": 42946
       },
       "search_text": "刘备诸葛彻底决裂，历史从此再度巨变 从吃蛋挞的折棒《吐槽新三国》第 236 期标题中挖掘出的候选梗：刘备诸葛彻底决裂，历史从此再度巨变  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 世界观 理论梗 历史梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国236：刘备诸葛彻底决裂，历史从此再度巨变"
     },
@@ -3340,8 +3340,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b1eb90f5f5.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b1eb90f5f5.svg",
       "image_refs": [
@@ -3364,13 +3364,13 @@
       "episode_title": "三国杀up锐评新三国28：贾诩神隐，王允献城，我们都有光明的未来",
       "episode_pubdate": "2024-12-14T02:00:28Z",
       "episode_stats": {
-        "view": 2151974,
-        "danmaku": 15047,
+        "view": 2155270,
+        "danmaku": 15064,
         "reply": 2260,
-        "favorite": 4570,
-        "coin": 11468,
+        "favorite": 4580,
+        "coin": 11479,
         "share": 967,
-        "like": 43708
+        "like": 43760
       },
       "search_text": "王允献城 从吃蛋挞的折棒《吐槽新三国》第 28 期标题中挖掘出的候选梗：王允献城  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国28：贾诩神隐，王允献城，我们都有光明的未来"
     },
@@ -3405,8 +3405,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b22e8e650f.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b22e8e650f.svg",
       "image_refs": [
@@ -3429,13 +3429,13 @@
       "episode_title": "三国杀up锐评新三国114：曹操视妙龄少女如残花败柳，唯好人妻啊！",
       "episode_pubdate": "2025-06-04T02:00:00Z",
       "episode_stats": {
-        "view": 1829289,
-        "danmaku": 17206,
+        "view": 1832557,
+        "danmaku": 17217,
         "reply": 3359,
-        "favorite": 4350,
-        "coin": 19267,
+        "favorite": 4356,
+        "coin": 19278,
         "share": 968,
-        "like": 39705
+        "like": 39739
       },
       "search_text": "曹操视妙龄少女如残花败柳 从吃蛋挞的折棒《吐槽新三国》第 114 期标题中挖掘出的候选梗：曹操视妙龄少女如残花败柳  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国114：曹操视妙龄少女如残花败柳，唯好人妻啊！"
     },
@@ -3473,8 +3473,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b252d4a1aa.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b252d4a1aa.svg",
       "image_refs": [
@@ -3497,13 +3497,13 @@
       "episode_title": "三国杀up锐评新三国02：董卓怎么变成十常侍之首了？",
       "episode_pubdate": "2024-10-22T02:00:00Z",
       "episode_stats": {
-        "view": 3968028,
-        "danmaku": 11255,
-        "reply": 1945,
-        "favorite": 9446,
-        "coin": 16237,
-        "share": 3361,
-        "like": 72844
+        "view": 3973060,
+        "danmaku": 11263,
+        "reply": 1946,
+        "favorite": 9456,
+        "coin": 16249,
+        "share": 3371,
+        "like": 72938
       },
       "search_text": "董卓怎么变成十常侍之首了 从吃蛋挞的折棒《吐槽新三国》第 2 期标题中挖掘出的候选梗：董卓怎么变成十常侍之首了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 回复 反应图 吐槽 疑惑 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国02：董卓怎么变成十常侍之首了？"
     },
@@ -3538,8 +3538,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b6496817a1.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-b6496817a1.svg",
       "image_refs": [
@@ -3562,13 +3562,13 @@
       "episode_title": "三国杀up锐评新三国103：周瑜惨遭双重PUA，逆天权谋还在追我",
       "episode_pubdate": "2025-05-13T02:00:00Z",
       "episode_stats": {
-        "view": 1662865,
-        "danmaku": 16074,
-        "reply": 3122,
+        "view": 1665643,
+        "danmaku": 16082,
+        "reply": 3123,
         "favorite": 3951,
-        "coin": 19007,
+        "coin": 19012,
         "share": 774,
-        "like": 39369
+        "like": 39404
       },
       "search_text": "周瑜惨遭双重PUA，逆天权谋还在追我 从吃蛋挞的折棒《吐槽新三国》第 103 期标题中挖掘出的候选梗：周瑜惨遭双重PUA，逆天权谋还在追我  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国103：周瑜惨遭双重PUA，逆天权谋还在追我"
     },
@@ -3606,8 +3606,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-bd66cd6359.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-bd66cd6359.svg",
       "image_refs": [
@@ -3630,13 +3630,13 @@
       "episode_title": "三国杀up锐评新三国198：我刘备比谁都想取川地啊！",
       "episode_pubdate": "2025-11-19T02:00:00Z",
       "episode_stats": {
-        "view": 1174193,
-        "danmaku": 6239,
-        "reply": 2759,
-        "favorite": 3430,
-        "coin": 22618,
+        "view": 1175959,
+        "danmaku": 6244,
+        "reply": 2760,
+        "favorite": 3434,
+        "coin": 22627,
         "share": 465,
-        "like": 36901
+        "like": 36930
       },
       "search_text": "我刘备比谁都想取川地啊 从吃蛋挞的折棒《吐槽新三国》第 198 期标题中挖掘出的候选梗：我刘备比谁都想取川地啊  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 回复 反应图 吐槽 疑惑 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国198：我刘备比谁都想取川地啊！"
     },
@@ -3674,8 +3674,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-bf57be98b5.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-bf57be98b5.svg",
       "image_refs": [
@@ -3698,13 +3698,13 @@
       "episode_title": "三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！",
       "episode_pubdate": "2025-07-20T02:00:00Z",
       "episode_stats": {
-        "view": 1487111,
-        "danmaku": 13618,
-        "reply": 3374,
-        "favorite": 3675,
-        "coin": 16530,
-        "share": 576,
-        "like": 37454
+        "view": 1489716,
+        "danmaku": 13633,
+        "reply": 3377,
+        "favorite": 3683,
+        "coin": 16540,
+        "share": 577,
+        "like": 37498
       },
       "search_text": "最终看破真相的，是一个头脑异于常人的深井冰，曹操 从吃蛋挞的折棒《吐槽新三国》第 137 期标题中挖掘出的候选梗：最终看破真相的，是一个头脑异于常人的深井冰，曹操  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 世界观 理论梗 吐槽 一本正经 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！"
     },
@@ -3739,8 +3739,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c4a5dacc2e.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c4a5dacc2e.svg",
       "image_refs": [
@@ -3763,13 +3763,13 @@
       "episode_title": "三国杀up锐评新三国104：关平受命伏杀张飞，弱智卧龙大展神威",
       "episode_pubdate": "2025-05-15T02:00:00Z",
       "episode_stats": {
-        "view": 2298569,
-        "danmaku": 14546,
+        "view": 2301787,
+        "danmaku": 14555,
         "reply": 3740,
-        "favorite": 6894,
-        "coin": 26663,
-        "share": 3964,
-        "like": 52457
+        "favorite": 6898,
+        "coin": 26674,
+        "share": 3967,
+        "like": 52500
       },
       "search_text": "关平受命伏杀张飞，弱智卧龙大展神威 从吃蛋挞的折棒《吐槽新三国》第 104 期标题中挖掘出的候选梗：关平受命伏杀张飞，弱智卧龙大展神威  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国104：关平受命伏杀张飞，弱智卧龙大展神威"
     },
@@ -3804,8 +3804,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c5d9f59f61.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-c5d9f59f61.svg",
       "image_refs": [
@@ -3828,13 +3828,13 @@
       "episode_title": "三国杀up锐评新三国252：刘备听令，自绝归天！",
       "episode_pubdate": "2026-03-07T02:00:00Z",
       "episode_stats": {
-        "view": 1247494,
-        "danmaku": 16172,
+        "view": 1250091,
+        "danmaku": 16190,
         "reply": 4483,
-        "favorite": 4491,
-        "coin": 17088,
-        "share": 1511,
-        "like": 39356
+        "favorite": 4495,
+        "coin": 17102,
+        "share": 1512,
+        "like": 39391
       },
       "search_text": "刘备听令，自绝归天 从吃蛋挞的折棒《吐槽新三国》第 252 期标题中挖掘出的候选梗：刘备听令，自绝归天  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国252：刘备听令，自绝归天！"
     },
@@ -3868,10 +3868,10 @@
       "source_url": "https://www.bilibili.com/video/BV1vDSgYpEA5",
       "source_kind": "bilibili_title_promoted",
       "image_status": "screenshot",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-title-cao-murder-maniac.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/screenshots/xsg-title-cao-murder-maniac.jpg",
       "image_refs": [
@@ -3911,13 +3911,13 @@
       "episode_title": "三国杀up锐评新三国05：这曹操是哪来的变态杀人狂？",
       "episode_pubdate": "2024-10-31T02:00:00Z",
       "episode_stats": {
-        "view": 3078149,
-        "danmaku": 13661,
-        "reply": 1584,
-        "favorite": 7423,
-        "coin": 16911,
-        "share": 4976,
-        "like": 58205
+        "view": 3082483,
+        "danmaku": 13691,
+        "reply": 1586,
+        "favorite": 7441,
+        "coin": 16933,
+        "share": 4982,
+        "like": 58305
       },
       "search_text": "这曹操是哪来的变态杀人狂 针对早期曹操笑杀吕伯奢等桥段的吐槽：新三曹操常被剪成突然暴走、喜怒无常、像变态杀人狂的反应图语境。  新三国 折棒 人物梗 角色梗 发癫 吐槽 标题梗 正式梗 吐槽 失控 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国05：这曹操是哪来的变态杀人狂？"
     },
@@ -3951,10 +3951,10 @@
       "source_url": "https://www.bilibili.com/video/BV1HkuZzGEvo",
       "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cao-truth-seer.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cao-truth-seer.svg",
       "image_refs": [
@@ -3977,13 +3977,13 @@
       "episode_title": "三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！",
       "episode_pubdate": "2025-07-20T02:00:00Z",
       "episode_stats": {
-        "view": 1487111,
-        "danmaku": 13618,
-        "reply": 3374,
-        "favorite": 3675,
-        "coin": 16530,
-        "share": 576,
-        "like": 37454
+        "view": 1489716,
+        "danmaku": 13633,
+        "reply": 3377,
+        "favorite": 3683,
+        "coin": 16540,
+        "share": 577,
+        "like": 37498
       },
       "search_text": "曹操看破真相 曹操作为“看破真相者”的反讽梗，适合表示角色突然理解了新三国宇宙的荒诞规则。  新三国 折棒 人物梗 角色梗 世界观 理论梗 标题梗 正式梗 吐槽 一本正经 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国137：最终看破真相的，是一个头脑异于常人的深井冰，曹操！"
     },
@@ -4018,8 +4018,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cbd72bc6c4.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cbd72bc6c4.svg",
       "image_refs": [
@@ -4042,13 +4042,13 @@
       "episode_title": "三国杀up锐评新三国re05：正因为你们不听我曹操，才会有这乱世！",
       "episode_pubdate": "2026-06-01T02:00:00Z",
       "episode_stats": {
-        "view": 924478,
-        "danmaku": 8245,
-        "reply": 2914,
-        "favorite": 3189,
-        "coin": 9558,
+        "view": 926573,
+        "danmaku": 8258,
+        "reply": 2915,
+        "favorite": 3193,
+        "coin": 9560,
         "share": 495,
-        "like": 29797
+        "like": 29831
       },
       "search_text": "正因为你们不听我曹操 从吃蛋挞的折棒《吐槽新三国》第 5 期标题中挖掘出的候选梗：正因为你们不听我曹操  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国re05：正因为你们不听我曹操，才会有这乱世！"
     },
@@ -4083,8 +4083,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cea1eec6de.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-cea1eec6de.svg",
       "image_refs": [
@@ -4107,13 +4107,13 @@
       "episode_title": "三国杀up锐评新三国106：慈善大家诸葛孔明，直接散尽刘备家财",
       "episode_pubdate": "2025-05-19T02:00:00Z",
       "episode_stats": {
-        "view": 1904693,
-        "danmaku": 15207,
-        "reply": 3285,
-        "favorite": 5049,
-        "coin": 20033,
+        "view": 1907862,
+        "danmaku": 15223,
+        "reply": 3287,
+        "favorite": 5058,
+        "coin": 20034,
         "share": 910,
-        "like": 41456
+        "like": 41493
       },
       "search_text": "直接散尽刘备家财 从吃蛋挞的折棒《吐槽新三国》第 106 期标题中挖掘出的候选梗：直接散尽刘备家财  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国106：慈善大家诸葛孔明，直接散尽刘备家财"
     },
@@ -4148,8 +4148,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-d71a6e7d32.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-d71a6e7d32.svg",
       "image_refs": [
@@ -4172,13 +4172,13 @@
       "episode_title": "三国杀up锐评新三国260：数学先驱诸葛亮，领先世界一千年",
       "episode_pubdate": "2026-03-23T02:00:00Z",
       "episode_stats": {
-        "view": 1215429,
-        "danmaku": 10663,
-        "reply": 3707,
-        "favorite": 3954,
-        "coin": 13443,
-        "share": 737,
-        "like": 33007
+        "view": 1218231,
+        "danmaku": 10675,
+        "reply": 3717,
+        "favorite": 3959,
+        "coin": 13449,
+        "share": 739,
+        "like": 33047
       },
       "search_text": "数学先驱诸葛亮，领先世界一千年 从吃蛋挞的折棒《吐槽新三国》第 260 期标题中挖掘出的候选梗：数学先驱诸葛亮，领先世界一千年  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国260：数学先驱诸葛亮，领先世界一千年"
     },
@@ -4213,8 +4213,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-df2e914063.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-df2e914063.svg",
       "image_refs": [
@@ -4237,13 +4237,13 @@
       "episode_title": "三国杀up锐评新三国re05：正因为你们不听我曹操，才会有这乱世！",
       "episode_pubdate": "2026-06-01T02:00:00Z",
       "episode_stats": {
-        "view": 924478,
-        "danmaku": 8245,
-        "reply": 2914,
-        "favorite": 3189,
-        "coin": 9558,
+        "view": 926573,
+        "danmaku": 8258,
+        "reply": 2915,
+        "favorite": 3193,
+        "coin": 9560,
         "share": 495,
-        "like": 29797
+        "like": 29831
       },
       "search_text": "正因为你们不听我曹操，才会有这乱世 从吃蛋挞的折棒《吐槽新三国》第 5 期标题中挖掘出的候选梗：正因为你们不听我曹操，才会有这乱世  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国re05：正因为你们不听我曹操，才会有这乱世！"
     },
@@ -4278,8 +4278,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-df7d6c8c97.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-df7d6c8c97.svg",
       "image_refs": [
@@ -4302,13 +4302,13 @@
       "episode_title": "三国杀up锐评新三国238：孙尚香是温良之药，可泄刘备心中之火",
       "episode_pubdate": "2026-02-07T02:00:00Z",
       "episode_stats": {
-        "view": 1176410,
-        "danmaku": 13818,
-        "reply": 4106,
-        "favorite": 3642,
-        "coin": 12433,
+        "view": 1178533,
+        "danmaku": 13825,
+        "reply": 4110,
+        "favorite": 3652,
+        "coin": 12449,
         "share": 738,
-        "like": 32617
+        "like": 32650
       },
       "search_text": "可泄刘备心中之火 从吃蛋挞的折棒《吐槽新三国》第 238 期标题中挖掘出的候选梗：可泄刘备心中之火  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国238：孙尚香是温良之药，可泄刘备心中之火"
     },
@@ -4343,8 +4343,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-e3e78205f0.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-e3e78205f0.svg",
       "image_refs": [
@@ -4367,13 +4367,13 @@
       "episode_title": "三国杀up锐评新三国33：【曹操】撤回一碗盖饭",
       "episode_pubdate": "2024-12-24T02:00:00Z",
       "episode_stats": {
-        "view": 2485654,
-        "danmaku": 15595,
-        "reply": 2613,
-        "favorite": 6625,
-        "coin": 22828,
-        "share": 1821,
-        "like": 58163
+        "view": 2489444,
+        "danmaku": 15616,
+        "reply": 2614,
+        "favorite": 6632,
+        "coin": 22840,
+        "share": 1822,
+        "like": 58231
       },
       "search_text": "【曹操】撤回一碗盖饭 从吃蛋挞的折棒《吐槽新三国》第 33 期标题中挖掘出的候选梗：【曹操】撤回一碗盖饭  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国33：【曹操】撤回一碗盖饭"
     },
@@ -4408,8 +4408,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-e661332311.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-e661332311.svg",
       "image_refs": [
@@ -4432,13 +4432,13 @@
       "episode_title": "三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？",
       "episode_pubdate": "2024-11-05T02:00:00Z",
       "episode_stats": {
-        "view": 3086547,
-        "danmaku": 17071,
-        "reply": 2097,
-        "favorite": 7309,
-        "coin": 26261,
-        "share": 3419,
-        "like": 67208
+        "view": 3091090,
+        "danmaku": 17107,
+        "reply": 2098,
+        "favorite": 7318,
+        "coin": 26273,
+        "share": 3422,
+        "like": 67304
       },
       "search_text": "关羽的酒也没了 从吃蛋挞的折棒《吐槽新三国》第 8 期标题中挖掘出的候选梗：关羽的酒也没了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？"
     },
@@ -4473,8 +4473,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-edddae2f5e.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-edddae2f5e.svg",
       "image_refs": [
@@ -4497,13 +4497,13 @@
       "episode_title": "三国杀up锐评新三国52：陈宫陈珪后宫争宠，这剧情有点野",
       "episode_pubdate": "2025-01-31T02:00:00Z",
       "episode_stats": {
-        "view": 1808404,
-        "danmaku": 11765,
-        "reply": 1607,
-        "favorite": 4191,
-        "coin": 13907,
+        "view": 1811141,
+        "danmaku": 11783,
+        "reply": 1611,
+        "favorite": 4200,
+        "coin": 13915,
         "share": 775,
-        "like": 39910
+        "like": 39962
       },
       "search_text": "陈宫陈珪后宫争宠，这剧情有点野 从吃蛋挞的折棒《吐槽新三国》第 52 期标题中挖掘出的候选梗：陈宫陈珪后宫争宠，这剧情有点野  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国52：陈宫陈珪后宫争宠，这剧情有点野"
     },
@@ -4538,8 +4538,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-ee3a0be938.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-ee3a0be938.svg",
       "image_refs": [
@@ -4562,13 +4562,13 @@
       "episode_title": "三国杀up锐评新三国99：先生听说你刘备要来，已经连夜跑路啦！",
       "episode_pubdate": "2025-05-05T02:00:00Z",
       "episode_stats": {
-        "view": 1876831,
-        "danmaku": 19183,
-        "reply": 3051,
-        "favorite": 5065,
-        "coin": 22351,
-        "share": 1347,
-        "like": 46540
+        "view": 1879951,
+        "danmaku": 19204,
+        "reply": 3052,
+        "favorite": 5073,
+        "coin": 22358,
+        "share": 1348,
+        "like": 46582
       },
       "search_text": "先生听说你刘备要来，已经连夜跑路啦 从吃蛋挞的折棒《吐槽新三国》第 99 期标题中挖掘出的候选梗：先生听说你刘备要来，已经连夜跑路啦  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国99：先生听说你刘备要来，已经连夜跑路啦！"
     },
@@ -4603,8 +4603,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f153437674.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f153437674.svg",
       "image_refs": [
@@ -4627,13 +4627,13 @@
       "episode_title": "三国杀up锐评新三国106：慈善大家诸葛孔明，直接散尽刘备家财",
       "episode_pubdate": "2025-05-19T02:00:00Z",
       "episode_stats": {
-        "view": 1904693,
-        "danmaku": 15207,
-        "reply": 3285,
-        "favorite": 5049,
-        "coin": 20033,
+        "view": 1907862,
+        "danmaku": 15223,
+        "reply": 3287,
+        "favorite": 5058,
+        "coin": 20034,
         "share": 910,
-        "like": 41456
+        "like": 41493
       },
       "search_text": "慈善大家诸葛孔明，直接散尽刘备家财 从吃蛋挞的折棒《吐槽新三国》第 106 期标题中挖掘出的候选梗：慈善大家诸葛孔明，直接散尽刘备家财  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国106：慈善大家诸葛孔明，直接散尽刘备家财"
     },
@@ -4668,8 +4668,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f2b35db185.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f2b35db185.svg",
       "image_refs": [
@@ -4692,13 +4692,13 @@
       "episode_title": "三国杀up锐评新三国169：那就容我诸葛亮告老还乡了！",
       "episode_pubdate": "2025-09-22T02:00:00Z",
       "episode_stats": {
-        "view": 1519210,
-        "danmaku": 16334,
+        "view": 1521759,
+        "danmaku": 16349,
         "reply": 3047,
-        "favorite": 4256,
-        "coin": 15257,
-        "share": 1125,
-        "like": 35792
+        "favorite": 4258,
+        "coin": 15261,
+        "share": 1128,
+        "like": 35827
       },
       "search_text": "那就容我诸葛亮告老还乡了 从吃蛋挞的折棒《吐槽新三国》第 169 期标题中挖掘出的候选梗：那就容我诸葛亮告老还乡了  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国169：那就容我诸葛亮告老还乡了！"
     },
@@ -4733,8 +4733,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f47a34d38d.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f47a34d38d.svg",
       "image_refs": [
@@ -4757,13 +4757,13 @@
       "episode_title": "三国杀up锐评新三国61：激昂刘备限时登陆，无用董承不打自招",
       "episode_pubdate": "2025-02-18T02:00:00Z",
       "episode_stats": {
-        "view": 1903607,
-        "danmaku": 14523,
-        "reply": 2562,
-        "favorite": 4765,
-        "coin": 15291,
-        "share": 953,
-        "like": 41524
+        "view": 1906571,
+        "danmaku": 14544,
+        "reply": 2563,
+        "favorite": 4772,
+        "coin": 15303,
+        "share": 954,
+        "like": 41566
       },
       "search_text": "激昂刘备限时登陆，无用董承不打自招 从吃蛋挞的折棒《吐槽新三国》第 61 期标题中挖掘出的候选梗：激昂刘备限时登陆，无用董承不打自招  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国61：激昂刘备限时登陆，无用董承不打自招"
     },
@@ -4798,8 +4798,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f538ad9625.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f538ad9625.svg",
       "image_refs": [
@@ -4822,13 +4822,13 @@
       "episode_title": "三国杀up锐评新三国126：如果我们先干掉曹操，我们就输了！",
       "episode_pubdate": "2025-06-28T02:00:00Z",
       "episode_stats": {
-        "view": 1634592,
-        "danmaku": 14665,
-        "reply": 2566,
-        "favorite": 3871,
-        "coin": 17720,
+        "view": 1637463,
+        "danmaku": 14678,
+        "reply": 2567,
+        "favorite": 3877,
+        "coin": 17728,
         "share": 696,
-        "like": 38234
+        "like": 38269
       },
       "search_text": "如果我们先干掉曹操 从吃蛋挞的折棒《吐槽新三国》第 126 期标题中挖掘出的候选梗：如果我们先干掉曹操  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国126：如果我们先干掉曹操，我们就输了！"
     },
@@ -4863,8 +4863,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f6fe2ece25.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f6fe2ece25.svg",
       "image_refs": [
@@ -4887,13 +4887,13 @@
       "episode_title": "三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？",
       "episode_pubdate": "2024-11-05T02:00:00Z",
       "episode_stats": {
-        "view": 3086547,
-        "danmaku": 17071,
-        "reply": 2097,
-        "favorite": 7309,
-        "coin": 26261,
-        "share": 3419,
-        "like": 67208
+        "view": 3091090,
+        "danmaku": 17107,
+        "reply": 2098,
+        "favorite": 7318,
+        "coin": 26273,
+        "share": 3422,
+        "like": 67304
       },
       "search_text": "华雄变身人马兽 从吃蛋挞的折棒《吐槽新三国》第 8 期标题中挖掘出的候选梗：华雄变身人马兽  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国08：华雄变身人马兽，关羽的酒也没了？"
     },
@@ -4928,8 +4928,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f9d5d2f73c.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-f9d5d2f73c.svg",
       "image_refs": [
@@ -4952,13 +4952,13 @@
       "episode_title": "三国杀up锐评新三国74：曹操和关羽也能拍言情剧？",
       "episode_pubdate": "2025-03-16T02:00:00Z",
       "episode_stats": {
-        "view": 1950928,
-        "danmaku": 16139,
+        "view": 1954520,
+        "danmaku": 16153,
         "reply": 2264,
-        "favorite": 8342,
-        "coin": 79339,
-        "share": 1140,
-        "like": 79848
+        "favorite": 8348,
+        "coin": 79398,
+        "share": 1141,
+        "like": 79917
       },
       "search_text": "曹操和关羽也能拍言情剧 从吃蛋挞的折棒《吐槽新三国》第 74 期标题中挖掘出的候选梗：曹操和关羽也能拍言情剧  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国74：曹操和关羽也能拍言情剧？"
     },
@@ -4993,8 +4993,8 @@
       "image_status": "generated_card",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "title_mined_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-fae990f8c2.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-fae990f8c2.svg",
       "image_refs": [
@@ -5017,13 +5017,13 @@
       "episode_title": "三国杀up锐评新三国218：当你在关羽之歌里攻打关羽",
       "episode_pubdate": "2025-12-29T02:00:00Z",
       "episode_stats": {
-        "view": 1562206,
-        "danmaku": 14263,
+        "view": 1564350,
+        "danmaku": 14274,
         "reply": 5651,
-        "favorite": 4216,
-        "coin": 14764,
+        "favorite": 4214,
+        "coin": 14766,
         "share": 996,
-        "like": 38419
+        "like": 38448
       },
       "search_text": "当你在关羽之歌里攻打关羽 从吃蛋挞的折棒《吐槽新三国》第 218 期标题中挖掘出的候选梗：当你在关羽之歌里攻打关羽  新三国 折棒 标题挖掘 候选梗 人物梗 角色梗 吐槽 作为新三国语境下的吐槽短句 需要人工复核后可提升为正式梗条目 三国杀up锐评新三国218：当你在关羽之歌里攻打关羽"
     },
@@ -5054,10 +5054,10 @@
       "source_url": "https://www.bilibili.com/video/BV1i78dzVEct",
       "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-liubei-hypocrite.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-liubei-hypocrite.svg",
       "image_refs": [
@@ -5080,13 +5080,13 @@
       "episode_title": "三国杀up锐评新三国142：刘备大奸似忠、大伪似真，是个百年罕见的伪君子！",
       "episode_pubdate": "2025-07-30T02:00:00Z",
       "episode_stats": {
-        "view": 1640931,
-        "danmaku": 10887,
-        "reply": 3151,
-        "favorite": 4024,
-        "coin": 19356,
+        "view": 1643803,
+        "danmaku": 10899,
+        "reply": 3153,
+        "favorite": 4032,
+        "coin": 19366,
         "share": 617,
-        "like": 39296
+        "like": 39344
       },
       "search_text": "刘备大奸似忠、大伪似真，是个百年罕见的伪君子 刘备伪君子化梗，用来吐槽新三刘备被写得大奸似忠、大伪似真，和传统仁君形象严重偏离。  新三国 折棒 人物梗 角色梗 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国142：刘备大奸似忠、大伪似真，是个百年罕见的伪君子！"
     },
@@ -5121,10 +5121,10 @@
       "source_url": "https://www.bilibili.com/video/BV1TgSoYTEHe",
       "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-liubei-start-emperor.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-liubei-start-emperor.svg",
       "image_refs": [
@@ -5147,13 +5147,13 @@
       "episode_title": "三国杀up锐评新三国06：刚开局刘备怎么就称帝啦？",
       "episode_pubdate": "2024-11-02T02:00:00Z",
       "episode_stats": {
-        "view": 3296427,
-        "danmaku": 11798,
-        "reply": 1754,
-        "favorite": 7159,
-        "coin": 19979,
-        "share": 2576,
-        "like": 63598
+        "view": 3301034,
+        "danmaku": 11816,
+        "reply": 1757,
+        "favorite": 7167,
+        "coin": 19991,
+        "share": 2578,
+        "like": 63692
       },
       "search_text": "刚开局刘备怎么就称帝啦 用来吐槽剧情进度条刚开局就飞到大后期：刘备还没走完正常流程，气势和叙事待遇已经像称帝。  新三国 折棒 人物梗 角色梗 回复 反应图 历史梗 标题梗 正式梗 吐槽 疑惑 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国06：刚开局刘备怎么就称帝啦？"
     },
@@ -5184,10 +5184,10 @@
       "source_url": "https://www.bilibili.com/video/BV1PSPFe5EzT",
       "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-plot-too-wild.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-plot-too-wild.svg",
       "image_refs": [
@@ -5210,13 +5210,13 @@
       "episode_title": "三国杀up锐评新三国63：曹操刘备原地成婚，这剧情太野了",
       "episode_pubdate": "2025-02-22T02:00:00Z",
       "episode_stats": {
-        "view": 2360863,
-        "danmaku": 17388,
-        "reply": 3405,
-        "favorite": 7874,
-        "coin": 37421,
-        "share": 2413,
-        "like": 65363
+        "view": 2364616,
+        "danmaku": 17413,
+        "reply": 3407,
+        "favorite": 7892,
+        "coin": 37459,
+        "share": 2417,
+        "like": 65440
       },
       "search_text": "曹操刘备原地成婚，这剧情太野了 当曹刘等角色关系被剪得像离谱言情或婚恋剧时使用，强调“这剧情太野了”。  新三国 折棒 人物梗 角色梗 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国63：曹操刘备原地成婚，这剧情太野了"
     },
@@ -5249,10 +5249,10 @@
       "source_url": "https://www.bilibili.com/video/BV1c6ScYuEZM",
       "source_kind": "bilibili_title_promoted",
       "image_status": "screenshot_target",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-qin-shihuang-ancestor.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-qin-shihuang-ancestor.svg",
       "image_refs": [
@@ -5293,13 +5293,13 @@
       "episode_title": "三国杀up锐评新三国16：刘备祭祖为什么拜秦始皇？",
       "episode_pubdate": "2024-11-20T02:00:00Z",
       "episode_stats": {
-        "view": 2968070,
-        "danmaku": 18317,
+        "view": 2972354,
+        "danmaku": 18336,
         "reply": 3082,
-        "favorite": 7599,
-        "coin": 18137,
-        "share": 3567,
-        "like": 58243
+        "favorite": 7608,
+        "coin": 18154,
+        "share": 3574,
+        "like": 58326
       },
       "search_text": "刘备祭祖为什么拜秦始皇 用于吐槽祭祖、称帝、血统叙事和历史常识乱套，尤其是刘备祖先关系被玩得过于自由。  新三国 折棒 人物梗 角色梗 回复 反应图 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国16：刘备祭祖为什么拜秦始皇？"
     },
@@ -5332,10 +5332,10 @@
       "source_url": "https://www.bilibili.com/video/BV1BDfUBUELC",
       "source_kind": "bilibili_title_promoted",
       "image_status": "screenshot_target",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-sima-deep-power.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-sima-deep-power.svg",
       "image_refs": [
@@ -5376,13 +5376,13 @@
       "episode_title": "三国杀up锐评新三国247：司马懿功力深不可测啊",
       "episode_pubdate": "2026-02-25T02:00:00Z",
       "episode_stats": {
-        "view": 1150490,
-        "danmaku": 8687,
+        "view": 1152449,
+        "danmaku": 8693,
         "reply": 3658,
         "favorite": 3492,
         "coin": 12293,
-        "share": 586,
-        "like": 33092
+        "share": 587,
+        "like": 33120
       },
       "search_text": "司马懿功力深不可测啊 司马懿功力深不可测梗，适合形容角色城府、忍耐和剧情护体强得离谱。  新三国 折棒 人物梗 角色梗 回复 反应图 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国247：司马懿功力深不可测啊"
     },
@@ -5413,10 +5413,10 @@
       "source_url": "https://www.bilibili.com/video/BV1DDF4eXEk6",
       "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-skill-taunt.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-skill-taunt.svg",
       "image_refs": [
@@ -5439,13 +5439,13 @@
       "episode_title": "三国杀up锐评新三国51：刘备发动技能挑衅，新三秒变宫斗剧",
       "episode_pubdate": "2025-01-29T02:00:00Z",
       "episode_stats": {
-        "view": 2236433,
-        "danmaku": 13861,
-        "reply": 1907,
-        "favorite": 5450,
-        "coin": 17654,
-        "share": 959,
-        "like": 47612
+        "view": 2239551,
+        "danmaku": 13876,
+        "reply": 1909,
+        "favorite": 5460,
+        "coin": 17663,
+        "share": 961,
+        "like": 47664
       },
       "search_text": "刘备发动技能挑衅，新三秒变宫斗剧 把刘备的语言和人际操作解释成游戏技能“挑衅”，适合吐槽宫斗化、技能化的剧情。  新三国 折棒 人物梗 角色梗 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国51：刘备发动技能挑衅，新三秒变宫斗剧"
     },
@@ -5476,10 +5476,10 @@
       "source_url": "https://www.bilibili.com/video/BV1ybfpYbEqo",
       "source_kind": "bilibili_title_promoted",
       "image_status": "screenshot_target",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-spring-autumn-nonsense.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-spring-autumn-nonsense.svg",
       "image_refs": [
@@ -5520,13 +5520,13 @@
       "episode_title": "三国杀up锐评新三国49：春秋胡言乱语！—曹操",
       "episode_pubdate": "2025-01-25T02:00:00Z",
       "episode_stats": {
-        "view": 2165403,
-        "danmaku": 13166,
+        "view": 2168469,
+        "danmaku": 13180,
         "reply": 2271,
-        "favorite": 5581,
-        "coin": 24568,
-        "share": 956,
-        "like": 54293
+        "favorite": 5589,
+        "coin": 24574,
+        "share": 957,
+        "like": 54349
       },
       "search_text": "春秋胡言乱语！—曹操 曹操式“春秋胡言乱语”短句梗，适合驳斥一本正经但完全不靠谱的解释。  新三国 折棒 人物梗 角色梗 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国49：春秋胡言乱语！—曹操"
     },
@@ -5557,10 +5557,10 @@
       "source_url": "https://www.bilibili.com/video/BV1oeBRYQEzr",
       "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-wang-yun-beggar-chief.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-wang-yun-beggar-chief.svg",
       "image_refs": [
@@ -5583,13 +5583,13 @@
       "episode_title": "三国杀up锐评新三国21：王允因吃不起饭改行做丐帮帮主",
       "episode_pubdate": "2024-11-30T02:00:00Z",
       "episode_stats": {
-        "view": 2341299,
-        "danmaku": 14470,
-        "reply": 1927,
-        "favorite": 4623,
-        "coin": 9546,
-        "share": 1096,
-        "like": 41848
+        "view": 2344795,
+        "danmaku": 14501,
+        "reply": 1928,
+        "favorite": 4632,
+        "coin": 9550,
+        "share": 1097,
+        "like": 41901
       },
       "search_text": "王允因吃不起饭改行做丐帮帮主 王允贫穷化/丐帮化梗，常和“吃不起饭”“粮食荒诞”一起出现，用来吐槽角色生活状态离谱。  新三国 折棒 人物梗 角色梗 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国21：王允因吃不起饭改行做丐帮帮主"
     },
@@ -5620,10 +5620,10 @@
       "source_url": "https://www.bilibili.com/video/BV1HVKezPEdx",
       "source_kind": "bilibili_title_promoted",
       "image_status": "generated_card",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-zhouyu-hurt-world.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-zhouyu-hurt-world.svg",
       "image_refs": [
@@ -5646,13 +5646,13 @@
       "episode_title": "三国杀up锐评新三国124：诸葛亮小乔终成眷属，只有周瑜受伤的世界达成了",
       "episode_pubdate": "2025-06-24T02:00:00Z",
       "episode_stats": {
-        "view": 1854878,
-        "danmaku": 33048,
+        "view": 1858035,
+        "danmaku": 33079,
         "reply": 4549,
-        "favorite": 4570,
-        "coin": 18061,
-        "share": 2428,
-        "like": 41817
+        "favorite": 4577,
+        "coin": 18069,
+        "share": 2431,
+        "like": 41855
       },
       "search_text": "诸葛亮小乔终成眷属，只有周瑜受伤的世界达成了 周瑜受伤世界线梗，用来吐槽感情线和历史线被改得只剩周瑜一个人受伤。  新三国 折棒 人物梗 角色梗 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国124：诸葛亮小乔终成眷属，只有周瑜受伤的世界达成了"
     },
@@ -5684,10 +5684,10 @@
       "source_url": "https://www.bilibili.com/video/BV1LLNgzDExr",
       "source_kind": "bilibili_title_promoted",
       "image_status": "screenshot_target",
-      "updated_at": "2026-07-15T07:24:50Z",
+      "updated_at": "2026-07-16T07:33:00Z",
       "schema": "https://github.com/CheeseKirby/memes/schema/xin-sanguo/v1",
       "source": "curated_xin_sanguo_memes",
-      "added_at": "2026-07-15T07:24:50Z",
+      "added_at": "2026-07-16T07:33:00Z",
       "image_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-zhuge-shu-lord.svg",
       "thumbnail_url": "https://raw.githubusercontent.com/CheeseKirby/memes/main/assets/cards/xsg-title-zhuge-shu-lord.svg",
       "image_refs": [
@@ -5728,13 +5728,13 @@
       "episode_title": "三国杀up锐评新三国253：自今日起，我诸葛亮为蜀汉之主！",
       "episode_pubdate": "2026-03-09T02:00:00Z",
       "episode_stats": {
-        "view": 1168022,
-        "danmaku": 10317,
+        "view": 1170399,
+        "danmaku": 10326,
         "reply": 3288,
-        "favorite": 3488,
-        "coin": 12290,
-        "share": 627,
-        "like": 32297
+        "favorite": 3487,
+        "coin": 12296,
+        "share": 628,
+        "like": 32328
       },
       "search_text": "自今日起，我诸葛亮为蜀汉之主 诸葛亮“蜀汉之主”梗，用来吐槽诸葛亮权力和叙事中心过强，刘禅/刘备反而像陪衬。  新三国 折棒 人物梗 角色梗 历史梗 标题梗 正式梗 吐槽 作为新三国语境下的吐槽短句 可被 skill 直接作为正式梗使用 三国杀up锐评新三国253：自今日起，我诸葛亮为蜀汉之主！"
     }
