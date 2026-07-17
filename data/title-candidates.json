@@ -443,6 +443,34 @@
       "image_status": "generated_card"
     },
     {
+      "id": "xsg-title-b6a01c77ec",
+      "title": "赵子龙光速叛变，这跳槽速度真没见过",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 31 期标题中挖掘出的候选梗：赵子龙光速叛变，这跳槽速度真没见过",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1ZZkNYoEhu",
+      "source_url": "https://www.bilibili.com/video/BV1ZZkNYoEhu",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 27,
+      "image_status": "generated_card"
+    },
+    {
       "id": "xsg-title-2816146433",
       "title": "虽然我曹操剑指天子",
       "item_type": "meme",
@@ -1548,34 +1576,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-b6a01c77ec",
-      "title": "赵子龙光速叛变，这跳槽速度真没见过",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 31 期标题中挖掘出的候选梗：赵子龙光速叛变，这跳槽速度真没见过",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1ZZkNYoEhu",
-      "source_url": "https://www.bilibili.com/video/BV1ZZkNYoEhu",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 22,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-abdfb7462e",
       "title": "论空间跃迁技术在的可行性",
       "item_type": "meme",
@@ -1771,6 +1771,37 @@
       ],
       "primary_bvid": "BV1WQ9fYDE9g",
       "source_url": "https://www.bilibili.com/video/BV1WQ9fYDE9g",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 21,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-5265642bd9",
+      "title": "抽疯仍未停止",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 85 期标题中挖掘出的候选梗：抽疯仍未停止",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗",
+        "发癫",
+        "吐槽"
+      ],
+      "tone": [
+        "吐槽",
+        "失控"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1dzRqYVEcR",
+      "source_url": "https://www.bilibili.com/video/BV1dzRqYVEcR",
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 21,
@@ -2343,6 +2374,34 @@
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 20,
+      "image_status": "generated_card"
+    },
+    {
+      "id": "xsg-title-0bd4c0421c",
+      "title": "这跳槽速度真没见过",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 31 期标题中挖掘出的候选梗：这跳槽速度真没见过",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1ZZkNYoEhu",
+      "source_url": "https://www.bilibili.com/video/BV1ZZkNYoEhu",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 19,
       "image_status": "generated_card"
     },
     {
@@ -3670,6 +3729,34 @@
       "image_status": "generated_card"
     },
     {
+      "id": "xsg-title-9b347001f7",
+      "title": "赵子龙光速叛变",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 31 期标题中挖掘出的候选梗：赵子龙光速叛变",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1ZZkNYoEhu",
+      "source_url": "https://www.bilibili.com/video/BV1ZZkNYoEhu",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 17,
+      "image_status": "generated_card"
+    },
+    {
       "id": "xsg-title-db8e9469e9",
       "title": "让许褚砍他自己的爹娘，他都不皱眉头",
       "item_type": "meme",
@@ -4841,37 +4928,6 @@
       "image_status": "generated_card"
     },
     {
-      "id": "xsg-title-5265642bd9",
-      "title": "抽疯仍未停止",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 85 期标题中挖掘出的候选梗：抽疯仍未停止",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "发癫",
-        "吐槽"
-      ],
-      "tone": [
-        "吐槽",
-        "失控"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1dzRqYVEcR",
-      "source_url": "https://www.bilibili.com/video/BV1dzRqYVEcR",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 16,
-      "image_status": "generated_card"
-    },
-    {
       "id": "xsg-title-2b2995d5d5",
       "title": "山不～厌高，海不～厌深",
       "item_type": "meme",
@@ -5274,65 +5330,6 @@
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 16,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-64d85ad38e",
-      "title": "不小心剧本翻多了，应该没人在意吧",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 201 期标题中挖掘出的候选梗：不小心剧本翻多了，应该没人在意吧",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1nLU1BSEc2",
-      "source_url": "https://www.bilibili.com/video/BV1nLU1BSEc2",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 16,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-6e2ebc8afe",
-      "title": "黄哈哈笑死床前，陆伯言重回癫疯",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 242 期标题中挖掘出的候选梗：黄哈哈笑死床前，陆伯言重回癫疯",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗",
-        "发癫",
-        "吐槽"
-      ],
-      "tone": [
-        "吐槽",
-        "失控"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1FsZEBwEJf",
-      "source_url": "https://www.bilibili.com/video/BV1FsZEBwEJf",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 15,
       "image_status": "generated_card"
     }
   ]
