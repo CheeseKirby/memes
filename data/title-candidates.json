@@ -3401,6 +3401,34 @@
       "image_status": "generated_card"
     },
     {
+      "id": "xsg-title-05be493e5d",
+      "title": "兵法云，兵法教出的都是呆子",
+      "item_type": "meme",
+      "summary": "从吃蛋挞的折棒《吐槽新三国》第 71 期标题中挖掘出的候选梗：兵法云，兵法教出的都是呆子",
+      "aliases": [],
+      "tags": [
+        "新三国",
+        "折棒",
+        "标题挖掘",
+        "候选梗"
+      ],
+      "tone": [
+        "吐槽"
+      ],
+      "language": "zh",
+      "safe": true,
+      "usage": [
+        "作为新三国语境下的吐槽短句",
+        "需要人工复核后可提升为正式梗条目"
+      ],
+      "primary_bvid": "BV1UmRYYHEth",
+      "source_url": "https://www.bilibili.com/video/BV1UmRYYHEth",
+      "source_kind": "bilibili_title_candidate",
+      "curation_status": "title_mined",
+      "candidate_score": 18,
+      "image_status": "generated_card"
+    },
+    {
       "id": "xsg-title-0f7fd46ef8",
       "title": "关平受命伏杀张飞",
       "item_type": "meme",
@@ -5299,34 +5327,6 @@
       ],
       "primary_bvid": "BV19sX1BEEu6",
       "source_url": "https://www.bilibili.com/video/BV19sX1BEEu6",
-      "source_kind": "bilibili_title_candidate",
-      "curation_status": "title_mined",
-      "candidate_score": 16,
-      "image_status": "generated_card"
-    },
-    {
-      "id": "xsg-title-5140bd72cc",
-      "title": "今日端午佳节，大雪纷飞，可喜可贺",
-      "item_type": "meme",
-      "summary": "从吃蛋挞的折棒《吐槽新三国》第 75 期标题中挖掘出的候选梗：今日端午佳节，大雪纷飞，可喜可贺",
-      "aliases": [],
-      "tags": [
-        "新三国",
-        "折棒",
-        "标题挖掘",
-        "候选梗"
-      ],
-      "tone": [
-        "吐槽"
-      ],
-      "language": "zh",
-      "safe": true,
-      "usage": [
-        "作为新三国语境下的吐槽短句",
-        "需要人工复核后可提升为正式梗条目"
-      ],
-      "primary_bvid": "BV1osXTYWE2h",
-      "source_url": "https://www.bilibili.com/video/BV1osXTYWE2h",
       "source_kind": "bilibili_title_candidate",
       "curation_status": "title_mined",
       "candidate_score": 16,
