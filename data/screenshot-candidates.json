@@ -1,6 +1,6 @@
 {
   "schema": "https://github.com/CheeseKirby/memes/schema/screenshot-candidates/v1",
-  "updated_at": "2026-07-22T07:43:40Z",
+  "updated_at": "2026-07-23T07:44:51Z",
   "notes": [
     "这是一批明确梗的截图来源清单。",
     "B 站预览帧网格用于定位画面，也可由 scripts/generate_screenshots.py 自动裁图。",
